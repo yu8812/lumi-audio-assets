@@ -3,7 +3,7 @@
 	"title": "第十四卦 大有",
 	"language": "zh-TW",
 	"audio": "/audio/v2/short-stories/hex14.mp3",
-	"durationMs": 28820,
+	"durationMs": 29300,
 	"segments": [
 		{
 			"speaker": "說書人",
@@ -12,46 +12,46 @@
 			"endMs": 2180
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "大有元亨。",
 			"startMs": 2180,
 			"endMs": 4280
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "初九无交害,匪咎,艱則无咎。",
 			"startMs": 4280,
-			"endMs": 8960
+			"endMs": 8880
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "九二大車以載,有攸往,无咎。",
-			"startMs": 8960,
-			"endMs": 13320
+			"startMs": 8880,
+			"endMs": 13480
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "九三公用亨于天子,小人弗克。",
-			"startMs": 13320,
-			"endMs": 17680
+			"startMs": 13480,
+			"endMs": 18080
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "九四匪其彭,无咎。",
-			"startMs": 17680,
-			"endMs": 20620
+			"startMs": 18080,
+			"endMs": 20900
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "六五厥孚交如,威如,吉。",
-			"startMs": 20620,
-			"endMs": 24620
+			"startMs": 20900,
+			"endMs": 25300
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "上九自天祐之,吉无不利。",
-			"startMs": 24620,
-			"endMs": 28820
+			"startMs": 25300,
+			"endMs": 29300
 		}
 	]
 }

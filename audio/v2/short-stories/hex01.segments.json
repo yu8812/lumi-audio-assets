@@ -3,61 +3,61 @@
 	"title": "第一卦 乾",
 	"language": "zh-TW",
 	"audio": "/audio/v2/short-stories/hex01.mp3",
-	"durationMs": 30720,
+	"durationMs": 31280,
 	"segments": [
 		{
 			"speaker": "說書人",
 			"text": "第一卦,乾。",
 			"startMs": 0,
-			"endMs": 1740
+			"endMs": 1780
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "乾元、亨、利、貞。",
-			"startMs": 1740,
-			"endMs": 4880
+			"startMs": 1780,
+			"endMs": 5640
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "初九潛龍勿用。",
-			"startMs": 4880,
-			"endMs": 7580
+			"startMs": 5640,
+			"endMs": 8260
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "九二見龍在田,利見大人。",
-			"startMs": 7580,
-			"endMs": 11740
+			"startMs": 8260,
+			"endMs": 12380
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "九三君子終日乾乾,夕惕若厲,无咎。",
-			"startMs": 11740,
-			"endMs": 17420
+			"startMs": 12380,
+			"endMs": 17820
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "九四或躍在淵,无咎。",
-			"startMs": 17420,
-			"endMs": 20800
+			"startMs": 17820,
+			"endMs": 20760
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "九五飛龍在天,利見大人。",
-			"startMs": 20800,
-			"endMs": 24920
+			"startMs": 20760,
+			"endMs": 24760
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "上九亢龍有悔。",
-			"startMs": 24920,
-			"endMs": 27460
+			"startMs": 24760,
+			"endMs": 27540
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "用九見群龍无首,吉。",
-			"startMs": 27460,
-			"endMs": 30720
+			"startMs": 27540,
+			"endMs": 31280
 		}
 	]
 }

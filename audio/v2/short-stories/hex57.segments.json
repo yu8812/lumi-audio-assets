@@ -3,55 +3,55 @@
 	"title": "第五十七卦 巽",
 	"language": "zh-TW",
 	"audio": "/audio/v2/short-stories/hex57.mp3",
-	"durationMs": 36260,
+	"durationMs": 36140,
 	"segments": [
 		{
 			"speaker": "說書人",
 			"text": "第五十七卦,巽。",
 			"startMs": 0,
-			"endMs": 1980
+			"endMs": 1900
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "巽小亨,利有攸往,利見大人。",
-			"startMs": 1980,
-			"endMs": 6460
+			"startMs": 1900,
+			"endMs": 6380
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "初六進退,利武人之貞。",
-			"startMs": 6460,
-			"endMs": 10280
+			"startMs": 6380,
+			"endMs": 9920
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "九二巽在床下,用史巫紛若,吉,无咎。",
-			"startMs": 10280,
-			"endMs": 16220
+			"startMs": 9920,
+			"endMs": 15700
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "九三頻巽,吝。",
-			"startMs": 16220,
-			"endMs": 18800
+			"startMs": 15700,
+			"endMs": 18080
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "六四悔亡,田獲三品。",
-			"startMs": 18800,
-			"endMs": 22220
+			"startMs": 18080,
+			"endMs": 21540
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "九五貞吉,悔亡,无不利。无初有終。先庚三日,後庚三日,吉。",
-			"startMs": 22220,
-			"endMs": 31100
+			"startMs": 21540,
+			"endMs": 31180
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "上九巽在床下,喪其資斧,貞凶。",
-			"startMs": 31100,
-			"endMs": 36260
+			"startMs": 31180,
+			"endMs": 36140
 		}
 	]
 }

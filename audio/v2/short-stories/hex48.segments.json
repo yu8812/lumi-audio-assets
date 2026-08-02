@@ -3,55 +3,55 @@
 	"title": "第四十八卦 井",
 	"language": "zh-TW",
 	"audio": "/audio/v2/short-stories/hex48.mp3",
-	"durationMs": 37860,
+	"durationMs": 36540,
 	"segments": [
 		{
 			"speaker": "說書人",
 			"text": "第四十八卦,井。",
 			"startMs": 0,
-			"endMs": 2220
+			"endMs": 1940
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "井改邑不改井,无喪无得,往來井井。汔至,亦未繘井,羸其瓶,凶。",
-			"startMs": 2220,
-			"endMs": 11560
+			"startMs": 1940,
+			"endMs": 11040
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "初六井泥不食,舊井无禽。",
-			"startMs": 11560,
-			"endMs": 15880
+			"startMs": 11040,
+			"endMs": 14880
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "九二井谷射鮒,甕敝漏。",
-			"startMs": 15880,
-			"endMs": 19660
+			"startMs": 14880,
+			"endMs": 18580
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "九三井渫不食,為我心惻,可用汲。王明,並受其福。",
-			"startMs": 19660,
-			"endMs": 27420
+			"startMs": 18580,
+			"endMs": 26140
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "六四井甃,无咎。",
-			"startMs": 27420,
-			"endMs": 30600
+			"startMs": 26140,
+			"endMs": 29080
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "九五井冽,寒泉食。",
-			"startMs": 30600,
-			"endMs": 33780
+			"startMs": 29080,
+			"endMs": 32540
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "上六井收勿幕,有孚元吉。",
-			"startMs": 33780,
-			"endMs": 37860
+			"startMs": 32540,
+			"endMs": 36540
 		}
 	]
 }

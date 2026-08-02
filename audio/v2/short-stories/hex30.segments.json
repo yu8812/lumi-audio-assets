@@ -3,55 +3,55 @@
 	"title": "第三十卦 離",
 	"language": "zh-TW",
 	"audio": "/audio/v2/short-stories/hex30.mp3",
-	"durationMs": 35740,
+	"durationMs": 34740,
 	"segments": [
 		{
 			"speaker": "說書人",
 			"text": "第三十卦,離。",
 			"startMs": 0,
-			"endMs": 2060
+			"endMs": 1900
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "離利貞,亨。畜牝牛吉。",
-			"startMs": 2060,
-			"endMs": 6300
+			"startMs": 1900,
+			"endMs": 5620
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "初九履錯然,敬之,无咎。",
-			"startMs": 6300,
-			"endMs": 10320
+			"startMs": 5620,
+			"endMs": 9760
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "六二黃離,元吉。",
-			"startMs": 10320,
-			"endMs": 13140
+			"startMs": 9760,
+			"endMs": 12860
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "九三日昃之離,不鼓缶而歌,則大耋之嗟,凶。",
-			"startMs": 13140,
-			"endMs": 19440
+			"startMs": 12860,
+			"endMs": 18720
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "九四突如其來如,焚如,死如,棄如。",
-			"startMs": 19440,
-			"endMs": 25280
+			"startMs": 18720,
+			"endMs": 24360
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "六五出涕沱若,戚嗟若,吉。",
-			"startMs": 25280,
-			"endMs": 29600
+			"startMs": 24360,
+			"endMs": 28480
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "上九王用出征,有嘉折首,獲匪其醜,无咎。",
-			"startMs": 29600,
-			"endMs": 35740
+			"startMs": 28480,
+			"endMs": 34740
 		}
 	]
 }

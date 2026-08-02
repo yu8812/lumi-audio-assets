@@ -3,7 +3,7 @@
 	"title": "第五十三卦 漸",
 	"language": "zh-TW",
 	"audio": "/audio/v2/short-stories/hex53.mp3",
-	"durationMs": 38460,
+	"durationMs": 38100,
 	"segments": [
 		{
 			"speaker": "說書人",
@@ -12,46 +12,46 @@
 			"endMs": 2140
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "漸女歸吉,利貞。",
 			"startMs": 2140,
-			"endMs": 5200
+			"endMs": 5240
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "初六鴻漸于干,小子厲,有言,无咎。",
-			"startMs": 5200,
-			"endMs": 10800
+			"startMs": 5240,
+			"endMs": 10880
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "六二鴻漸于磐,飲食衎衎,吉。",
-			"startMs": 10800,
-			"endMs": 15200
+			"startMs": 10880,
+			"endMs": 15160
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "九三鴻漸于陸,夫征不復,婦孕不育,凶。利禦寇。",
-			"startMs": 15200,
-			"endMs": 22880
+			"startMs": 15160,
+			"endMs": 22320
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "六四鴻漸于木,或得其桷,无咎。",
-			"startMs": 22880,
-			"endMs": 27400
+			"startMs": 22320,
+			"endMs": 26680
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "九五鴻漸于陵,婦三歲不孕,終莫之勝,吉。",
-			"startMs": 27400,
-			"endMs": 33620
+			"startMs": 26680,
+			"endMs": 33180
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "上九鴻漸于陸,其羽可用為儀,吉。",
-			"startMs": 33620,
-			"endMs": 38460
+			"startMs": 33180,
+			"endMs": 38100
 		}
 	]
 }

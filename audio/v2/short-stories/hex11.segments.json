@@ -3,55 +3,55 @@
 	"title": "第十一卦 泰",
 	"language": "zh-TW",
 	"audio": "/audio/v2/short-stories/hex11.mp3",
-	"durationMs": 40460,
+	"durationMs": 41100,
 	"segments": [
 		{
 			"speaker": "說書人",
 			"text": "第十一卦,泰。",
 			"startMs": 0,
-			"endMs": 1980
+			"endMs": 1780
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "泰小往大來,吉亨。",
-			"startMs": 1980,
-			"endMs": 5320
+			"startMs": 1780,
+			"endMs": 5240
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "初九拔茅茹,以其彙,征吉。",
-			"startMs": 5320,
-			"endMs": 9500
+			"startMs": 5240,
+			"endMs": 9740
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "九二包荒,用馮河,不遐遺,朋亡,得尚于中行。",
-			"startMs": 9500,
-			"endMs": 16480
+			"startMs": 9740,
+			"endMs": 17040
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "九三无平不陂,无往不復,艱貞无咎。勿恤其孚,于食有福。",
-			"startMs": 16480,
-			"endMs": 25060
+			"startMs": 17040,
+			"endMs": 25220
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "六四翩翩不富,以其鄰,不戒以孚。",
-			"startMs": 25060,
-			"endMs": 30180
+			"startMs": 25220,
+			"endMs": 30300
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "六五帝乙歸妹,以祉元吉。",
-			"startMs": 30180,
-			"endMs": 34100
+			"startMs": 30300,
+			"endMs": 34460
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "上六城復于隍,勿用師。自邑告命,貞吝。",
-			"startMs": 34100,
-			"endMs": 40460
+			"startMs": 34460,
+			"endMs": 41100
 		}
 	]
 }

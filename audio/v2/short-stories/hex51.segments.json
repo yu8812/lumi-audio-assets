@@ -3,55 +3,55 @@
 	"title": "第五十一卦 震",
 	"language": "zh-TW",
 	"audio": "/audio/v2/short-stories/hex51.mp3",
-	"durationMs": 40920,
+	"durationMs": 42880,
 	"segments": [
 		{
 			"speaker": "說書人",
 			"text": "第五十一卦,震。",
 			"startMs": 0,
-			"endMs": 1940
+			"endMs": 2060
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "震亨。震來虩虩,笑言啞啞。震驚百里,不喪匕鬯。",
-			"startMs": 1940,
-			"endMs": 9140
+			"startMs": 2060,
+			"endMs": 9740
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "初九震來虩虩,後笑言啞啞,吉。",
-			"startMs": 9140,
-			"endMs": 13900
+			"startMs": 9740,
+			"endMs": 14660
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "六二震來厲,億喪貝,躋于九陵,勿逐,七日得。",
-			"startMs": 13900,
-			"endMs": 20800
+			"startMs": 14660,
+			"endMs": 21840
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "六三震蘇蘇,震行无眚。",
-			"startMs": 20800,
-			"endMs": 24700
+			"startMs": 21840,
+			"endMs": 25660
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "九四震遂泥。",
-			"startMs": 24700,
-			"endMs": 27200
+			"startMs": 25660,
+			"endMs": 28560
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "六五震往來厲,億无喪,有事。",
-			"startMs": 27200,
-			"endMs": 31760
+			"startMs": 28560,
+			"endMs": 33200
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "上六震索索,視矍矍,征凶。震不于其躬,于其鄰,无咎。婚媾有言。",
-			"startMs": 31760,
-			"endMs": 40920
+			"startMs": 33200,
+			"endMs": 42880
 		}
 	]
 }

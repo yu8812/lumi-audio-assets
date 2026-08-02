@@ -3,7 +3,7 @@
 	"title": "第六十一卦 中孚",
 	"language": "zh-TW",
 	"audio": "/audio/v2/short-stories/hex61.mp3",
-	"durationMs": 34520,
+	"durationMs": 33760,
 	"segments": [
 		{
 			"speaker": "說書人",
@@ -12,46 +12,46 @@
 			"endMs": 2380
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "中孚豚魚吉,利涉大川,利貞。",
 			"startMs": 2380,
-			"endMs": 7040
+			"endMs": 7080
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "初九虞吉,有它不燕。",
-			"startMs": 7040,
-			"endMs": 10380
+			"startMs": 7080,
+			"endMs": 10500
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "九二鳴鶴在陰,其子和之。我有好爵,吾與爾靡之。",
-			"startMs": 10380,
-			"endMs": 17860
+			"startMs": 10500,
+			"endMs": 17060
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "六三得敵,或鼓或罷,或泣或歌。",
-			"startMs": 17860,
-			"endMs": 23300
+			"startMs": 17060,
+			"endMs": 21980
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "六四月幾望,馬匹亡,无咎。",
-			"startMs": 23300,
-			"endMs": 27480
+			"startMs": 21980,
+			"endMs": 26240
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "九五有孚攣如,无咎。",
-			"startMs": 27480,
-			"endMs": 30860
+			"startMs": 26240,
+			"endMs": 29820
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "上九翰音登于天,貞凶。",
-			"startMs": 30860,
-			"endMs": 34520
+			"startMs": 29820,
+			"endMs": 33760
 		}
 	]
 }

@@ -3,55 +3,55 @@
 	"title": "第二十卦 觀",
 	"language": "zh-TW",
 	"audio": "/audio/v2/short-stories/hex20.mp3",
-	"durationMs": 27840,
+	"durationMs": 28240,
 	"segments": [
 		{
 			"speaker": "說書人",
 			"text": "第二十卦,觀。",
 			"startMs": 0,
-			"endMs": 1820
+			"endMs": 1860
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "觀盥而不薦,有孚顒若。",
-			"startMs": 1820,
-			"endMs": 5580
+			"startMs": 1860,
+			"endMs": 5540
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "初六童觀,小人无咎,君子吝。",
-			"startMs": 5580,
-			"endMs": 9880
+			"startMs": 5540,
+			"endMs": 10120
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "六二闚觀,利女貞。",
-			"startMs": 9880,
-			"endMs": 13020
+			"startMs": 10120,
+			"endMs": 13260
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "六三觀我生,進退。",
-			"startMs": 13020,
-			"endMs": 16320
+			"startMs": 13260,
+			"endMs": 16440
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "六四觀國之光,利用賓于王。",
-			"startMs": 16320,
-			"endMs": 20680
+			"startMs": 16440,
+			"endMs": 20640
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "九五觀我生,君子无咎。",
-			"startMs": 20680,
-			"endMs": 24100
+			"startMs": 20640,
+			"endMs": 24380
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "上九觀其生,君子无咎。",
-			"startMs": 24100,
-			"endMs": 27840
+			"startMs": 24380,
+			"endMs": 28240
 		}
 	]
 }

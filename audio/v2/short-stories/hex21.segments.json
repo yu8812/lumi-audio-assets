@@ -3,55 +3,55 @@
 	"title": "第二十一卦 噬嗑",
 	"language": "zh-TW",
 	"audio": "/audio/v2/short-stories/hex21.mp3",
-	"durationMs": 30580,
+	"durationMs": 30340,
 	"segments": [
 		{
 			"speaker": "說書人",
 			"text": "第二十一卦,噬嗑。",
 			"startMs": 0,
-			"endMs": 2340
+			"endMs": 2060
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "噬嗑亨。利用獄。",
-			"startMs": 2340,
-			"endMs": 5600
+			"startMs": 2060,
+			"endMs": 5440
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "初九屨校滅趾,无咎。",
-			"startMs": 5600,
-			"endMs": 8740
+			"startMs": 5440,
+			"endMs": 8420
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "六二噬膚滅鼻,无咎。",
-			"startMs": 8740,
-			"endMs": 12080
+			"startMs": 8420,
+			"endMs": 11720
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "六三噬腊肉,遇毒。小吝,无咎。",
-			"startMs": 12080,
-			"endMs": 17480
+			"startMs": 11720,
+			"endMs": 16880
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "九四噬乾胏,得金矢。利艱貞,吉。",
-			"startMs": 17480,
-			"endMs": 22640
+			"startMs": 16880,
+			"endMs": 22000
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "六五噬乾肉,得黃金。貞厲,无咎。",
-			"startMs": 22640,
-			"endMs": 27640
+			"startMs": 22000,
+			"endMs": 27360
 		},
 		{
-			"speaker": "讀者",
+			"speaker": "說書人",
 			"text": "上九何校滅耳,凶。",
-			"startMs": 27640,
-			"endMs": 30580
+			"startMs": 27360,
+			"endMs": 30340
 		}
 	]
 }

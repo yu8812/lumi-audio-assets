@@ -1,0 +1,63 @@
+{
+	"slug": "sample-shuoshu",
+	"title": "第一卦 乾",
+	"language": "zh-TW",
+	"audio": "/audio/v2/short-stories/sample-shuoshu.mp3",
+	"durationMs": 30960,
+	"segments": [
+		{
+			"speaker": "說書人",
+			"text": "第一卦,乾。",
+			"startMs": 0,
+			"endMs": 1700
+		},
+		{
+			"speaker": "讀者",
+			"text": "乾元、亨、利、貞。",
+			"startMs": 1700,
+			"endMs": 4880
+		},
+		{
+			"speaker": "讀者",
+			"text": "初九潛龍勿用。",
+			"startMs": 4880,
+			"endMs": 7700
+		},
+		{
+			"speaker": "讀者",
+			"text": "九二見龍在田,利見大人。",
+			"startMs": 7700,
+			"endMs": 11980
+		},
+		{
+			"speaker": "讀者",
+			"text": "九三君子終日乾乾,夕惕若厲,无咎。",
+			"startMs": 11980,
+			"endMs": 17620
+		},
+		{
+			"speaker": "讀者",
+			"text": "九四或躍在淵,无咎。",
+			"startMs": 17620,
+			"endMs": 21120
+		},
+		{
+			"speaker": "讀者",
+			"text": "九五飛龍在天,利見大人。",
+			"startMs": 21120,
+			"endMs": 25200
+		},
+		{
+			"speaker": "讀者",
+			"text": "上九亢龍有悔。",
+			"startMs": 25200,
+			"endMs": 27740
+		},
+		{
+			"speaker": "讀者",
+			"text": "用九見群龍无首,吉。",
+			"startMs": 27740,
+			"endMs": 30960
+		}
+	]
+}
