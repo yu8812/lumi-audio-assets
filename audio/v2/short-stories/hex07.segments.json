@@ -1,0 +1,57 @@
+{
+	"slug": "hex07",
+	"title": "第七卦 師",
+	"language": "zh-TW",
+	"audio": "/audio/v2/short-stories/hex07.mp3",
+	"durationMs": 34100,
+	"segments": [
+		{
+			"speaker": "說書人",
+			"text": "第七卦,師。",
+			"startMs": 0,
+			"endMs": 1340
+		},
+		{
+			"speaker": "讀者",
+			"text": "師貞,丈人吉,无咎。",
+			"startMs": 1340,
+			"endMs": 4640
+		},
+		{
+			"speaker": "讀者",
+			"text": "初六師出以律,否臧凶。",
+			"startMs": 4640,
+			"endMs": 8780
+		},
+		{
+			"speaker": "讀者",
+			"text": "九二在師中,吉,无咎,王三錫命。",
+			"startMs": 8780,
+			"endMs": 13740
+		},
+		{
+			"speaker": "讀者",
+			"text": "六三師或輿尸,凶。",
+			"startMs": 13740,
+			"endMs": 17120
+		},
+		{
+			"speaker": "讀者",
+			"text": "六四師左次,无咎。",
+			"startMs": 17120,
+			"endMs": 20580
+		},
+		{
+			"speaker": "讀者",
+			"text": "六五田有禽,利執言,无咎。長子帥師,弟子輿尸,貞凶。",
+			"startMs": 20580,
+			"endMs": 28600
+		},
+		{
+			"speaker": "讀者",
+			"text": "上六大君有命,開國承家,小人勿用。",
+			"startMs": 28600,
+			"endMs": 34100
+		}
+	]
+}

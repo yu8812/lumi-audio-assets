@@ -1,0 +1,57 @@
+{
+	"slug": "hex12",
+	"title": "第十二卦 否",
+	"language": "zh-TW",
+	"audio": "/audio/v2/short-stories/hex12.mp3",
+	"durationMs": 31900,
+	"segments": [
+		{
+			"speaker": "說書人",
+			"text": "第十二卦,否。",
+			"startMs": 0,
+			"endMs": 1300
+		},
+		{
+			"speaker": "讀者",
+			"text": "否之匪人,不利君子貞,大往小來。",
+			"startMs": 1300,
+			"endMs": 5840
+		},
+		{
+			"speaker": "讀者",
+			"text": "初六拔茅茹,以其彙,貞吉亨。",
+			"startMs": 5840,
+			"endMs": 10580
+		},
+		{
+			"speaker": "讀者",
+			"text": "六二包承,小人吉,大人否亨。",
+			"startMs": 10580,
+			"endMs": 15540
+		},
+		{
+			"speaker": "讀者",
+			"text": "六三包羞。",
+			"startMs": 15540,
+			"endMs": 17960
+		},
+		{
+			"speaker": "讀者",
+			"text": "九四有命无咎,疇離祉。",
+			"startMs": 17960,
+			"endMs": 21860
+		},
+		{
+			"speaker": "讀者",
+			"text": "九五休否,大人吉。其亡其亡,繫于苞桑。",
+			"startMs": 21860,
+			"endMs": 28080
+		},
+		{
+			"speaker": "讀者",
+			"text": "上九傾否,先否後喜。",
+			"startMs": 28080,
+			"endMs": 31900
+		}
+	]
+}

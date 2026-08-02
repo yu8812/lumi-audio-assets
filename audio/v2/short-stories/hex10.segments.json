@@ -1,0 +1,57 @@
+{
+	"slug": "hex10",
+	"title": "第十卦 履",
+	"language": "zh-TW",
+	"audio": "/audio/v2/short-stories/hex10.mp3",
+	"durationMs": 32200,
+	"segments": [
+		{
+			"speaker": "說書人",
+			"text": "第十卦,履。",
+			"startMs": 0,
+			"endMs": 1780
+		},
+		{
+			"speaker": "讀者",
+			"text": "履虎尾,不咥人,亨。",
+			"startMs": 1780,
+			"endMs": 4480
+		},
+		{
+			"speaker": "讀者",
+			"text": "初九素履,往无咎。",
+			"startMs": 4480,
+			"endMs": 7660
+		},
+		{
+			"speaker": "讀者",
+			"text": "九二履道坦坦,幽人貞吉。",
+			"startMs": 7660,
+			"endMs": 11940
+		},
+		{
+			"speaker": "讀者",
+			"text": "六三眇能視,跛能履,履虎尾,咥人,凶。武人為于大君。",
+			"startMs": 11940,
+			"endMs": 20200
+		},
+		{
+			"speaker": "讀者",
+			"text": "九四履虎尾,愬愬,終吉。",
+			"startMs": 20200,
+			"endMs": 24580
+		},
+		{
+			"speaker": "讀者",
+			"text": "九五夬履,貞厲。",
+			"startMs": 24580,
+			"endMs": 27720
+		},
+		{
+			"speaker": "讀者",
+			"text": "上九視履考祥,其旋元吉。",
+			"startMs": 27720,
+			"endMs": 32200
+		}
+	]
+}

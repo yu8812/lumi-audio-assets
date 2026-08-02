@@ -1,0 +1,57 @@
+{
+	"slug": "hex19",
+	"title": "第十九卦 臨",
+	"language": "zh-TW",
+	"audio": "/audio/v2/short-stories/hex19.mp3",
+	"durationMs": 28040,
+	"segments": [
+		{
+			"speaker": "說書人",
+			"text": "第十九卦,臨。",
+			"startMs": 0,
+			"endMs": 1860
+		},
+		{
+			"speaker": "讀者",
+			"text": "臨元亨利貞。至于八月有凶。",
+			"startMs": 1860,
+			"endMs": 6220
+		},
+		{
+			"speaker": "讀者",
+			"text": "初九咸臨,貞吉。",
+			"startMs": 6220,
+			"endMs": 9080
+		},
+		{
+			"speaker": "讀者",
+			"text": "九二咸臨,吉,无不利。",
+			"startMs": 9080,
+			"endMs": 12660
+		},
+		{
+			"speaker": "讀者",
+			"text": "六三甘臨,无攸利。既憂之,无咎。",
+			"startMs": 12660,
+			"endMs": 17660
+		},
+		{
+			"speaker": "讀者",
+			"text": "六四至臨,无咎。",
+			"startMs": 17660,
+			"endMs": 20760
+		},
+		{
+			"speaker": "讀者",
+			"text": "六五知臨,大君之宜,吉。",
+			"startMs": 20760,
+			"endMs": 24620
+		},
+		{
+			"speaker": "讀者",
+			"text": "上六敦臨,吉,无咎。",
+			"startMs": 24620,
+			"endMs": 28040
+		}
+	]
+}

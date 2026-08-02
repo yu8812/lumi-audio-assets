@@ -1,0 +1,57 @@
+{
+	"slug": "hex08",
+	"title": "第八卦 比",
+	"language": "zh-TW",
+	"audio": "/audio/v2/short-stories/hex08.mp3",
+	"durationMs": 34740,
+	"segments": [
+		{
+			"speaker": "說書人",
+			"text": "第八卦,比。",
+			"startMs": 0,
+			"endMs": 1460
+		},
+		{
+			"speaker": "讀者",
+			"text": "比吉。原筮,元永貞,无咎。不寧方來,後夫凶。",
+			"startMs": 1460,
+			"endMs": 8360
+		},
+		{
+			"speaker": "讀者",
+			"text": "初六有孚比之,无咎。有孚盈缶,終來有它,吉。",
+			"startMs": 8360,
+			"endMs": 15580
+		},
+		{
+			"speaker": "讀者",
+			"text": "六二比之自內,貞吉。",
+			"startMs": 15580,
+			"endMs": 19080
+		},
+		{
+			"speaker": "讀者",
+			"text": "六三比之匪人。",
+			"startMs": 19080,
+			"endMs": 21860
+		},
+		{
+			"speaker": "讀者",
+			"text": "六四外比之,貞吉。",
+			"startMs": 21860,
+			"endMs": 25240
+		},
+		{
+			"speaker": "讀者",
+			"text": "九五顯比。王用三驅,失前禽,邑人不誡,吉。",
+			"startMs": 25240,
+			"endMs": 31640
+		},
+		{
+			"speaker": "讀者",
+			"text": "上六比之无首,凶。",
+			"startMs": 31640,
+			"endMs": 34740
+		}
+	]
+}
