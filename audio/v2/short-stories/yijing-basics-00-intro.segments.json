@@ -1,0 +1,39 @@
+{
+	"slug": "yijing-basics-00-intro",
+	"title": "00 · 導讀:這本書怎麼用",
+	"language": "zh-TW",
+	"audio": "/audio/v2/short-stories/yijing-basics-00-intro.mp3",
+	"durationMs": 41260,
+	"segments": [
+		{
+			"speaker": "說書人",
+			"text": "00 · 導讀:這本書怎麼用。",
+			"startMs": 0,
+			"endMs": 3020
+		},
+		{
+			"speaker": "說書人",
+			"text": "你會學到什麼。",
+			"startMs": 3020,
+			"endMs": 4480
+		},
+		{
+			"speaker": "說書人",
+			"text": "《易經》是一套用六十四個符號描述「情勢與變化」的古老系統。這本書不談算命吉凶的迷信面,而是把它當成三樣東西來學:",
+			"startMs": 4480,
+			"endMs": 17020
+		},
+		{
+			"speaker": "說書人",
+			"text": "一套符號語言 — 陰爻、陽爻、八卦、六十四卦,規則其實比你想像的簡單。一部處世文本 — 卦辭與爻辭裡濃縮的判斷:何時進、何時守、何時退。一份文化底層 — 「否極泰來」「亢龍有悔」「自強不息」都出自這裡。",
+			"startMs": 17020,
+			"endMs": 39960
+		},
+		{
+			"speaker": "說書人",
+			"text": "學習路線。",
+			"startMs": 39960,
+			"endMs": 41260
+		}
+	]
+}
