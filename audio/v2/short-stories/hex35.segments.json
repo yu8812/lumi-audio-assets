@@ -3,55 +3,55 @@
 	"title": "第三十五卦 晉",
 	"language": "zh-TW",
 	"audio": "/audio/v2/short-stories/hex35.mp3",
-	"durationMs": 39040,
+	"durationMs": 32840,
 	"segments": [
 		{
 			"speaker": "說書人",
 			"text": "第三十五卦,晉。",
 			"startMs": 0,
-			"endMs": 2140
+			"endMs": 1780
 		},
 		{
 			"speaker": "說書人",
 			"text": "晉康侯用錫馬蕃庶,晝日三接。",
-			"startMs": 2140,
-			"endMs": 7100
+			"startMs": 1780,
+			"endMs": 6220
 		},
 		{
 			"speaker": "說書人",
 			"text": "初六晉如摧如,貞吉。罔孚,裕无咎。",
-			"startMs": 7100,
-			"endMs": 12980
+			"startMs": 6220,
+			"endMs": 11540
 		},
 		{
 			"speaker": "說書人",
 			"text": "六二晉如愁如,貞吉。受茲介福,于其王母。",
-			"startMs": 12980,
-			"endMs": 19720
+			"startMs": 11540,
+			"endMs": 17360
 		},
 		{
 			"speaker": "說書人",
 			"text": "六三眾允,悔亡。",
-			"startMs": 19720,
-			"endMs": 22780
+			"startMs": 17360,
+			"endMs": 19900
 		},
 		{
 			"speaker": "說書人",
 			"text": "九四晉如鼫鼠,貞厲。",
-			"startMs": 22780,
-			"endMs": 26320
+			"startMs": 19900,
+			"endMs": 23160
 		},
 		{
 			"speaker": "說書人",
 			"text": "六五悔亡,失得勿恤,往吉,无不利。",
-			"startMs": 26320,
-			"endMs": 32240
+			"startMs": 23160,
+			"endMs": 27600
 		},
 		{
 			"speaker": "說書人",
 			"text": "上九晉其角,維用伐邑,厲吉,无咎,貞吝。",
-			"startMs": 32240,
-			"endMs": 39040
+			"startMs": 27600,
+			"endMs": 32840
 		}
 	]
 }

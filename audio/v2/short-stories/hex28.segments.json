@@ -3,55 +3,55 @@
 	"title": "第二十八卦 大過",
 	"language": "zh-TW",
 	"audio": "/audio/v2/short-stories/hex28.mp3",
-	"durationMs": 33520,
+	"durationMs": 28000,
 	"segments": [
 		{
 			"speaker": "說書人",
 			"text": "第二十八卦,大過。",
 			"startMs": 0,
-			"endMs": 2340
+			"endMs": 1820
 		},
 		{
 			"speaker": "說書人",
 			"text": "大過棟橈。利有攸往,亨。",
-			"startMs": 2340,
-			"endMs": 6880
+			"startMs": 1820,
+			"endMs": 5280
 		},
 		{
 			"speaker": "說書人",
 			"text": "初六藉用白茅,无咎。",
-			"startMs": 6880,
-			"endMs": 11020
+			"startMs": 5280,
+			"endMs": 8180
 		},
 		{
 			"speaker": "說書人",
 			"text": "九二枯楊生稊,老夫得其女妻,无不利。",
-			"startMs": 11020,
-			"endMs": 16580
+			"startMs": 8180,
+			"endMs": 13300
 		},
 		{
 			"speaker": "說書人",
 			"text": "九三棟橈,凶。",
-			"startMs": 16580,
-			"endMs": 18920
+			"startMs": 13300,
+			"endMs": 15680
 		},
 		{
 			"speaker": "說書人",
 			"text": "九四棟隆,吉。有它吝。",
-			"startMs": 18920,
-			"endMs": 23180
+			"startMs": 15680,
+			"endMs": 18940
 		},
 		{
 			"speaker": "說書人",
 			"text": "九五枯楊生華,老婦得其士夫,无咎无譽。",
-			"startMs": 23180,
-			"endMs": 29320
+			"startMs": 18940,
+			"endMs": 24320
 		},
 		{
 			"speaker": "說書人",
 			"text": "上六過涉滅頂,凶,无咎。",
-			"startMs": 29320,
-			"endMs": 33520
+			"startMs": 24320,
+			"endMs": 28000
 		}
 	]
 }

@@ -3,55 +3,55 @@
 	"title": "第四十六卦 升",
 	"language": "zh-TW",
 	"audio": "/audio/v2/short-stories/hex46.mp3",
-	"durationMs": 28000,
+	"durationMs": 25240,
 	"segments": [
 		{
 			"speaker": "說書人",
 			"text": "第四十六卦,升。",
 			"startMs": 0,
-			"endMs": 1980
+			"endMs": 1820
 		},
 		{
 			"speaker": "說書人",
 			"text": "升元亨,用見大人,勿恤,南征吉。",
-			"startMs": 1980,
-			"endMs": 7420
+			"startMs": 1820,
+			"endMs": 6460
 		},
 		{
 			"speaker": "說書人",
 			"text": "初六允升,大吉。",
-			"startMs": 7420,
-			"endMs": 10320
+			"startMs": 6460,
+			"endMs": 9200
 		},
 		{
 			"speaker": "說書人",
 			"text": "九二孚乃利用禴,无咎。",
-			"startMs": 10320,
-			"endMs": 13980
+			"startMs": 9200,
+			"endMs": 12180
 		},
 		{
 			"speaker": "說書人",
 			"text": "九三升虛邑。",
-			"startMs": 13980,
-			"endMs": 16400
+			"startMs": 12180,
+			"endMs": 14560
 		},
 		{
 			"speaker": "說書人",
 			"text": "六四王用亨于岐山,吉,无咎。",
-			"startMs": 16400,
-			"endMs": 21280
+			"startMs": 14560,
+			"endMs": 19000
 		},
 		{
 			"speaker": "說書人",
 			"text": "六五貞吉,升階。",
-			"startMs": 21280,
-			"endMs": 23900
+			"startMs": 19000,
+			"endMs": 21820
 		},
 		{
 			"speaker": "說書人",
 			"text": "上六冥升,利于不息之貞。",
-			"startMs": 23900,
-			"endMs": 28000
+			"startMs": 21820,
+			"endMs": 25240
 		}
 	]
 }

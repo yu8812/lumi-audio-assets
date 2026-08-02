@@ -3,55 +3,55 @@
 	"title": "第四十三卦 夬",
 	"language": "zh-TW",
 	"audio": "/audio/v2/short-stories/hex43.mp3",
-	"durationMs": 41120,
+	"durationMs": 36480,
 	"segments": [
 		{
 			"speaker": "說書人",
 			"text": "第四十三卦,夬。",
 			"startMs": 0,
-			"endMs": 2220
+			"endMs": 1820
 		},
 		{
 			"speaker": "說書人",
 			"text": "夬揚于王庭,孚號有厲。告自邑,不利即戎,利有攸往。",
-			"startMs": 2220,
-			"endMs": 10140
+			"startMs": 1820,
+			"endMs": 8580
 		},
 		{
 			"speaker": "說書人",
 			"text": "初九壯于前趾,往不勝為咎。",
-			"startMs": 10140,
-			"endMs": 14220
+			"startMs": 8580,
+			"endMs": 12500
 		},
 		{
 			"speaker": "說書人",
 			"text": "九二惕號,莫夜有戎,勿恤。",
-			"startMs": 14220,
-			"endMs": 18600
+			"startMs": 12500,
+			"endMs": 16040
 		},
 		{
 			"speaker": "說書人",
 			"text": "九三壯于頄,有凶。君子夬夬,獨行遇雨,若濡有慍,无咎。",
-			"startMs": 18600,
-			"endMs": 27280
+			"startMs": 16040,
+			"endMs": 23080
 		},
 		{
 			"speaker": "說書人",
 			"text": "九四臀无膚,其行次且。牽羊悔亡,聞言不信。",
-			"startMs": 27280,
-			"endMs": 34020
+			"startMs": 23080,
+			"endMs": 29380
 		},
 		{
 			"speaker": "說書人",
 			"text": "九五莧陸夬夬,中行无咎。",
-			"startMs": 34020,
-			"endMs": 37900
+			"startMs": 29380,
+			"endMs": 33820
 		},
 		{
 			"speaker": "說書人",
 			"text": "上六无號,終有凶。",
-			"startMs": 37900,
-			"endMs": 41120
+			"startMs": 33820,
+			"endMs": 36480
 		}
 	]
 }

@@ -3,55 +3,55 @@
 	"title": "第三十二卦 恆",
 	"language": "zh-TW",
 	"audio": "/audio/v2/short-stories/hex32.mp3",
-	"durationMs": 28460,
+	"durationMs": 25460,
 	"segments": [
 		{
 			"speaker": "說書人",
 			"text": "第三十二卦,恆。",
 			"startMs": 0,
-			"endMs": 2140
+			"endMs": 1940
 		},
 		{
 			"speaker": "說書人",
 			"text": "恆亨,无咎,利貞,利有攸往。",
-			"startMs": 2140,
-			"endMs": 7100
+			"startMs": 1940,
+			"endMs": 6020
 		},
 		{
 			"speaker": "說書人",
 			"text": "初六浚恆,貞凶,无攸利。",
-			"startMs": 7100,
-			"endMs": 11120
+			"startMs": 6020,
+			"endMs": 9320
 		},
 		{
 			"speaker": "說書人",
 			"text": "九二悔亡。",
-			"startMs": 11120,
-			"endMs": 13180
+			"startMs": 9320,
+			"endMs": 11420
 		},
 		{
 			"speaker": "說書人",
 			"text": "九三不恆其德,或承之羞,貞吝。",
-			"startMs": 13180,
-			"endMs": 18140
+			"startMs": 11420,
+			"endMs": 15900
 		},
 		{
 			"speaker": "說書人",
 			"text": "九四田无禽。",
-			"startMs": 18140,
-			"endMs": 20560
+			"startMs": 15900,
+			"endMs": 18400
 		},
 		{
 			"speaker": "說書人",
 			"text": "六五恆其德,貞,婦人吉,夫子凶。",
-			"startMs": 20560,
-			"endMs": 26000
+			"startMs": 18400,
+			"endMs": 22960
 		},
 		{
 			"speaker": "說書人",
 			"text": "上六振恆,凶。",
-			"startMs": 26000,
-			"endMs": 28460
+			"startMs": 22960,
+			"endMs": 25460
 		}
 	]
 }

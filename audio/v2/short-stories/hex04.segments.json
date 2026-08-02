@@ -3,55 +3,55 @@
 	"title": "第四卦 蒙",
 	"language": "zh-TW",
 	"audio": "/audio/v2/short-stories/hex04.mp3",
-	"durationMs": 38180,
+	"durationMs": 31580,
 	"segments": [
 		{
 			"speaker": "說書人",
 			"text": "第四卦,蒙。",
 			"startMs": 0,
-			"endMs": 1780
+			"endMs": 1300
 		},
 		{
 			"speaker": "說書人",
 			"text": "蒙亨。匪我求童蒙,童蒙求我。初筮告,再三瀆,瀆則不告。利貞。",
-			"startMs": 1780,
-			"endMs": 11460
+			"startMs": 1300,
+			"endMs": 9420
 		},
 		{
 			"speaker": "說書人",
 			"text": "初六發蒙,利用刑人,用說桎梏,以往吝。",
-			"startMs": 11460,
-			"endMs": 17580
+			"startMs": 9420,
+			"endMs": 14180
 		},
 		{
 			"speaker": "說書人",
 			"text": "九二包蒙吉。納婦吉,子克家。",
-			"startMs": 17580,
-			"endMs": 22360
+			"startMs": 14180,
+			"endMs": 18200
 		},
 		{
 			"speaker": "說書人",
 			"text": "六三勿用取女,見金夫,不有躬,无攸利。",
-			"startMs": 22360,
-			"endMs": 28160
+			"startMs": 18200,
+			"endMs": 23080
 		},
 		{
 			"speaker": "說書人",
 			"text": "六四困蒙,吝。",
-			"startMs": 28160,
-			"endMs": 30500
+			"startMs": 23080,
+			"endMs": 25580
 		},
 		{
 			"speaker": "說書人",
 			"text": "六五童蒙,吉。",
-			"startMs": 30500,
-			"endMs": 33000
+			"startMs": 25580,
+			"endMs": 27880
 		},
 		{
 			"speaker": "說書人",
 			"text": "上九擊蒙,不利為寇,利禦寇。",
-			"startMs": 33000,
-			"endMs": 38180
+			"startMs": 27880,
+			"endMs": 31580
 		}
 	]
 }

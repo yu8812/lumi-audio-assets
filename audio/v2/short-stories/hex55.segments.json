@@ -3,55 +3,55 @@
 	"title": "第五十五卦 豐",
 	"language": "zh-TW",
 	"audio": "/audio/v2/short-stories/hex55.mp3",
-	"durationMs": 42320,
+	"durationMs": 36320,
 	"segments": [
 		{
 			"speaker": "說書人",
 			"text": "第五十五卦,豐。",
 			"startMs": 0,
-			"endMs": 1940
+			"endMs": 1660
 		},
 		{
 			"speaker": "說書人",
 			"text": "豐亨,王假之,勿憂,宜日中。",
-			"startMs": 1940,
-			"endMs": 6740
+			"startMs": 1660,
+			"endMs": 6140
 		},
 		{
 			"speaker": "說書人",
 			"text": "初九遇其配主,雖旬无咎,往有尚。",
-			"startMs": 6740,
-			"endMs": 12100
+			"startMs": 6140,
+			"endMs": 10540
 		},
 		{
 			"speaker": "說書人",
 			"text": "六二豐其蔀,日中見斗,往得疑疾,有孚發若,吉。",
-			"startMs": 12100,
-			"endMs": 19200
+			"startMs": 10540,
+			"endMs": 16720
 		},
 		{
 			"speaker": "說書人",
 			"text": "九三豐其沛,日中見沫,折其右肱,无咎。",
-			"startMs": 19200,
-			"endMs": 24800
+			"startMs": 16720,
+			"endMs": 21680
 		},
 		{
 			"speaker": "說書人",
 			"text": "九四豐其蔀,日中見斗,遇其夷主,吉。",
-			"startMs": 24800,
-			"endMs": 30520
+			"startMs": 21680,
+			"endMs": 26680
 		},
 		{
 			"speaker": "說書人",
 			"text": "六五來章,有慶譽,吉。",
-			"startMs": 30520,
-			"endMs": 34380
+			"startMs": 26680,
+			"endMs": 29620
 		},
 		{
 			"speaker": "說書人",
 			"text": "上六豐其屋,蔀其家,闚其戶,闃其无人,三歲不覿,凶。",
-			"startMs": 34380,
-			"endMs": 42320
+			"startMs": 29620,
+			"endMs": 36320
 		}
 	]
 }

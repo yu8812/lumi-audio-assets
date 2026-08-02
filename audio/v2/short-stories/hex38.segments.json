@@ -3,55 +3,55 @@
 	"title": "第三十八卦 睽",
 	"language": "zh-TW",
 	"audio": "/audio/v2/short-stories/hex38.mp3",
-	"durationMs": 42940,
+	"durationMs": 36140,
 	"segments": [
 		{
 			"speaker": "說書人",
 			"text": "第三十八卦,睽。",
 			"startMs": 0,
-			"endMs": 2180
+			"endMs": 1780
 		},
 		{
 			"speaker": "說書人",
 			"text": "睽小事吉。",
-			"startMs": 2180,
-			"endMs": 4360
+			"startMs": 1780,
+			"endMs": 4080
 		},
 		{
 			"speaker": "說書人",
 			"text": "初九悔亡。喪馬勿逐,自復。見惡人,无咎。",
-			"startMs": 4360,
-			"endMs": 11200
+			"startMs": 4080,
+			"endMs": 8960
 		},
 		{
 			"speaker": "說書人",
 			"text": "九二遇主于巷,无咎。",
-			"startMs": 11200,
-			"endMs": 14540
+			"startMs": 8960,
+			"endMs": 11780
 		},
 		{
 			"speaker": "說書人",
 			"text": "六三見輿曳,其牛掣,其人天且劓,无初有終。",
-			"startMs": 14540,
-			"endMs": 21040
+			"startMs": 11780,
+			"endMs": 17840
 		},
 		{
 			"speaker": "說書人",
 			"text": "九四睽孤,遇元夫,交孚,厲无咎。",
-			"startMs": 21040,
-			"endMs": 26440
+			"startMs": 17840,
+			"endMs": 22200
 		},
 		{
 			"speaker": "說書人",
 			"text": "六五悔亡。厥宗噬膚,往何咎?",
-			"startMs": 26440,
-			"endMs": 31460
+			"startMs": 22200,
+			"endMs": 26220
 		},
 		{
 			"speaker": "說書人",
 			"text": "上九睽孤,見豕負塗,載鬼一車,先張之弧,後說之弧。匪寇,婚媾。往遇雨則吉。",
-			"startMs": 31460,
-			"endMs": 42940
+			"startMs": 26220,
+			"endMs": 36140
 		}
 	]
 }

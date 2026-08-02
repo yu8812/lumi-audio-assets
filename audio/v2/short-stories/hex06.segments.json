@@ -3,7 +3,7 @@
 	"title": "第六卦 訟",
 	"language": "zh-TW",
 	"audio": "/audio/v2/short-stories/hex06.mp3",
-	"durationMs": 39640,
+	"durationMs": 34560,
 	"segments": [
 		{
 			"speaker": "說書人",
@@ -15,43 +15,43 @@
 			"speaker": "說書人",
 			"text": "訟有孚窒惕,中吉,終凶。利見大人,不利涉大川。",
 			"startMs": 1700,
-			"endMs": 8860
+			"endMs": 8340
 		},
 		{
 			"speaker": "說書人",
 			"text": "初六不永所事,小有言,終吉。",
-			"startMs": 8860,
-			"endMs": 13500
+			"startMs": 8340,
+			"endMs": 12420
 		},
 		{
 			"speaker": "說書人",
 			"text": "九二不克訟,歸而逋,其邑人三百戶,无眚。",
-			"startMs": 13500,
-			"endMs": 20140
+			"startMs": 12420,
+			"endMs": 17420
 		},
 		{
 			"speaker": "說書人",
 			"text": "六三食舊德,貞厲,終吉。或從王事,无成。",
-			"startMs": 20140,
-			"endMs": 26980
+			"startMs": 17420,
+			"endMs": 22900
 		},
 		{
 			"speaker": "說書人",
 			"text": "九四不克訟,復即命,渝安貞,吉。",
-			"startMs": 26980,
-			"endMs": 31740
+			"startMs": 22900,
+			"endMs": 27340
 		},
 		{
 			"speaker": "說書人",
 			"text": "九五訟,元吉。",
-			"startMs": 31740,
-			"endMs": 34800
+			"startMs": 27340,
+			"endMs": 29960
 		},
 		{
 			"speaker": "說書人",
 			"text": "上九或錫之鞶帶,終朝三褫之。",
-			"startMs": 34800,
-			"endMs": 39640
+			"startMs": 29960,
+			"endMs": 34560
 		}
 	]
 }

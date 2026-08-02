@@ -3,55 +3,55 @@
 	"title": "第十七卦 隨",
 	"language": "zh-TW",
 	"audio": "/audio/v2/short-stories/hex17.mp3",
-	"durationMs": 34740,
+	"durationMs": 30700,
 	"segments": [
 		{
 			"speaker": "說書人",
 			"text": "第十七卦,隨。",
 			"startMs": 0,
-			"endMs": 2060
+			"endMs": 1540
 		},
 		{
 			"speaker": "說書人",
 			"text": "隨元亨利貞,无咎。",
-			"startMs": 2060,
-			"endMs": 5360
+			"startMs": 1540,
+			"endMs": 4680
 		},
 		{
 			"speaker": "說書人",
 			"text": "初九官有渝,貞吉。出門交有功。",
-			"startMs": 5360,
-			"endMs": 10280
+			"startMs": 4680,
+			"endMs": 9200
 		},
 		{
 			"speaker": "說書人",
 			"text": "六二係小子,失丈夫。",
-			"startMs": 10280,
-			"endMs": 13820
+			"startMs": 9200,
+			"endMs": 12220
 		},
 		{
 			"speaker": "說書人",
 			"text": "六三係丈夫,失小子。隨有求得,利居貞。",
-			"startMs": 13820,
-			"endMs": 19940
+			"startMs": 12220,
+			"endMs": 17420
 		},
 		{
 			"speaker": "說書人",
 			"text": "九四隨有獲,貞凶。有孚在道,以明,何咎?",
-			"startMs": 19940,
-			"endMs": 26480
+			"startMs": 17420,
+			"endMs": 23080
 		},
 		{
 			"speaker": "說書人",
 			"text": "九五孚于嘉,吉。",
-			"startMs": 26480,
-			"endMs": 29100
+			"startMs": 23080,
+			"endMs": 25500
 		},
 		{
 			"speaker": "說書人",
 			"text": "上六拘係之,乃從維之。王用亨于西山。",
-			"startMs": 29100,
-			"endMs": 34740
+			"startMs": 25500,
+			"endMs": 30700
 		}
 	]
 }

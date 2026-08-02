@@ -3,55 +3,55 @@
 	"title": "第五十四卦 歸妹",
 	"language": "zh-TW",
 	"audio": "/audio/v2/short-stories/hex54.mp3",
-	"durationMs": 34660,
+	"durationMs": 31940,
 	"segments": [
 		{
 			"speaker": "說書人",
 			"text": "第五十四卦,歸妹。",
 			"startMs": 0,
-			"endMs": 2380
+			"endMs": 2060
 		},
 		{
 			"speaker": "說書人",
 			"text": "歸妹征凶,无攸利。",
-			"startMs": 2380,
-			"endMs": 5440
+			"startMs": 2060,
+			"endMs": 5480
 		},
 		{
 			"speaker": "說書人",
 			"text": "初九歸妹以娣,跛能履,征吉。",
-			"startMs": 5440,
-			"endMs": 9520
+			"startMs": 5480,
+			"endMs": 9360
 		},
 		{
 			"speaker": "說書人",
 			"text": "九二眇能視,利幽人之貞。",
-			"startMs": 9520,
-			"endMs": 13340
+			"startMs": 9360,
+			"endMs": 12860
 		},
 		{
 			"speaker": "說書人",
 			"text": "六三歸妹以須,反歸以娣。",
-			"startMs": 13340,
-			"endMs": 17340
+			"startMs": 12860,
+			"endMs": 16700
 		},
 		{
 			"speaker": "說書人",
 			"text": "九四歸妹愆期,遲歸有時。",
-			"startMs": 17340,
-			"endMs": 21380
+			"startMs": 16700,
+			"endMs": 20540
 		},
 		{
 			"speaker": "說書人",
 			"text": "六五帝乙歸妹,其君之袂,不如其娣之袂良。月幾望,吉。",
-			"startMs": 21380,
-			"endMs": 29020
+			"startMs": 20540,
+			"endMs": 27180
 		},
 		{
 			"speaker": "說書人",
 			"text": "上六女承筐无實,士刲羊无血,无攸利。",
-			"startMs": 29020,
-			"endMs": 34660
+			"startMs": 27180,
+			"endMs": 31940
 		}
 	]
 }

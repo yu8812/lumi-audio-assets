@@ -3,61 +3,61 @@
 	"title": "第二卦 坤",
 	"language": "zh-TW",
 	"audio": "/audio/v2/short-stories/hex02.mp3",
-	"durationMs": 39360,
+	"durationMs": 34400,
 	"segments": [
 		{
 			"speaker": "說書人",
 			"text": "第二卦,坤。",
 			"startMs": 0,
-			"endMs": 1660
+			"endMs": 1340
 		},
 		{
 			"speaker": "說書人",
 			"text": "坤元亨,利牝馬之貞。君子有攸往,先迷後得主,利。西南得朋,東北喪朋。安貞吉。",
-			"startMs": 1660,
-			"endMs": 14080
+			"startMs": 1340,
+			"endMs": 11280
 		},
 		{
 			"speaker": "說書人",
 			"text": "初六履霜,堅冰至。",
-			"startMs": 14080,
-			"endMs": 17380
+			"startMs": 11280,
+			"endMs": 14380
 		},
 		{
 			"speaker": "說書人",
 			"text": "六二直方大,不習无不利。",
-			"startMs": 17380,
-			"endMs": 21000
+			"startMs": 14380,
+			"endMs": 17720
 		},
 		{
 			"speaker": "說書人",
 			"text": "六三含章可貞。或從王事,无成有終。",
-			"startMs": 21000,
-			"endMs": 26420
+			"startMs": 17720,
+			"endMs": 22740
 		},
 		{
 			"speaker": "說書人",
 			"text": "六四括囊,无咎无譽。",
-			"startMs": 26420,
-			"endMs": 29840
+			"startMs": 22740,
+			"endMs": 25560
 		},
 		{
 			"speaker": "說書人",
 			"text": "六五黃裳,元吉。",
-			"startMs": 29840,
-			"endMs": 33020
+			"startMs": 25560,
+			"endMs": 28140
 		},
 		{
 			"speaker": "說書人",
 			"text": "上六龍戰于野,其血玄黃。",
-			"startMs": 33020,
-			"endMs": 37060
+			"startMs": 28140,
+			"endMs": 32020
 		},
 		{
 			"speaker": "說書人",
 			"text": "用六利永貞。",
-			"startMs": 37060,
-			"endMs": 39360
+			"startMs": 32020,
+			"endMs": 34400
 		}
 	]
 }
