@@ -1,0 +1,57 @@
+{
+	"slug": "hex52",
+	"title": "第五十二卦 艮",
+	"language": "zh-TW",
+	"audio": "/audio/v2/short-stories/hex52.mp3",
+	"durationMs": 33040,
+	"segments": [
+		{
+			"speaker": "說書人",
+			"text": "第五十二卦,艮。",
+			"startMs": 0,
+			"endMs": 2100
+		},
+		{
+			"speaker": "讀者",
+			"text": "艮其背,不獲其身;行其庭,不見其人,无咎。",
+			"startMs": 2100,
+			"endMs": 8020
+		},
+		{
+			"speaker": "讀者",
+			"text": "初六艮其趾,无咎,利永貞。",
+			"startMs": 8020,
+			"endMs": 12480
+		},
+		{
+			"speaker": "讀者",
+			"text": "六二艮其腓,不拯其隨,其心不快。",
+			"startMs": 12480,
+			"endMs": 17720
+		},
+		{
+			"speaker": "讀者",
+			"text": "九三艮其限,列其夤,厲薰心。",
+			"startMs": 17720,
+			"endMs": 22660
+		},
+		{
+			"speaker": "讀者",
+			"text": "六四艮其身,无咎。",
+			"startMs": 22660,
+			"endMs": 25960
+		},
+		{
+			"speaker": "讀者",
+			"text": "六五艮其輔,言有序,悔亡。",
+			"startMs": 25960,
+			"endMs": 30300
+		},
+		{
+			"speaker": "讀者",
+			"text": "上九敦艮,吉。",
+			"startMs": 30300,
+			"endMs": 33040
+		}
+	]
+}

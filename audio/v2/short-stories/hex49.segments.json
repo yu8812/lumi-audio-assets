@@ -1,0 +1,57 @@
+{
+	"slug": "hex49",
+	"title": "第四十九卦 革",
+	"language": "zh-TW",
+	"audio": "/audio/v2/short-stories/hex49.mp3",
+	"durationMs": 34600,
+	"segments": [
+		{
+			"speaker": "說書人",
+			"text": "第四十九卦,革。",
+			"startMs": 0,
+			"endMs": 2420
+		},
+		{
+			"speaker": "讀者",
+			"text": "革巳日乃孚,元亨利貞,悔亡。",
+			"startMs": 2420,
+			"endMs": 7580
+		},
+		{
+			"speaker": "讀者",
+			"text": "初九鞏用黃牛之革。",
+			"startMs": 7580,
+			"endMs": 10680
+		},
+		{
+			"speaker": "讀者",
+			"text": "六二巳日乃革之,征吉,无咎。",
+			"startMs": 10680,
+			"endMs": 15360
+		},
+		{
+			"speaker": "讀者",
+			"text": "九三征凶,貞厲。革言三就,有孚。",
+			"startMs": 15360,
+			"endMs": 20040
+		},
+		{
+			"speaker": "讀者",
+			"text": "九四悔亡,有孚改命,吉。",
+			"startMs": 20040,
+			"endMs": 24300
+		},
+		{
+			"speaker": "讀者",
+			"text": "九五大人虎變,未占有孚。",
+			"startMs": 24300,
+			"endMs": 28100
+		},
+		{
+			"speaker": "讀者",
+			"text": "上六君子豹變,小人革面,征吉,居貞吉。",
+			"startMs": 28100,
+			"endMs": 34600
+		}
+	]
+}
