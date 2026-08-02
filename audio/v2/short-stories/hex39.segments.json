@@ -1,0 +1,57 @@
+{
+	"slug": "hex39",
+	"title": "第三十九卦 蹇",
+	"language": "zh-TW",
+	"audio": "/audio/v2/short-stories/hex39.mp3",
+	"durationMs": 28260,
+	"segments": [
+		{
+			"speaker": "說書人",
+			"text": "第三十九卦,蹇。",
+			"startMs": 0,
+			"endMs": 2260
+		},
+		{
+			"speaker": "讀者",
+			"text": "蹇利西南,不利東北;利見大人,貞吉。",
+			"startMs": 2260,
+			"endMs": 7740
+		},
+		{
+			"speaker": "讀者",
+			"text": "初六往蹇,來譽。",
+			"startMs": 7740,
+			"endMs": 10720
+		},
+		{
+			"speaker": "讀者",
+			"text": "六二王臣蹇蹇,匪躬之故。",
+			"startMs": 10720,
+			"endMs": 14760
+		},
+		{
+			"speaker": "讀者",
+			"text": "九三往蹇,來反。",
+			"startMs": 14760,
+			"endMs": 17780
+		},
+		{
+			"speaker": "讀者",
+			"text": "六四往蹇,來連。",
+			"startMs": 17780,
+			"endMs": 20640
+		},
+		{
+			"speaker": "讀者",
+			"text": "九五大蹇,朋來。",
+			"startMs": 20640,
+			"endMs": 23460
+		},
+		{
+			"speaker": "讀者",
+			"text": "上六往蹇,來碩,吉,利見大人。",
+			"startMs": 23460,
+			"endMs": 28260
+		}
+	]
+}

@@ -1,0 +1,57 @@
+{
+	"slug": "hex32",
+	"title": "第三十二卦 恆",
+	"language": "zh-TW",
+	"audio": "/audio/v2/short-stories/hex32.mp3",
+	"durationMs": 28380,
+	"segments": [
+		{
+			"speaker": "說書人",
+			"text": "第三十二卦,恆。",
+			"startMs": 0,
+			"endMs": 2220
+		},
+		{
+			"speaker": "讀者",
+			"text": "恆亨,无咎,利貞,利有攸往。",
+			"startMs": 2220,
+			"endMs": 6940
+		},
+		{
+			"speaker": "讀者",
+			"text": "初六浚恆,貞凶,无攸利。",
+			"startMs": 6940,
+			"endMs": 10640
+		},
+		{
+			"speaker": "讀者",
+			"text": "九二悔亡。",
+			"startMs": 10640,
+			"endMs": 12820
+		},
+		{
+			"speaker": "讀者",
+			"text": "九三不恆其德,或承之羞,貞吝。",
+			"startMs": 12820,
+			"endMs": 18100
+		},
+		{
+			"speaker": "讀者",
+			"text": "九四田无禽。",
+			"startMs": 18100,
+			"endMs": 20560
+		},
+		{
+			"speaker": "讀者",
+			"text": "六五恆其德,貞,婦人吉,夫子凶。",
+			"startMs": 20560,
+			"endMs": 25760
+		},
+		{
+			"speaker": "讀者",
+			"text": "上六振恆,凶。",
+			"startMs": 25760,
+			"endMs": 28380
+		}
+	]
+}

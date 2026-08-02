@@ -1,0 +1,57 @@
+{
+	"slug": "hex35",
+	"title": "第三十五卦 晉",
+	"language": "zh-TW",
+	"audio": "/audio/v2/short-stories/hex35.mp3",
+	"durationMs": 37880,
+	"segments": [
+		{
+			"speaker": "說書人",
+			"text": "第三十五卦,晉。",
+			"startMs": 0,
+			"endMs": 2180
+		},
+		{
+			"speaker": "讀者",
+			"text": "晉康侯用錫馬蕃庶,晝日三接。",
+			"startMs": 2180,
+			"endMs": 6980
+		},
+		{
+			"speaker": "讀者",
+			"text": "初六晉如摧如,貞吉。罔孚,裕无咎。",
+			"startMs": 6980,
+			"endMs": 12980
+		},
+		{
+			"speaker": "讀者",
+			"text": "六二晉如愁如,貞吉。受茲介福,于其王母。",
+			"startMs": 12980,
+			"endMs": 19360
+		},
+		{
+			"speaker": "讀者",
+			"text": "六三眾允,悔亡。",
+			"startMs": 19360,
+			"endMs": 22420
+		},
+		{
+			"speaker": "讀者",
+			"text": "九四晉如鼫鼠,貞厲。",
+			"startMs": 22420,
+			"endMs": 26120
+		},
+		{
+			"speaker": "讀者",
+			"text": "六五悔亡,失得勿恤,往吉,无不利。",
+			"startMs": 26120,
+			"endMs": 31440
+		},
+		{
+			"speaker": "讀者",
+			"text": "上九晉其角,維用伐邑,厲吉,无咎,貞吝。",
+			"startMs": 31440,
+			"endMs": 37880
+		}
+	]
+}

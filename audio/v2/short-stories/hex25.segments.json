@@ -1,0 +1,57 @@
+{
+	"slug": "hex25",
+	"title": "第二十五卦 无妄",
+	"language": "zh-TW",
+	"audio": "/audio/v2/short-stories/hex25.mp3",
+	"durationMs": 33780,
+	"segments": [
+		{
+			"speaker": "說書人",
+			"text": "第二十五卦,无妄。",
+			"startMs": 0,
+			"endMs": 2180
+		},
+		{
+			"speaker": "讀者",
+			"text": "无妄元亨利貞。其匪正有眚,不利有攸往。",
+			"startMs": 2180,
+			"endMs": 8000
+		},
+		{
+			"speaker": "讀者",
+			"text": "初九无妄,往吉。",
+			"startMs": 8000,
+			"endMs": 11020
+		},
+		{
+			"speaker": "讀者",
+			"text": "六二不耕穫,不菑畬,則利有攸往。",
+			"startMs": 11020,
+			"endMs": 15980
+		},
+		{
+			"speaker": "讀者",
+			"text": "六三无妄之災,或繫之牛,行人之得,邑人之災。",
+			"startMs": 15980,
+			"endMs": 22820
+		},
+		{
+			"speaker": "讀者",
+			"text": "九四可貞,无咎。",
+			"startMs": 22820,
+			"endMs": 25960
+		},
+		{
+			"speaker": "讀者",
+			"text": "九五无妄之疾,勿藥有喜。",
+			"startMs": 25960,
+			"endMs": 29880
+		},
+		{
+			"speaker": "讀者",
+			"text": "上九无妄,行有眚,无攸利。",
+			"startMs": 29880,
+			"endMs": 33780
+		}
+	]
+}

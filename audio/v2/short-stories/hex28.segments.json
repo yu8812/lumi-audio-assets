@@ -1,0 +1,57 @@
+{
+	"slug": "hex28",
+	"title": "第二十八卦 大過",
+	"language": "zh-TW",
+	"audio": "/audio/v2/short-stories/hex28.mp3",
+	"durationMs": 31960,
+	"segments": [
+		{
+			"speaker": "說書人",
+			"text": "第二十八卦,大過。",
+			"startMs": 0,
+			"endMs": 2340
+		},
+		{
+			"speaker": "讀者",
+			"text": "大過棟橈。利有攸往,亨。",
+			"startMs": 2340,
+			"endMs": 6560
+		},
+		{
+			"speaker": "讀者",
+			"text": "初六藉用白茅,无咎。",
+			"startMs": 6560,
+			"endMs": 9780
+		},
+		{
+			"speaker": "讀者",
+			"text": "九二枯楊生稊,老夫得其女妻,无不利。",
+			"startMs": 9780,
+			"endMs": 15180
+		},
+		{
+			"speaker": "讀者",
+			"text": "九三棟橈,凶。",
+			"startMs": 15180,
+			"endMs": 17760
+		},
+		{
+			"speaker": "讀者",
+			"text": "九四棟隆,吉。有它吝。",
+			"startMs": 17760,
+			"endMs": 21780
+		},
+		{
+			"speaker": "讀者",
+			"text": "九五枯楊生華,老婦得其士夫,无咎无譽。",
+			"startMs": 21780,
+			"endMs": 27920
+		},
+		{
+			"speaker": "讀者",
+			"text": "上六過涉滅頂,凶,无咎。",
+			"startMs": 27920,
+			"endMs": 31960
+		}
+	]
+}

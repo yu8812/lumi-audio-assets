@@ -1,0 +1,57 @@
+{
+	"slug": "hex29",
+	"title": "第二十九卦 坎",
+	"language": "zh-TW",
+	"audio": "/audio/v2/short-stories/hex29.mp3",
+	"durationMs": 35840,
+	"segments": [
+		{
+			"speaker": "說書人",
+			"text": "第二十九卦,坎。",
+			"startMs": 0,
+			"endMs": 2100
+		},
+		{
+			"speaker": "讀者",
+			"text": "習坎有孚,維心亨,行有尚。",
+			"startMs": 2100,
+			"endMs": 6560
+		},
+		{
+			"speaker": "讀者",
+			"text": "初六習坎,入于坎窞,凶。",
+			"startMs": 6560,
+			"endMs": 10780
+		},
+		{
+			"speaker": "讀者",
+			"text": "九二坎有險,求小得。",
+			"startMs": 10780,
+			"endMs": 14160
+		},
+		{
+			"speaker": "讀者",
+			"text": "六三來之坎坎,險且枕,入于坎窞,勿用。",
+			"startMs": 14160,
+			"endMs": 19800
+		},
+		{
+			"speaker": "讀者",
+			"text": "六四樽酒簋貳,用缶,納約自牖,終无咎。",
+			"startMs": 19800,
+			"endMs": 25760
+		},
+		{
+			"speaker": "讀者",
+			"text": "九五坎不盈,祗既平,无咎。",
+			"startMs": 25760,
+			"endMs": 29980
+		},
+		{
+			"speaker": "讀者",
+			"text": "上六係用徽纆,寘于叢棘,三歲不得,凶。",
+			"startMs": 29980,
+			"endMs": 35840
+		}
+	]
+}

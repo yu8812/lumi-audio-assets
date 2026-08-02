@@ -1,0 +1,57 @@
+{
+	"slug": "hex36",
+	"title": "第三十六卦 明夷",
+	"language": "zh-TW",
+	"audio": "/audio/v2/short-stories/hex36.mp3",
+	"durationMs": 40420,
+	"segments": [
+		{
+			"speaker": "說書人",
+			"text": "第三十六卦,明夷。",
+			"startMs": 0,
+			"endMs": 2540
+		},
+		{
+			"speaker": "讀者",
+			"text": "明夷利艱貞。",
+			"startMs": 2540,
+			"endMs": 4840
+		},
+		{
+			"speaker": "讀者",
+			"text": "初九明夷于飛,垂其翼。君子于行,三日不食。有攸往,主人有言。",
+			"startMs": 4840,
+			"endMs": 14200
+		},
+		{
+			"speaker": "讀者",
+			"text": "六二明夷,夷于左股,用拯馬壯,吉。",
+			"startMs": 14200,
+			"endMs": 19480
+		},
+		{
+			"speaker": "讀者",
+			"text": "九三明夷于南狩,得其大首,不可疾貞。",
+			"startMs": 19480,
+			"endMs": 25420
+		},
+		{
+			"speaker": "讀者",
+			"text": "六四入于左腹,獲明夷之心,于出門庭。",
+			"startMs": 25420,
+			"endMs": 31200
+		},
+		{
+			"speaker": "讀者",
+			"text": "六五箕子之明夷,利貞。",
+			"startMs": 31200,
+			"endMs": 34900
+		},
+		{
+			"speaker": "讀者",
+			"text": "上六不明晦,初登于天,後入于地。",
+			"startMs": 34900,
+			"endMs": 40420
+		}
+	]
+}

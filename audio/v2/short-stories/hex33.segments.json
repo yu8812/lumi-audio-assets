@@ -1,0 +1,57 @@
+{
+	"slug": "hex33",
+	"title": "第三十三卦 遯",
+	"language": "zh-TW",
+	"audio": "/audio/v2/short-stories/hex33.mp3",
+	"durationMs": 29660,
+	"segments": [
+		{
+			"speaker": "說書人",
+			"text": "第三十三卦,遯。",
+			"startMs": 0,
+			"endMs": 1820
+		},
+		{
+			"speaker": "讀者",
+			"text": "遯亨,小利貞。",
+			"startMs": 1820,
+			"endMs": 4720
+		},
+		{
+			"speaker": "讀者",
+			"text": "初六遯尾,厲,勿用有攸往。",
+			"startMs": 4720,
+			"endMs": 8760
+		},
+		{
+			"speaker": "讀者",
+			"text": "六二執之用黃牛之革,莫之勝說。",
+			"startMs": 8760,
+			"endMs": 13680
+		},
+		{
+			"speaker": "讀者",
+			"text": "九三係遯,有疾厲,畜臣妾吉。",
+			"startMs": 13680,
+			"endMs": 18760
+		},
+		{
+			"speaker": "讀者",
+			"text": "九四好遯,君子吉,小人否。",
+			"startMs": 18760,
+			"endMs": 23420
+		},
+		{
+			"speaker": "讀者",
+			"text": "九五嘉遯,貞吉。",
+			"startMs": 23420,
+			"endMs": 26680
+		},
+		{
+			"speaker": "讀者",
+			"text": "上九肥遯,无不利。",
+			"startMs": 26680,
+			"endMs": 29660
+		}
+	]
+}
