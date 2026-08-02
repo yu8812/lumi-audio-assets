@@ -1,0 +1,57 @@
+{
+	"slug": "hex62",
+	"title": "第六十二卦 小過",
+	"language": "zh-TW",
+	"audio": "/audio/v2/short-stories/hex62.mp3",
+	"durationMs": 44680,
+	"segments": [
+		{
+			"speaker": "說書人",
+			"text": "第六十二卦,小過。",
+			"startMs": 0,
+			"endMs": 2220
+		},
+		{
+			"speaker": "讀者",
+			"text": "小過亨,利貞。可小事,不可大事。飛鳥遺之音,不宜上,宜下,大吉。",
+			"startMs": 2220,
+			"endMs": 12020
+		},
+		{
+			"speaker": "讀者",
+			"text": "初六飛鳥以凶。",
+			"startMs": 12020,
+			"endMs": 14720
+		},
+		{
+			"speaker": "讀者",
+			"text": "六二過其祖,遇其妣;不及其君,遇其臣,无咎。",
+			"startMs": 14720,
+			"endMs": 21420
+		},
+		{
+			"speaker": "讀者",
+			"text": "九三弗過防之,從或戕之,凶。",
+			"startMs": 21420,
+			"endMs": 26220
+		},
+		{
+			"speaker": "讀者",
+			"text": "九四无咎,弗過遇之,往厲必戒,勿用永貞。",
+			"startMs": 26220,
+			"endMs": 32680
+		},
+		{
+			"speaker": "讀者",
+			"text": "六五密雲不雨,自我西郊,公弋取彼在穴。",
+			"startMs": 32680,
+			"endMs": 38420
+		},
+		{
+			"speaker": "讀者",
+			"text": "上六弗遇過之,飛鳥離之,凶,是謂災眚。",
+			"startMs": 38420,
+			"endMs": 44680
+		}
+	]
+}

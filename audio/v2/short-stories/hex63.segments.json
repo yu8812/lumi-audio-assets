@@ -1,0 +1,57 @@
+{
+	"slug": "hex63",
+	"title": "第六十三卦 既濟",
+	"language": "zh-TW",
+	"audio": "/audio/v2/short-stories/hex63.mp3",
+	"durationMs": 35000,
+	"segments": [
+		{
+			"speaker": "說書人",
+			"text": "第六十三卦,既濟。",
+			"startMs": 0,
+			"endMs": 2380
+		},
+		{
+			"speaker": "讀者",
+			"text": "既濟亨小,利貞。初吉終亂。",
+			"startMs": 2380,
+			"endMs": 6660
+		},
+		{
+			"speaker": "讀者",
+			"text": "初九曳其輪,濡其尾,无咎。",
+			"startMs": 6660,
+			"endMs": 11000
+		},
+		{
+			"speaker": "讀者",
+			"text": "六二婦喪其茀,勿逐,七日得。",
+			"startMs": 11000,
+			"endMs": 15920
+		},
+		{
+			"speaker": "讀者",
+			"text": "九三高宗伐鬼方,三年克之,小人勿用。",
+			"startMs": 15920,
+			"endMs": 21700
+		},
+		{
+			"speaker": "讀者",
+			"text": "六四繻有衣袽,終日戒。",
+			"startMs": 21700,
+			"endMs": 25600
+		},
+		{
+			"speaker": "讀者",
+			"text": "九五東鄰殺牛,不如西鄰之禴祭,實受其福。",
+			"startMs": 25600,
+			"endMs": 32300
+		},
+		{
+			"speaker": "讀者",
+			"text": "上六濡其首,厲。",
+			"startMs": 32300,
+			"endMs": 35000
+		}
+	]
+}

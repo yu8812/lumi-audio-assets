@@ -1,0 +1,57 @@
+{
+	"slug": "hex64",
+	"title": "第六十四卦 未濟",
+	"language": "zh-TW",
+	"audio": "/audio/v2/short-stories/hex64.mp3",
+	"durationMs": 37400,
+	"segments": [
+		{
+			"speaker": "說書人",
+			"text": "第六十四卦,未濟。",
+			"startMs": 0,
+			"endMs": 2340
+		},
+		{
+			"speaker": "讀者",
+			"text": "未濟亨。小狐汔濟,濡其尾,无攸利。",
+			"startMs": 2340,
+			"endMs": 7900
+		},
+		{
+			"speaker": "讀者",
+			"text": "初六濡其尾,吝。",
+			"startMs": 7900,
+			"endMs": 10800
+		},
+		{
+			"speaker": "讀者",
+			"text": "九二曳其輪,貞吉。",
+			"startMs": 10800,
+			"endMs": 13980
+		},
+		{
+			"speaker": "讀者",
+			"text": "六三未濟,征凶,利涉大川。",
+			"startMs": 13980,
+			"endMs": 18860
+		},
+		{
+			"speaker": "讀者",
+			"text": "九四貞吉,悔亡。震用伐鬼方,三年有賞于大國。",
+			"startMs": 18860,
+			"endMs": 25720
+		},
+		{
+			"speaker": "讀者",
+			"text": "六五貞吉,无悔。君子之光,有孚,吉。",
+			"startMs": 25720,
+			"endMs": 30940
+		},
+		{
+			"speaker": "讀者",
+			"text": "上九有孚于飲酒,无咎。濡其首,有孚失是。",
+			"startMs": 30940,
+			"endMs": 37400
+		}
+	]
+}
