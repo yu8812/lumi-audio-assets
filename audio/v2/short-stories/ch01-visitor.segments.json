@@ -1,0 +1,33 @@
+{
+	"slug": "ch01-visitor",
+	"title": "第一章 · 字海塔的訪客",
+	"language": "zh-TW",
+	"audio": "/audio/v2/short-stories/ch01-visitor.mp3",
+	"durationMs": 21460,
+	"segments": [
+		{
+			"speaker": "旁白",
+			"text": "天還沒亮,字海塔的階梯就已經被微光踩亮。",
+			"startMs": 0,
+			"endMs": 4960
+		},
+		{
+			"speaker": "旁白",
+			"text": "風從塔頂灌下來,捲著沒讀完的句子。",
+			"startMs": 4960,
+			"endMs": 8920
+		},
+		{
+			"speaker": "絮音",
+			"text": "「真的可以嗎?」她輕聲問,把卷軸抱得更緊一些。",
+			"startMs": 8920,
+			"endMs": 13820
+		},
+		{
+			"speaker": "書離",
+			"text": "「沒問題。」他看向遠方,「妳走第一步,我跟在後面。」",
+			"startMs": 13820,
+			"endMs": 21460
+		}
+	]
+}
