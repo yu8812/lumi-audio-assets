@@ -3,97 +3,97 @@
 	"title": "02 · 八卦:三條線的八種排列",
 	"language": "zh-TW",
 	"audio": "/audio/v2/short-stories/yijing-basics-02-bagua.mp3",
-	"durationMs": 124380,
+	"durationMs": 99300,
 	"segments": [
 		{
-			"speaker": "說書人",
+			"speaker": "旁白",
 			"text": "02 · 八卦:三條線的八種排列。",
 			"startMs": 0,
-			"endMs": 3500
+			"endMs": 2660
 		},
 		{
-			"speaker": "說書人",
+			"speaker": "旁白",
 			"text": "本課目標。",
-			"startMs": 3500,
-			"endMs": 4840
+			"startMs": 2660,
+			"endMs": 3920
 		},
 		{
-			"speaker": "說書人",
+			"speaker": "旁白",
 			"text": "背下八個「三爻卦」(經卦)的符號、名稱、自然象,這是讀懂六十四卦的鑰匙。",
-			"startMs": 4840,
-			"endMs": 12700
+			"startMs": 3920,
+			"endMs": 10580
 		},
 		{
-			"speaker": "說書人",
+			"speaker": "旁白",
 			"text": "正文。",
-			"startMs": 12700,
-			"endMs": 13520
+			"startMs": 10580,
+			"endMs": 11480
 		},
 		{
-			"speaker": "說書人",
+			"speaker": "旁白",
 			"text": "為什麼是八個。",
-			"startMs": 13520,
-			"endMs": 14940
+			"startMs": 11480,
+			"endMs": 12820
 		},
 		{
-			"speaker": "說書人",
-			"text": "三個爻、每爻兩種可能,2 × 2 × 2 = 8。這八個三爻卦是易經的「字母表」,傳統稱八卦或經卦。",
-			"startMs": 14940,
-			"endMs": 26420
+			"speaker": "旁白",
+			"text": "三個爻、每爻兩種可能,2乘以2乘以2等於8。這八個三爻卦是易經的「字母表」,傳統稱八卦或經卦。",
+			"startMs": 12820,
+			"endMs": 21860
 		},
 		{
-			"speaker": "說書人",
+			"speaker": "旁白",
 			"text": "八卦總表(必背)。",
-			"startMs": 26420,
-			"endMs": 28200
+			"startMs": 21860,
+			"endMs": 23440
 		},
 		{
-			"speaker": "說書人",
+			"speaker": "旁白",
 			"text": "記法:看線讀象。",
-			"startMs": 28200,
-			"endMs": 30500
+			"startMs": 23440,
+			"endMs": 25180
 		},
 		{
-			"speaker": "說書人",
+			"speaker": "旁白",
 			"text": "死背不如看圖 — 每個卦的線條本身就在畫它的象:",
-			"startMs": 30500,
-			"endMs": 35800
+			"startMs": 25180,
+			"endMs": 29400
 		},
 		{
-			"speaker": "說書人",
+			"speaker": "旁白",
 			"text": "乾 ☰ 三條實線:整片天,無一絲缺口。坤 ☷ 三條斷線:大地攤開,柔到底。坎 ☵ 一陽陷在兩陰中間:水流在河床「凹陷」處,也是人陷於險境。離 ☲ 一陰附在兩陽中間:火焰外亮內虛,必須「附著」在柴上才能燒。震 ☳ 一陽在最下方推動:雷從地底炸開,由下而動。艮 ☶ 一陽壓在最上方:山,上面一道硬邊把一切擋住。兌 ☱ 上面開口:澤面開闊、也像張開的口 — 言語與喜悅。巽 ☴ 下面斷開:風從縫隙鑽進去,無孔不入。",
-			"startMs": 35800,
-			"endMs": 81580
+			"startMs": 29400,
+			"endMs": 64700
 		},
 		{
-			"speaker": "說書人",
+			"speaker": "旁白",
 			"text": "注意成對關係:乾坤相反、坎離相反、震艮上下顛倒、兌巽上下顛倒。用「一對一對」記,速度快一倍。",
-			"startMs": 81580,
-			"endMs": 93660
+			"startMs": 64700,
+			"endMs": 74660
 		},
 		{
-			"speaker": "說書人",
+			"speaker": "旁白",
 			"text": "速記表。",
-			"startMs": 93660,
-			"endMs": 94720
+			"startMs": 74660,
+			"endMs": 75720
 		},
 		{
-			"speaker": "說書人",
+			"speaker": "旁白",
 			"text": "乾天☰・兌澤☱・離火☲・震雷☳・巽風☴・坎水☵・艮山☶・坤地☷(口訣:乾三連、坤六斷、震仰盂、艮覆碗、離中虛、坎中滿、兌上缺、巽下斷)",
-			"startMs": 94720,
-			"endMs": 109880
+			"startMs": 75720,
+			"endMs": 87360
 		},
 		{
-			"speaker": "說書人",
+			"speaker": "旁白",
 			"text": "自我檢核。",
-			"startMs": 109880,
-			"endMs": 111180
+			"startMs": 87360,
+			"endMs": 88500
 		},
 		{
-			"speaker": "說書人",
+			"speaker": "旁白",
 			"text": "給我任一符號(如 ☵),我能說出名稱與自然象。 給我自然象(如「山」),我能畫出符號。 我能說出坎與離在線條上的差別,以及為什麼。",
-			"startMs": 111180,
-			"endMs": 124380
+			"startMs": 88500,
+			"endMs": 99300
 		}
 	]
 }

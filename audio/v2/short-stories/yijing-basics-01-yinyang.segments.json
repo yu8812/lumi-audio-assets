@@ -3,121 +3,121 @@
 	"title": "01 · 陰陽與爻:整套系統只有兩個積木",
 	"language": "zh-TW",
 	"audio": "/audio/v2/short-stories/yijing-basics-01-yinyang.mp3",
-	"durationMs": 121080,
+	"durationMs": 98240,
 	"segments": [
 		{
-			"speaker": "說書人",
+			"speaker": "旁白",
 			"text": "01 · 陰陽與爻:整套系統只有兩個積木。",
 			"startMs": 0,
-			"endMs": 4260
+			"endMs": 3220
 		},
 		{
-			"speaker": "說書人",
+			"speaker": "旁白",
 			"text": "本課目標。",
-			"startMs": 4260,
-			"endMs": 5560
+			"startMs": 3220,
+			"endMs": 4520
 		},
 		{
-			"speaker": "說書人",
+			"speaker": "旁白",
 			"text": "認識易經的最小單位 —「爻」,並理解陰陽不是好壞,而是一組相對狀態。",
-			"startMs": 5560,
-			"endMs": 13300
+			"startMs": 4520,
+			"endMs": 10460
 		},
 		{
-			"speaker": "說書人",
+			"speaker": "旁白",
 			"text": "正文。",
-			"startMs": 13300,
-			"endMs": 14160
+			"startMs": 10460,
+			"endMs": 11360
 		},
 		{
-			"speaker": "說書人",
+			"speaker": "旁白",
 			"text": "爻:一條線的兩種畫法。",
-			"startMs": 14160,
-			"endMs": 16420
+			"startMs": 11360,
+			"endMs": 13380
 		},
 		{
-			"speaker": "說書人",
+			"speaker": "旁白",
 			"text": "易經全部的符號,拆到最後只有兩種筆畫:",
-			"startMs": 16420,
-			"endMs": 21460
+			"startMs": 13380,
+			"endMs": 17140
 		},
 		{
-			"speaker": "說書人",
+			"speaker": "旁白",
 			"text": "陽爻 ⚊:一條連續的橫線,寫作「九」。陰爻 ⚋:中間斷開的橫線,寫作「六」。",
-			"startMs": 21460,
-			"endMs": 28580
+			"startMs": 17140,
+			"endMs": 23540
 		},
 		{
-			"speaker": "說書人",
+			"speaker": "旁白",
 			"text": "就這樣。六十四卦、三百八十四爻,全部是這兩種線的排列組合 — 跟電腦的 0 與 1 是同一種思路,而易經早了三千年。",
-			"startMs": 28580,
-			"endMs": 41300
+			"startMs": 23540,
+			"endMs": 33900
 		},
 		{
-			"speaker": "說書人",
+			"speaker": "旁白",
 			"text": "陰陽是「相對」,不是「優劣」。",
-			"startMs": 41300,
-			"endMs": 44100
+			"startMs": 33900,
+			"endMs": 36500
 		},
 		{
-			"speaker": "說書人",
-			"text": "初學最常見的誤解:陽=好、陰=壞。不對。陰陽描述的是一組互相定義的狀態:",
-			"startMs": 44100,
-			"endMs": 52800
+			"speaker": "旁白",
+			"text": "初學最常見的誤解:陽等於好、陰等於壞。不對。陰陽描述的是一組互相定義的狀態:",
+			"startMs": 36500,
+			"endMs": 44240
 		},
 		{
-			"speaker": "說書人",
+			"speaker": "旁白",
 			"text": "哪個好?看情勢。該守的時候硬進是凶,該進的時候死守也是凶 — 這正是整部易經反覆在講的事。",
-			"startMs": 52800,
-			"endMs": 64060
+			"startMs": 44240,
+			"endMs": 52940
 		},
 		{
-			"speaker": "說書人",
+			"speaker": "旁白",
 			"text": "爻的位置怎麼數。",
-			"startMs": 64060,
-			"endMs": 65720
+			"startMs": 52940,
+			"endMs": 54480
 		},
 		{
-			"speaker": "說書人",
+			"speaker": "旁白",
 			"text": "一個卦有六爻,從下往上數:初、二、三、四、五、上。這個順序很重要 — 易經把事情的發展看成「由下而上」:初爻是事情的開端,上爻是局面的終盡。",
-			"startMs": 65720,
-			"endMs": 82380
+			"startMs": 54480,
+			"endMs": 67500
 		},
 		{
-			"speaker": "說書人",
+			"speaker": "旁白",
 			"text": "陽爻稱「九」、陰爻稱「六」,所以:",
-			"startMs": 82380,
-			"endMs": 86060
+			"startMs": 67500,
+			"endMs": 70620
 		},
 		{
-			"speaker": "說書人",
+			"speaker": "旁白",
 			"text": "最下面一爻是陽 →「初九」。第五爻是陰 →「六五」。最上面一爻是陽 →「上九」。",
-			"startMs": 86060,
-			"endMs": 94360
+			"startMs": 70620,
+			"endMs": 76720
 		},
 		{
-			"speaker": "說書人",
+			"speaker": "旁白",
 			"text": "速記表。",
-			"startMs": 94360,
-			"endMs": 95540
+			"startMs": 76720,
+			"endMs": 77820
 		},
 		{
-			"speaker": "說書人",
-			"text": "陽爻 ⚊ = 連線 = 九;陰爻 ⚋ = 斷線 = 六。六爻由下往上:初 → 二 → 三 → 四 → 五 → 上。陰陽是相對狀態,吉凶看「是否合時」。",
-			"startMs": 95540,
-			"endMs": 109160
+			"speaker": "旁白",
+			"text": "陽爻 ⚊等於連線等於九;陰爻 ⚋等於斷線等於六。六爻由下往上:初 → 二 → 三 → 四 → 五 → 上。陰陽是相對狀態,吉凶看「是否合時」。",
+			"startMs": 77820,
+			"endMs": 89320
 		},
 		{
-			"speaker": "說書人",
+			"speaker": "旁白",
 			"text": "自我檢核。",
-			"startMs": 109160,
-			"endMs": 110460
+			"startMs": 89320,
+			"endMs": 90540
 		},
 		{
-			"speaker": "說書人",
+			"speaker": "旁白",
 			"text": "我能畫出陽爻與陰爻。 看到「六三」我知道:第三爻、是陰爻。 我能說出為什麼「陰陽不是好壞」。",
-			"startMs": 110460,
-			"endMs": 121080
+			"startMs": 90540,
+			"endMs": 98240
 		}
 	]
 }
