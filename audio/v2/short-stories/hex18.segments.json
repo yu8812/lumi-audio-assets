@@ -3,55 +3,55 @@
 	"title": "第十八卦 蠱",
 	"language": "zh-TW",
 	"audio": "/audio/v2/short-stories/hex18.mp3",
-	"durationMs": 29140,
+	"durationMs": 35860,
 	"segments": [
 		{
 			"speaker": "說書人",
 			"text": "第十八卦,蠱。",
 			"startMs": 0,
-			"endMs": 1540
+			"endMs": 1580
 		},
 		{
 			"speaker": "說書人",
 			"text": "蠱元亨,利涉大川。先甲三日,後甲三日。",
-			"startMs": 1540,
-			"endMs": 7280
+			"startMs": 1580,
+			"endMs": 8560
 		},
 		{
 			"speaker": "說書人",
 			"text": "初六幹父之蠱,有子,考无咎,厲終吉。",
-			"startMs": 7280,
-			"endMs": 12080
+			"startMs": 8560,
+			"endMs": 14680
 		},
 		{
 			"speaker": "說書人",
 			"text": "九二幹母之蠱,不可貞。",
-			"startMs": 12080,
-			"endMs": 14940
+			"startMs": 14680,
+			"endMs": 18420
 		},
 		{
 			"speaker": "說書人",
 			"text": "九三幹父之蠱,小有悔,无大咎。",
-			"startMs": 14940,
-			"endMs": 19140
+			"startMs": 18420,
+			"endMs": 23900
 		},
 		{
 			"speaker": "說書人",
 			"text": "六四裕父之蠱,往見吝。",
-			"startMs": 19140,
-			"endMs": 22200
+			"startMs": 23900,
+			"endMs": 27880
 		},
 		{
 			"speaker": "說書人",
 			"text": "六五幹父之蠱,用譽。",
-			"startMs": 22200,
-			"endMs": 25180
+			"startMs": 27880,
+			"endMs": 31660
 		},
 		{
 			"speaker": "說書人",
 			"text": "上九不事王侯,高尚其事。",
-			"startMs": 25180,
-			"endMs": 29140
+			"startMs": 31660,
+			"endMs": 35860
 		}
 	]
 }

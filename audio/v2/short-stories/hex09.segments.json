@@ -3,55 +3,55 @@
 	"title": "第九卦 小畜",
 	"language": "zh-TW",
 	"audio": "/audio/v2/short-stories/hex09.mp3",
-	"durationMs": 29480,
+	"durationMs": 32600,
 	"segments": [
 		{
 			"speaker": "說書人",
 			"text": "第九卦,小畜。",
 			"startMs": 0,
-			"endMs": 1740
+			"endMs": 2100
 		},
 		{
 			"speaker": "說書人",
 			"text": "小畜亨。密雲不雨,自我西郊。",
-			"startMs": 1740,
-			"endMs": 6020
+			"startMs": 2100,
+			"endMs": 5580
 		},
 		{
 			"speaker": "說書人",
 			"text": "初九復自道,何其咎?吉。",
-			"startMs": 6020,
-			"endMs": 9720
+			"startMs": 5580,
+			"endMs": 9280
 		},
 		{
 			"speaker": "說書人",
 			"text": "九二牽復,吉。",
-			"startMs": 9720,
-			"endMs": 12020
+			"startMs": 9280,
+			"endMs": 11780
 		},
 		{
 			"speaker": "說書人",
 			"text": "九三輿說輻,夫妻反目。",
-			"startMs": 12020,
-			"endMs": 15320
+			"startMs": 11780,
+			"endMs": 15680
 		},
 		{
 			"speaker": "說書人",
 			"text": "六四有孚,血去惕出,无咎。",
-			"startMs": 15320,
-			"endMs": 19300
+			"startMs": 15680,
+			"endMs": 20300
 		},
 		{
 			"speaker": "說書人",
 			"text": "九五有孚攣如,富以其鄰。",
-			"startMs": 19300,
-			"endMs": 22900
+			"startMs": 20300,
+			"endMs": 24580
 		},
 		{
 			"speaker": "說書人",
 			"text": "上九既雨既處,尚德載,婦貞厲。月幾望,君子征凶。",
-			"startMs": 22900,
-			"endMs": 29480
+			"startMs": 24580,
+			"endMs": 32600
 		}
 	]
 }

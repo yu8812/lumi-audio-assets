@@ -3,55 +3,55 @@
 	"title": "第四十五卦 萃",
 	"language": "zh-TW",
 	"audio": "/audio/v2/short-stories/hex45.mp3",
-	"durationMs": 36400,
+	"durationMs": 45720,
 	"segments": [
 		{
 			"speaker": "說書人",
 			"text": "第四十五卦,萃。",
 			"startMs": 0,
-			"endMs": 1820
+			"endMs": 2220
 		},
 		{
 			"speaker": "說書人",
 			"text": "萃亨。王假有廟,利見大人,亨,利貞。用大牲吉,利有攸往。",
-			"startMs": 1820,
-			"endMs": 9440
+			"startMs": 2220,
+			"endMs": 12000
 		},
 		{
 			"speaker": "說書人",
 			"text": "初六有孚不終,乃亂乃萃,若號,一握為笑,勿恤,往无咎。",
-			"startMs": 9440,
-			"endMs": 16720
+			"startMs": 12000,
+			"endMs": 21080
 		},
 		{
 			"speaker": "說書人",
 			"text": "六二引吉,无咎,孚乃利用禴。",
-			"startMs": 16720,
-			"endMs": 20520
+			"startMs": 21080,
+			"endMs": 26120
 		},
 		{
 			"speaker": "說書人",
 			"text": "六三萃如嗟如,无攸利,往无咎,小吝。",
-			"startMs": 20520,
-			"endMs": 25520
+			"startMs": 26120,
+			"endMs": 32400
 		},
 		{
 			"speaker": "說書人",
 			"text": "九四大吉,无咎。",
-			"startMs": 25520,
-			"endMs": 28060
+			"startMs": 32400,
+			"endMs": 35540
 		},
 		{
 			"speaker": "說書人",
 			"text": "九五萃有位,无咎,匪孚。元永貞,悔亡。",
-			"startMs": 28060,
-			"endMs": 33500
+			"startMs": 35540,
+			"endMs": 42020
 		},
 		{
 			"speaker": "說書人",
 			"text": "上六齎咨涕洟,无咎。",
-			"startMs": 33500,
-			"endMs": 36400
+			"startMs": 42020,
+			"endMs": 45720
 		}
 	]
 }

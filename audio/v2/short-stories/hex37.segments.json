@@ -3,55 +3,55 @@
 	"title": "第三十七卦 家人",
 	"language": "zh-TW",
 	"audio": "/audio/v2/short-stories/hex37.mp3",
-	"durationMs": 25440,
+	"durationMs": 31000,
 	"segments": [
 		{
 			"speaker": "說書人",
 			"text": "第三十七卦,家人。",
 			"startMs": 0,
-			"endMs": 2020
+			"endMs": 2420
 		},
 		{
 			"speaker": "說書人",
 			"text": "家人利女貞。",
-			"startMs": 2020,
-			"endMs": 4320
+			"startMs": 2420,
+			"endMs": 4960
 		},
 		{
 			"speaker": "說書人",
 			"text": "初九閑有家,悔亡。",
-			"startMs": 4320,
-			"endMs": 7140
+			"startMs": 4960,
+			"endMs": 8820
 		},
 		{
 			"speaker": "說書人",
 			"text": "六二无攸遂,在中饋,貞吉。",
-			"startMs": 7140,
-			"endMs": 11000
+			"startMs": 8820,
+			"endMs": 13880
 		},
 		{
 			"speaker": "說書人",
 			"text": "九三家人嗃嗃,悔厲吉;婦子嘻嘻,終吝。",
-			"startMs": 11000,
-			"endMs": 15760
+			"startMs": 13880,
+			"endMs": 20200
 		},
 		{
 			"speaker": "說書人",
 			"text": "六四富家,大吉。",
-			"startMs": 15760,
-			"endMs": 18620
+			"startMs": 20200,
+			"endMs": 23140
 		},
 		{
 			"speaker": "說書人",
 			"text": "九五王假有家,勿恤,吉。",
-			"startMs": 18620,
-			"endMs": 22300
+			"startMs": 23140,
+			"endMs": 27300
 		},
 		{
 			"speaker": "說書人",
 			"text": "上九有孚威如,終吉。",
-			"startMs": 22300,
-			"endMs": 25440
+			"startMs": 27300,
+			"endMs": 31000
 		}
 	]
 }

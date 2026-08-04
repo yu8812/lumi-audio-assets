@@ -3,55 +3,55 @@
 	"title": "第十二卦 否",
 	"language": "zh-TW",
 	"audio": "/audio/v2/short-stories/hex12.mp3",
-	"durationMs": 28260,
+	"durationMs": 32740,
 	"segments": [
 		{
 			"speaker": "說書人",
 			"text": "第十二卦,否。",
 			"startMs": 0,
-			"endMs": 1420
+			"endMs": 1540
 		},
 		{
 			"speaker": "說書人",
 			"text": "否之匪人,不利君子貞,大往小來。",
-			"startMs": 1420,
-			"endMs": 5800
+			"startMs": 1540,
+			"endMs": 6120
 		},
 		{
 			"speaker": "說書人",
 			"text": "初六拔茅茹,以其彙,貞吉亨。",
-			"startMs": 5800,
-			"endMs": 9980
+			"startMs": 6120,
+			"endMs": 10900
 		},
 		{
 			"speaker": "說書人",
 			"text": "六二包承,小人吉,大人否亨。",
-			"startMs": 9980,
-			"endMs": 14220
+			"startMs": 10900,
+			"endMs": 16180
 		},
 		{
 			"speaker": "說書人",
 			"text": "六三包羞。",
-			"startMs": 14220,
-			"endMs": 16480
+			"startMs": 16180,
+			"endMs": 18440
 		},
 		{
 			"speaker": "說書人",
 			"text": "九四有命无咎,疇離祉。",
-			"startMs": 16480,
-			"endMs": 19860
+			"startMs": 18440,
+			"endMs": 22580
 		},
 		{
 			"speaker": "說書人",
 			"text": "九五休否,大人吉。其亡其亡,繫于苞桑。",
-			"startMs": 19860,
-			"endMs": 25240
+			"startMs": 22580,
+			"endMs": 29040
 		},
 		{
 			"speaker": "說書人",
 			"text": "上九傾否,先否後喜。",
-			"startMs": 25240,
-			"endMs": 28260
+			"startMs": 29040,
+			"endMs": 32740
 		}
 	]
 }

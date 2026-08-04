@@ -3,55 +3,55 @@
 	"title": "第十六卦 豫",
 	"language": "zh-TW",
 	"audio": "/audio/v2/short-stories/hex16.mp3",
-	"durationMs": 25740,
+	"durationMs": 29220,
 	"segments": [
 		{
 			"speaker": "說書人",
 			"text": "第十六卦,豫。",
 			"startMs": 0,
-			"endMs": 1580
+			"endMs": 1980
 		},
 		{
 			"speaker": "說書人",
 			"text": "豫利建侯行師。",
-			"startMs": 1580,
-			"endMs": 4280
+			"startMs": 1980,
+			"endMs": 4920
 		},
 		{
 			"speaker": "說書人",
 			"text": "初六鳴豫,凶。",
-			"startMs": 4280,
-			"endMs": 6740
+			"startMs": 4920,
+			"endMs": 7380
 		},
 		{
 			"speaker": "說書人",
 			"text": "六二介于石,不終日,貞吉。",
-			"startMs": 6740,
-			"endMs": 10400
+			"startMs": 7380,
+			"endMs": 11880
 		},
 		{
 			"speaker": "說書人",
 			"text": "六三盱豫,悔。遲有悔。",
-			"startMs": 10400,
-			"endMs": 14220
+			"startMs": 11880,
+			"endMs": 15740
 		},
 		{
 			"speaker": "說書人",
 			"text": "九四由豫,大有得。勿疑,朋盍簪。",
-			"startMs": 14220,
-			"endMs": 18780
+			"startMs": 15740,
+			"endMs": 21540
 		},
 		{
 			"speaker": "說書人",
 			"text": "六五貞疾,恆不死。",
-			"startMs": 18780,
-			"endMs": 21920
+			"startMs": 21540,
+			"endMs": 24880
 		},
 		{
 			"speaker": "說書人",
 			"text": "上六冥豫,成有渝,无咎。",
-			"startMs": 21920,
-			"endMs": 25740
+			"startMs": 24880,
+			"endMs": 29220
 		}
 	]
 }

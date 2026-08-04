@@ -3,55 +3,55 @@
 	"title": "第三十四卦 大壯",
 	"language": "zh-TW",
 	"audio": "/audio/v2/short-stories/hex34.mp3",
-	"durationMs": 30800,
+	"durationMs": 37800,
 	"segments": [
 		{
 			"speaker": "說書人",
 			"text": "第三十四卦,大壯。",
 			"startMs": 0,
-			"endMs": 2020
+			"endMs": 2500
 		},
 		{
 			"speaker": "說書人",
 			"text": "大壯利貞。",
-			"startMs": 2020,
-			"endMs": 4240
+			"startMs": 2500,
+			"endMs": 4640
 		},
 		{
 			"speaker": "說書人",
 			"text": "初九壯于趾,征凶,有孚。",
-			"startMs": 4240,
-			"endMs": 7220
+			"startMs": 4640,
+			"endMs": 9220
 		},
 		{
 			"speaker": "說書人",
 			"text": "九二貞吉。",
-			"startMs": 7220,
-			"endMs": 9400
+			"startMs": 9220,
+			"endMs": 11400
 		},
 		{
 			"speaker": "說書人",
 			"text": "九三小人用壯,君子用罔,貞厲。羝羊觸藩,羸其角。",
-			"startMs": 9400,
-			"endMs": 16500
+			"startMs": 11400,
+			"endMs": 19460
 		},
 		{
 			"speaker": "說書人",
 			"text": "九四貞吉,悔亡。藩決不羸,壯于大輿之輹。",
-			"startMs": 16500,
-			"endMs": 21840
+			"startMs": 19460,
+			"endMs": 26360
 		},
 		{
 			"speaker": "說書人",
 			"text": "六五喪羊于易,无悔。",
-			"startMs": 21840,
-			"endMs": 24580
+			"startMs": 26360,
+			"endMs": 29940
 		},
 		{
 			"speaker": "說書人",
 			"text": "上六羝羊觸藩,不能退,不能遂,无攸利,艱則吉。",
-			"startMs": 24580,
-			"endMs": 30800
+			"startMs": 29940,
+			"endMs": 37800
 		}
 	]
 }
