@@ -1,0 +1,51 @@
+{
+	"slug": "english-a1-08-daily-routine",
+	"title": "我的一天",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-a1-08-daily-routine.mp3",
+	"durationMs": 10005,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "What time do you get up?",
+			"startMs": 0,
+			"endMs": 1515
+		},
+		{
+			"speaker": "Michael",
+			"text": "I get up at seven.",
+			"startMs": 1515,
+			"endMs": 3051
+		},
+		{
+			"speaker": "Michael",
+			"text": "Then I go to work.",
+			"startMs": 3051,
+			"endMs": 4523
+		},
+		{
+			"speaker": "Michael",
+			"text": "When do you have lunch?",
+			"startMs": 4523,
+			"endMs": 6016
+		},
+		{
+			"speaker": "Michael",
+			"text": "At twelve.",
+			"startMs": 6016,
+			"endMs": 7125
+		},
+		{
+			"speaker": "Michael",
+			"text": "I finish work at six.",
+			"startMs": 7125,
+			"endMs": 8746
+		},
+		{
+			"speaker": "Michael",
+			"text": "What time is it?",
+			"startMs": 8746,
+			"endMs": 10005
+		}
+	]
+}

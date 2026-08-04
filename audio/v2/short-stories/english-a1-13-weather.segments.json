@@ -1,0 +1,51 @@
+{
+	"slug": "english-a1-13-weather",
+	"title": "天氣與季節",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-a1-13-weather.mp3",
+	"durationMs": 10005,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "It's a beautiful day today!",
+			"startMs": 0,
+			"endMs": 1792
+		},
+		{
+			"speaker": "Michael",
+			"text": "Yeah, it's sunny and warm.",
+			"startMs": 1792,
+			"endMs": 3392
+		},
+		{
+			"speaker": "Michael",
+			"text": "I love spring.",
+			"startMs": 3392,
+			"endMs": 4757
+		},
+		{
+			"speaker": "Michael",
+			"text": "Me too.",
+			"startMs": 4757,
+			"endMs": 5738
+		},
+		{
+			"speaker": "Michael",
+			"text": "In fall it gets cold here.",
+			"startMs": 5738,
+			"endMs": 7402
+		},
+		{
+			"speaker": "Michael",
+			"text": "Right.",
+			"startMs": 7402,
+			"endMs": 8149
+		},
+		{
+			"speaker": "Michael",
+			"text": "But I like the cool weather.",
+			"startMs": 8149,
+			"endMs": 10005
+		}
+	]
+}

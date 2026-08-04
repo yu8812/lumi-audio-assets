@@ -1,0 +1,81 @@
+{
+	"slug": "english-a1-19-future",
+	"title": "未來與計畫",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-a1-19-future.mp3",
+	"durationMs": 18113,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "What are you going to do this weekend?",
+			"startMs": 0,
+			"endMs": 2069
+		},
+		{
+			"speaker": "Michael",
+			"text": "I'm going to visit my parents.",
+			"startMs": 2069,
+			"endMs": 4096
+		},
+		{
+			"speaker": "Michael",
+			"text": "And you?",
+			"startMs": 4096,
+			"endMs": 5035
+		},
+		{
+			"speaker": "Michael",
+			"text": "I'm not sure yet.",
+			"startMs": 5035,
+			"endMs": 6507
+		},
+		{
+			"speaker": "Michael",
+			"text": "Maybe I'll stay home.",
+			"startMs": 6507,
+			"endMs": 8171
+		},
+		{
+			"speaker": "Michael",
+			"text": "If you're free, I'll call you.",
+			"startMs": 8171,
+			"endMs": 10006
+		},
+		{
+			"speaker": "Michael",
+			"text": "I'm going to study.",
+			"startMs": 10006,
+			"endMs": 11478
+		},
+		{
+			"speaker": "Michael",
+			"text": "She's going to travel.",
+			"startMs": 11478,
+			"endMs": 12971
+		},
+		{
+			"speaker": "Michael",
+			"text": "They're going to move.",
+			"startMs": 12971,
+			"endMs": 14294
+		},
+		{
+			"speaker": "Michael",
+			"text": "What are you going to do?",
+			"startMs": 14294,
+			"endMs": 15809
+		},
+		{
+			"speaker": "Michael",
+			"text": "I will help.",
+			"startMs": 15809,
+			"endMs": 16918
+		},
+		{
+			"speaker": "Michael",
+			"text": "It will rain.",
+			"startMs": 16918,
+			"endMs": 18113
+		}
+	]
+}

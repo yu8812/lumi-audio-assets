@@ -1,0 +1,51 @@
+{
+	"slug": "english-a1-10-food-drink",
+	"title": "食物與飲料",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-a1-10-food-drink.mp3",
+	"durationMs": 10624,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "Are you hungry?",
+			"startMs": 0,
+			"endMs": 1280
+		},
+		{
+			"speaker": "Michael",
+			"text": "We have some fries and cookies.",
+			"startMs": 1280,
+			"endMs": 3264
+		},
+		{
+			"speaker": "Michael",
+			"text": "Yes!",
+			"startMs": 3264,
+			"endMs": 3989
+		},
+		{
+			"speaker": "Michael",
+			"text": "Do you have any coffee?",
+			"startMs": 3989,
+			"endMs": 5525
+		},
+		{
+			"speaker": "Michael",
+			"text": "Sorry, we don't have any coffee.",
+			"startMs": 5525,
+			"endMs": 7616
+		},
+		{
+			"speaker": "Michael",
+			"text": "Just tea and water.",
+			"startMs": 7616,
+			"endMs": 9088
+		},
+		{
+			"speaker": "Michael",
+			"text": "Tea is fine, thanks.",
+			"startMs": 9088,
+			"endMs": 10624
+		}
+	]
+}

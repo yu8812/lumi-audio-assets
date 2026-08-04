@@ -1,0 +1,69 @@
+{
+	"slug": "english-a1-07-this-that",
+	"title": "這是什麼?身邊的東西",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-a1-07-this-that.mp3",
+	"durationMs": 12672,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "Excuse me, what's this?",
+			"startMs": 0,
+			"endMs": 1685
+		},
+		{
+			"speaker": "Michael",
+			"text": "That's a printer.",
+			"startMs": 1685,
+			"endMs": 2944
+		},
+		{
+			"speaker": "Michael",
+			"text": "And these are your keys.",
+			"startMs": 2944,
+			"endMs": 4565
+		},
+		{
+			"speaker": "Michael",
+			"text": "Thanks!",
+			"startMs": 4565,
+			"endMs": 5397
+		},
+		{
+			"speaker": "Michael",
+			"text": "And what are those?",
+			"startMs": 5397,
+			"endMs": 6826
+		},
+		{
+			"speaker": "Michael",
+			"text": "Those are meeting rooms.",
+			"startMs": 6826,
+			"endMs": 8341
+		},
+		{
+			"speaker": "Michael",
+			"text": "What's this?",
+			"startMs": 8341,
+			"endMs": 9344
+		},
+		{
+			"speaker": "Michael",
+			"text": "What's that?",
+			"startMs": 9344,
+			"endMs": 10347
+		},
+		{
+			"speaker": "Michael",
+			"text": "What are these?",
+			"startMs": 10347,
+			"endMs": 11456
+		},
+		{
+			"speaker": "Michael",
+			"text": "What are those?",
+			"startMs": 11456,
+			"endMs": 12672
+		}
+	]
+}

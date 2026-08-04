@@ -1,0 +1,39 @@
+{
+	"slug": "english-a1-01-sounds",
+	"title": "英語的聲音:字母與發音",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-a1-01-sounds.mp3",
+	"durationMs": 6187,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "What's your name?",
+			"startMs": 0,
+			"endMs": 1195
+		},
+		{
+			"speaker": "Michael",
+			"text": "I'm Wei.",
+			"startMs": 1195,
+			"endMs": 2262
+		},
+		{
+			"speaker": "Michael",
+			"text": "How do you spell it?",
+			"startMs": 2262,
+			"endMs": 3649
+		},
+		{
+			"speaker": "Michael",
+			"text": "Got it.",
+			"startMs": 3649,
+			"endMs": 4566
+		},
+		{
+			"speaker": "Michael",
+			"text": "Nice to meet you, Wei.",
+			"startMs": 4566,
+			"endMs": 6187
+		}
+	]
+}

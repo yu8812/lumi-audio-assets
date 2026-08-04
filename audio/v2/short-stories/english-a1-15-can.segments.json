@@ -1,0 +1,63 @@
+{
+	"slug": "english-a1-15-can",
+	"title": "我會 / 我不會",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-a1-15-can.mp3",
+	"durationMs": 12011,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "Can you drive?",
+			"startMs": 0,
+			"endMs": 1259
+		},
+		{
+			"speaker": "Michael",
+			"text": "Yes, I can.",
+			"startMs": 1259,
+			"endMs": 2390
+		},
+		{
+			"speaker": "Michael",
+			"text": "But I can't drive a truck.",
+			"startMs": 2390,
+			"endMs": 4139
+		},
+		{
+			"speaker": "Michael",
+			"text": "Can you help me tomorrow?",
+			"startMs": 4139,
+			"endMs": 5675
+		},
+		{
+			"speaker": "Michael",
+			"text": "Sure, no problem.",
+			"startMs": 5675,
+			"endMs": 7211
+		},
+		{
+			"speaker": "Michael",
+			"text": "I can cook.",
+			"startMs": 7211,
+			"endMs": 8278
+		},
+		{
+			"speaker": "Michael",
+			"text": "I can't swim.",
+			"startMs": 8278,
+			"endMs": 9579
+		},
+		{
+			"speaker": "Michael",
+			"text": "No, I can't.",
+			"startMs": 9579,
+			"endMs": 10731
+		},
+		{
+			"speaker": "Michael",
+			"text": "Can I sit here?",
+			"startMs": 10731,
+			"endMs": 12011
+		}
+	]
+}

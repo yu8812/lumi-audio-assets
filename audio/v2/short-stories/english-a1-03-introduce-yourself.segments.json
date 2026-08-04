@@ -1,0 +1,57 @@
+{
+	"slug": "english-a1-03-introduce-yourself",
+	"title": "自我介紹:我是誰",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-a1-03-introduce-yourself.mp3",
+	"durationMs": 9920,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "Hi, I'm Mia.",
+			"startMs": 0,
+			"endMs": 1237
+		},
+		{
+			"speaker": "Michael",
+			"text": "What's your name?",
+			"startMs": 1237,
+			"endMs": 2432
+		},
+		{
+			"speaker": "Michael",
+			"text": "Hi, Mia.",
+			"startMs": 2432,
+			"endMs": 3435
+		},
+		{
+			"speaker": "Michael",
+			"text": "I'm Jun.",
+			"startMs": 3435,
+			"endMs": 4502
+		},
+		{
+			"speaker": "Michael",
+			"text": "Nice to meet you.",
+			"startMs": 4502,
+			"endMs": 5867
+		},
+		{
+			"speaker": "Michael",
+			"text": "Nice to meet you, too.",
+			"startMs": 5867,
+			"endMs": 7424
+		},
+		{
+			"speaker": "Michael",
+			"text": "I'm Wei.",
+			"startMs": 7424,
+			"endMs": 8491
+		},
+		{
+			"speaker": "Michael",
+			"text": "My name is Wei.",
+			"startMs": 8491,
+			"endMs": 9920
+		}
+	]
+}

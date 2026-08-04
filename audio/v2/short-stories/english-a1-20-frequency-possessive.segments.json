@@ -1,0 +1,45 @@
+{
+	"slug": "english-a1-20-frequency-possessive",
+	"title": "多久一次、誰的、代替名字",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-a1-20-frequency-possessive.mp3",
+	"durationMs": 11286,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "Do you drink coffee?",
+			"startMs": 0,
+			"endMs": 1408
+		},
+		{
+			"speaker": "Michael",
+			"text": "I usually drink tea, but I sometimes have coffee.",
+			"startMs": 1408,
+			"endMs": 4715
+		},
+		{
+			"speaker": "Michael",
+			"text": "How about you?",
+			"startMs": 4715,
+			"endMs": 5995
+		},
+		{
+			"speaker": "Michael",
+			"text": "I always drink coffee.",
+			"startMs": 5995,
+			"endMs": 7638
+		},
+		{
+			"speaker": "Michael",
+			"text": "It's my sister's favorite too.",
+			"startMs": 7638,
+			"endMs": 9729
+		},
+		{
+			"speaker": "Michael",
+			"text": "Tell her I said hi!",
+			"startMs": 9729,
+			"endMs": 11286
+		}
+	]
+}

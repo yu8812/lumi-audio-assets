@@ -1,0 +1,57 @@
+{
+	"slug": "english-a1-16-place-directions",
+	"title": "位置與方向",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-a1-16-place-directions.mp3",
+	"durationMs": 12416,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "Excuse me, where's the station?",
+			"startMs": 0,
+			"endMs": 2069
+		},
+		{
+			"speaker": "Michael",
+			"text": "Go straight, then turn left.",
+			"startMs": 2069,
+			"endMs": 3861
+		},
+		{
+			"speaker": "Michael",
+			"text": "It's next to a big park.",
+			"startMs": 3861,
+			"endMs": 5696
+		},
+		{
+			"speaker": "Michael",
+			"text": "Is there a bank near here?",
+			"startMs": 5696,
+			"endMs": 7253
+		},
+		{
+			"speaker": "Michael",
+			"text": "Yes, there's one on your right.",
+			"startMs": 7253,
+			"endMs": 8981
+		},
+		{
+			"speaker": "Michael",
+			"text": "Yes, there is.",
+			"startMs": 8981,
+			"endMs": 10090
+		},
+		{
+			"speaker": "Michael",
+			"text": "No, there isn't.",
+			"startMs": 10090,
+			"endMs": 11285
+		},
+		{
+			"speaker": "Michael",
+			"text": "Go straight.",
+			"startMs": 11285,
+			"endMs": 12416
+		}
+	]
+}

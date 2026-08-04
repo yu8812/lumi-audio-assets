@@ -1,0 +1,63 @@
+{
+	"slug": "english-a1-12-time-dates",
+	"title": "時間、星期與約定",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-a1-12-time-dates.mp3",
+	"durationMs": 12716,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "Are you free on Saturday?",
+			"startMs": 0,
+			"endMs": 1835
+		},
+		{
+			"speaker": "Michael",
+			"text": "Saturday morning, yes.",
+			"startMs": 1835,
+			"endMs": 3456
+		},
+		{
+			"speaker": "Michael",
+			"text": "What time?",
+			"startMs": 3456,
+			"endMs": 4523
+		},
+		{
+			"speaker": "Michael",
+			"text": "At ten?",
+			"startMs": 4523,
+			"endMs": 5526
+		},
+		{
+			"speaker": "Michael",
+			"text": "Let's have coffee.",
+			"startMs": 5526,
+			"endMs": 6913
+		},
+		{
+			"speaker": "Michael",
+			"text": "Sounds good.",
+			"startMs": 6913,
+			"endMs": 8022
+		},
+		{
+			"speaker": "Michael",
+			"text": "See you on Saturday at ten!",
+			"startMs": 8022,
+			"endMs": 9985
+		},
+		{
+			"speaker": "Michael",
+			"text": "What day is it today?",
+			"startMs": 9985,
+			"endMs": 11457
+		},
+		{
+			"speaker": "Michael",
+			"text": "What time is it?",
+			"startMs": 11457,
+			"endMs": 12716
+		}
+	]
+}

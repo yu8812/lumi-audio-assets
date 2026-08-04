@@ -1,0 +1,57 @@
+{
+	"slug": "english-a1-04-where-from",
+	"title": "你從哪裡來",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-a1-04-where-from.mp3",
+	"durationMs": 11454,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "Where are you from, Jun?",
+			"startMs": 0,
+			"endMs": 1621
+		},
+		{
+			"speaker": "Michael",
+			"text": "I'm from Taiwan.",
+			"startMs": 1621,
+			"endMs": 3178
+		},
+		{
+			"speaker": "Michael",
+			"text": "How about you?",
+			"startMs": 3178,
+			"endMs": 4458
+		},
+		{
+			"speaker": "Michael",
+			"text": "I'm from Canada.",
+			"startMs": 4458,
+			"endMs": 5823
+		},
+		{
+			"speaker": "Michael",
+			"text": "Is this your first time here?",
+			"startMs": 5823,
+			"endMs": 7572
+		},
+		{
+			"speaker": "Michael",
+			"text": "Yes, it is.",
+			"startMs": 7572,
+			"endMs": 8724
+		},
+		{
+			"speaker": "Michael",
+			"text": "Where are you from?",
+			"startMs": 8724,
+			"endMs": 10089
+		},
+		{
+			"speaker": "Michael",
+			"text": "I'm Taiwanese.",
+			"startMs": 10089,
+			"endMs": 11454
+		}
+	]
+}

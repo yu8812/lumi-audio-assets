@@ -1,0 +1,87 @@
+{
+	"slug": "english-a1-11-ordering-shopping",
+	"title": "點餐與購物",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-a1-11-ordering-shopping.mp3",
+	"durationMs": 18624,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "Hi, what can I get you?",
+			"startMs": 0,
+			"endMs": 1707
+		},
+		{
+			"speaker": "Michael",
+			"text": "I'd like a coffee and a sandwich, please.",
+			"startMs": 1707,
+			"endMs": 4224
+		},
+		{
+			"speaker": "Michael",
+			"text": "Sure.",
+			"startMs": 4224,
+			"endMs": 4971
+		},
+		{
+			"speaker": "Michael",
+			"text": "For here or to go?",
+			"startMs": 4971,
+			"endMs": 6550
+		},
+		{
+			"speaker": "Michael",
+			"text": "To go, please.",
+			"startMs": 6550,
+			"endMs": 7723
+		},
+		{
+			"speaker": "Michael",
+			"text": "How much is it?",
+			"startMs": 7723,
+			"endMs": 9067
+		},
+		{
+			"speaker": "Michael",
+			"text": "That's 6 dollars.",
+			"startMs": 9067,
+			"endMs": 10496
+		},
+		{
+			"speaker": "Michael",
+			"text": "Here you go.",
+			"startMs": 10496,
+			"endMs": 11605
+		},
+		{
+			"speaker": "Michael",
+			"text": "Thank you!",
+			"startMs": 11605,
+			"endMs": 12544
+		},
+		{
+			"speaker": "Michael",
+			"text": "How much is this?",
+			"startMs": 12544,
+			"endMs": 13973
+		},
+		{
+			"speaker": "Michael",
+			"text": "How much are these?",
+			"startMs": 13973,
+			"endMs": 15488
+		},
+		{
+			"speaker": "Michael",
+			"text": "Can I have the check, please?",
+			"startMs": 15488,
+			"endMs": 17301
+		},
+		{
+			"speaker": "Michael",
+			"text": "Keep the change.",
+			"startMs": 17301,
+			"endMs": 18624
+		}
+	]
+}

@@ -1,0 +1,81 @@
+{
+	"slug": "english-a1-09-likes",
+	"title": "我喜歡…",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-a1-09-likes.mp3",
+	"durationMs": 14827,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "Do you like coffee?",
+			"startMs": 0,
+			"endMs": 1451
+		},
+		{
+			"speaker": "Michael",
+			"text": "Yes, I love coffee!",
+			"startMs": 1451,
+			"endMs": 2923
+		},
+		{
+			"speaker": "Michael",
+			"text": "Do you?",
+			"startMs": 2923,
+			"endMs": 3798
+		},
+		{
+			"speaker": "Michael",
+			"text": "Not really.",
+			"startMs": 3798,
+			"endMs": 4929
+		},
+		{
+			"speaker": "Michael",
+			"text": "I like tea.",
+			"startMs": 4929,
+			"endMs": 6209
+		},
+		{
+			"speaker": "Michael",
+			"text": "And I like cooking.",
+			"startMs": 6209,
+			"endMs": 7724
+		},
+		{
+			"speaker": "Michael",
+			"text": "Me too!",
+			"startMs": 7724,
+			"endMs": 8727
+		},
+		{
+			"speaker": "Michael",
+			"text": "I like cooking on weekends.",
+			"startMs": 8727,
+			"endMs": 10583
+		},
+		{
+			"speaker": "Michael",
+			"text": "Yes, I do.",
+			"startMs": 10583,
+			"endMs": 11628
+		},
+		{
+			"speaker": "Michael",
+			"text": "No, I don't.",
+			"startMs": 11628,
+			"endMs": 12801
+		},
+		{
+			"speaker": "Michael",
+			"text": "Me too.",
+			"startMs": 12801,
+			"endMs": 13782
+		},
+		{
+			"speaker": "Michael",
+			"text": "Me neither.",
+			"startMs": 13782,
+			"endMs": 14827
+		}
+	]
+}

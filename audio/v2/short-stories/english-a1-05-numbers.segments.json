@@ -1,0 +1,51 @@
+{
+	"slug": "english-a1-05-numbers",
+	"title": "數字、年齡與電話",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-a1-05-numbers.mp3",
+	"durationMs": 14763,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "How old are you, if you don't mind me asking?",
+			"startMs": 0,
+			"endMs": 2773
+		},
+		{
+			"speaker": "Michael",
+			"text": "Not at all.",
+			"startMs": 2773,
+			"endMs": 4032
+		},
+		{
+			"speaker": "Michael",
+			"text": "I'm twenty-five.",
+			"startMs": 4032,
+			"endMs": 5461
+		},
+		{
+			"speaker": "Michael",
+			"text": "Oh, me too!",
+			"startMs": 5461,
+			"endMs": 6634
+		},
+		{
+			"speaker": "Michael",
+			"text": "What's your number?",
+			"startMs": 6634,
+			"endMs": 7829
+		},
+		{
+			"speaker": "Michael",
+			"text": "It's 0912-345-678.",
+			"startMs": 7829,
+			"endMs": 13376
+		},
+		{
+			"speaker": "Michael",
+			"text": "How old are you?",
+			"startMs": 13376,
+			"endMs": 14763
+		}
+	]
+}

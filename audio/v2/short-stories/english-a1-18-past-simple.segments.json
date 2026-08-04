@@ -1,0 +1,81 @@
+{
+	"slug": "english-a1-18-past-simple",
+	"title": "過去的事",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-a1-18-past-simple.mp3",
+	"durationMs": 15702,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "How was your weekend?",
+			"startMs": 0,
+			"endMs": 1472
+		},
+		{
+			"speaker": "Michael",
+			"text": "It was great!",
+			"startMs": 1472,
+			"endMs": 2688
+		},
+		{
+			"speaker": "Michael",
+			"text": "I went to the beach with friends.",
+			"startMs": 2688,
+			"endMs": 4672
+		},
+		{
+			"speaker": "Michael",
+			"text": "Nice!",
+			"startMs": 4672,
+			"endMs": 5504
+		},
+		{
+			"speaker": "Michael",
+			"text": "Did you swim?",
+			"startMs": 5504,
+			"endMs": 6656
+		},
+		{
+			"speaker": "Michael",
+			"text": "No, I didn't.",
+			"startMs": 6656,
+			"endMs": 7851
+		},
+		{
+			"speaker": "Michael",
+			"text": "But we ate a lot and played games.",
+			"startMs": 7851,
+			"endMs": 10006
+		},
+		{
+			"speaker": "Michael",
+			"text": "I was happy.",
+			"startMs": 10006,
+			"endMs": 11243
+		},
+		{
+			"speaker": "Michael",
+			"text": "They were here.",
+			"startMs": 11243,
+			"endMs": 12310
+		},
+		{
+			"speaker": "Michael",
+			"text": "I didn't go.",
+			"startMs": 12310,
+			"endMs": 13526
+		},
+		{
+			"speaker": "Michael",
+			"text": "Did you go?",
+			"startMs": 13526,
+			"endMs": 14571
+		},
+		{
+			"speaker": "Michael",
+			"text": "Yes, I did.",
+			"startMs": 14571,
+			"endMs": 15702
+		}
+	]
+}

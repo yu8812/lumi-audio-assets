@@ -1,0 +1,57 @@
+{
+	"slug": "english-a1-14-adjectives",
+	"title": "描述人與物",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-a1-14-adjectives.mp3",
+	"durationMs": 11072,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "Look at this house!",
+			"startMs": 0,
+			"endMs": 1237
+		},
+		{
+			"speaker": "Michael",
+			"text": "It's really big.",
+			"startMs": 1237,
+			"endMs": 2560
+		},
+		{
+			"speaker": "Michael",
+			"text": "Yeah, and it's beautiful.",
+			"startMs": 2560,
+			"endMs": 4032
+		},
+		{
+			"speaker": "Michael",
+			"text": "But it's expensive.",
+			"startMs": 4032,
+			"endMs": 5461
+		},
+		{
+			"speaker": "Michael",
+			"text": "I like the small red door.",
+			"startMs": 5461,
+			"endMs": 7360
+		},
+		{
+			"speaker": "Michael",
+			"text": "She is tall.",
+			"startMs": 7360,
+			"endMs": 8512
+		},
+		{
+			"speaker": "Michael",
+			"text": "The car is red.",
+			"startMs": 8512,
+			"endMs": 9856
+		},
+		{
+			"speaker": "Michael",
+			"text": "They are happy.",
+			"startMs": 9856,
+			"endMs": 11072
+		}
+	]
+}

@@ -1,0 +1,87 @@
+{
+	"slug": "english-a1-06-family",
+	"title": "家人與朋友",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-a1-06-family.mp3",
+	"durationMs": 18689,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "This is my family.",
+			"startMs": 0,
+			"endMs": 1515
+		},
+		{
+			"speaker": "Michael",
+			"text": "This is my mother, and this is my father.",
+			"startMs": 1515,
+			"endMs": 4288
+		},
+		{
+			"speaker": "Michael",
+			"text": "Nice!",
+			"startMs": 4288,
+			"endMs": 5120
+		},
+		{
+			"speaker": "Michael",
+			"text": "Who's this?",
+			"startMs": 5120,
+			"endMs": 6123
+		},
+		{
+			"speaker": "Michael",
+			"text": "That's my little brother.",
+			"startMs": 6123,
+			"endMs": 7702
+		},
+		{
+			"speaker": "Michael",
+			"text": "His name is Leo.",
+			"startMs": 7702,
+			"endMs": 9238
+		},
+		{
+			"speaker": "Michael",
+			"text": "Do you have a sister?",
+			"startMs": 9238,
+			"endMs": 10646
+		},
+		{
+			"speaker": "Michael",
+			"text": "No, I don't.",
+			"startMs": 10646,
+			"endMs": 11819
+		},
+		{
+			"speaker": "Michael",
+			"text": "Just one brother.",
+			"startMs": 11819,
+			"endMs": 13142
+		},
+		{
+			"speaker": "Michael",
+			"text": "This is my mother.",
+			"startMs": 13142,
+			"endMs": 14529
+		},
+		{
+			"speaker": "Michael",
+			"text": "That's my friend, Amy.",
+			"startMs": 14529,
+			"endMs": 16129
+		},
+		{
+			"speaker": "Michael",
+			"text": "I have two brothers.",
+			"startMs": 16129,
+			"endMs": 17644
+		},
+		{
+			"speaker": "Michael",
+			"text": "Yes, I do.",
+			"startMs": 17644,
+			"endMs": 18689
+		}
+	]
+}

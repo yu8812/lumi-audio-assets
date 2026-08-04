@@ -1,0 +1,123 @@
+{
+	"slug": "english-a1-02-hello",
+	"title": "打招呼與道別",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-a1-02-hello.mp3",
+	"durationMs": 19521,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "Good morning, Ken!",
+			"startMs": 0,
+			"endMs": 1280
+		},
+		{
+			"speaker": "Michael",
+			"text": "Good morning.",
+			"startMs": 1280,
+			"endMs": 2389
+		},
+		{
+			"speaker": "Michael",
+			"text": "How are you?",
+			"startMs": 2389,
+			"endMs": 3520
+		},
+		{
+			"speaker": "Michael",
+			"text": "I'm good, thanks.",
+			"startMs": 3520,
+			"endMs": 4757
+		},
+		{
+			"speaker": "Michael",
+			"text": "And you?",
+			"startMs": 4757,
+			"endMs": 5696
+		},
+		{
+			"speaker": "Michael",
+			"text": "Pretty good.",
+			"startMs": 5696,
+			"endMs": 6763
+		},
+		{
+			"speaker": "Michael",
+			"text": "Hi!",
+			"startMs": 6763,
+			"endMs": 7510
+		},
+		{
+			"speaker": "Michael",
+			"text": "How's it going?",
+			"startMs": 7510,
+			"endMs": 8811
+		},
+		{
+			"speaker": "Michael",
+			"text": "Not bad.",
+			"startMs": 8811,
+			"endMs": 9878
+		},
+		{
+			"speaker": "Michael",
+			"text": "I'm great!",
+			"startMs": 9878,
+			"endMs": 10945
+		},
+		{
+			"speaker": "Michael",
+			"text": "Hi.",
+			"startMs": 10945,
+			"endMs": 11670
+		},
+		{
+			"speaker": "Michael",
+			"text": "Hello.",
+			"startMs": 11670,
+			"endMs": 12545
+		},
+		{
+			"speaker": "Michael",
+			"text": "Good afternoon.",
+			"startMs": 12545,
+			"endMs": 13761
+		},
+		{
+			"speaker": "Michael",
+			"text": "Good evening.",
+			"startMs": 13761,
+			"endMs": 14764
+		},
+		{
+			"speaker": "Michael",
+			"text": "Bye.",
+			"startMs": 14764,
+			"endMs": 15511
+		},
+		{
+			"speaker": "Michael",
+			"text": "Goodbye.",
+			"startMs": 15511,
+			"endMs": 16428
+		},
+		{
+			"speaker": "Michael",
+			"text": "See you.",
+			"startMs": 16428,
+			"endMs": 17409
+		},
+		{
+			"speaker": "Michael",
+			"text": "See you later.",
+			"startMs": 17409,
+			"endMs": 18604
+		},
+		{
+			"speaker": "Michael",
+			"text": "Good night.",
+			"startMs": 18604,
+			"endMs": 19521
+		}
+	]
+}

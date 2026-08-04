@@ -1,0 +1,87 @@
+{
+	"slug": "english-a1-17-present-continuous",
+	"title": "現在正在做",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-a1-17-present-continuous.mp3",
+	"durationMs": 16406,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "Hi!",
+			"startMs": 0,
+			"endMs": 747
+		},
+		{
+			"speaker": "Michael",
+			"text": "What are you doing?",
+			"startMs": 747,
+			"endMs": 1984
+		},
+		{
+			"speaker": "Michael",
+			"text": "I'm cooking dinner.",
+			"startMs": 1984,
+			"endMs": 3371
+		},
+		{
+			"speaker": "Michael",
+			"text": "Where are you?",
+			"startMs": 3371,
+			"endMs": 4544
+		},
+		{
+			"speaker": "Michael",
+			"text": "I'm waiting for the bus.",
+			"startMs": 4544,
+			"endMs": 6123
+		},
+		{
+			"speaker": "Michael",
+			"text": "It's raining here.",
+			"startMs": 6123,
+			"endMs": 7403
+		},
+		{
+			"speaker": "Michael",
+			"text": "Oh no.",
+			"startMs": 7403,
+			"endMs": 8406
+		},
+		{
+			"speaker": "Michael",
+			"text": "Are you carrying an umbrella?",
+			"startMs": 8406,
+			"endMs": 10326
+		},
+		{
+			"speaker": "Michael",
+			"text": "I'm working.",
+			"startMs": 10326,
+			"endMs": 11457
+		},
+		{
+			"speaker": "Michael",
+			"text": "She's eating.",
+			"startMs": 11457,
+			"endMs": 12566
+		},
+		{
+			"speaker": "Michael",
+			"text": "They're playing.",
+			"startMs": 12566,
+			"endMs": 13654
+		},
+		{
+			"speaker": "Michael",
+			"text": "I'm not working.",
+			"startMs": 13654,
+			"endMs": 15083
+		},
+		{
+			"speaker": "Michael",
+			"text": "Are you working?",
+			"startMs": 15083,
+			"endMs": 16406
+		}
+	]
+}
