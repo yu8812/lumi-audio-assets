@@ -1,0 +1,51 @@
+{
+	"slug": "english-b2-02-future-perfect",
+	"title": "未來完成式(will have done)",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-b2-02-future-perfect.mp3",
+	"durationMs": 16405,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "Let's start the project next month.",
+			"startMs": 0,
+			"endMs": 2176
+		},
+		{
+			"speaker": "Michael",
+			"text": "Good.",
+			"startMs": 2176,
+			"endMs": 2923
+		},
+		{
+			"speaker": "Michael",
+			"text": "By the end of the year, we'll have finished the first part.",
+			"startMs": 2923,
+			"endMs": 6016
+		},
+		{
+			"speaker": "Michael",
+			"text": "And by next summer?",
+			"startMs": 6016,
+			"endMs": 7467
+		},
+		{
+			"speaker": "Michael",
+			"text": "By then, I'll have been working on this for two years!",
+			"startMs": 7467,
+			"endMs": 10304
+		},
+		{
+			"speaker": "Michael",
+			"text": "By 2030, I will have graduated.",
+			"startMs": 10304,
+			"endMs": 13333
+		},
+		{
+			"speaker": "Michael",
+			"text": "By December, I'll have been living here for ten years.",
+			"startMs": 13333,
+			"endMs": 16405
+		}
+	]
+}

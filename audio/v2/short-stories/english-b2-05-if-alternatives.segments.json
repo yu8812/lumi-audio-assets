@@ -1,0 +1,57 @@
+{
+	"slug": "english-b2-05-if-alternatives",
+	"title": "if 的替代與倒裝",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-b2-05-if-alternatives.mp3",
+	"durationMs": 16255,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "Can I borrow your car?",
+			"startMs": 0,
+			"endMs": 1813
+		},
+		{
+			"speaker": "Michael",
+			"text": "Sure, as long as you fill up the tank.",
+			"startMs": 1813,
+			"endMs": 4181
+		},
+		{
+			"speaker": "Michael",
+			"text": "I'll take an umbrella in case it rains.",
+			"startMs": 4181,
+			"endMs": 6698
+		},
+		{
+			"speaker": "Michael",
+			"text": "Good idea.",
+			"startMs": 6698,
+			"endMs": 7679
+		},
+		{
+			"speaker": "Michael",
+			"text": "You'll be late unless you hurry.",
+			"startMs": 7679,
+			"endMs": 9663
+		},
+		{
+			"speaker": "Michael",
+			"text": "You can stay as long as you're quiet.",
+			"startMs": 9663,
+			"endMs": 11924
+		},
+		{
+			"speaker": "Michael",
+			"text": "Take cash in case the card doesn't work.",
+			"startMs": 11924,
+			"endMs": 14463
+		},
+		{
+			"speaker": "Michael",
+			"text": "I'll go even if it rains.",
+			"startMs": 14463,
+			"endMs": 16255
+		}
+	]
+}

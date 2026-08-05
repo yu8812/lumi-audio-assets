@@ -1,0 +1,39 @@
+{
+	"slug": "english-b1-19-linking-fluency",
+	"title": "讓表達更有條理(連接語)",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-b1-19-linking-fluency.mp3",
+	"durationMs": 15402,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "First of all, learning English opens doors to jobs.",
+			"startMs": 0,
+			"endMs": 3584
+		},
+		{
+			"speaker": "Michael",
+			"text": "In addition, it lets you travel more easily.",
+			"startMs": 3584,
+			"endMs": 6528
+		},
+		{
+			"speaker": "Michael",
+			"text": "For example, you can ask for directions or order food anywhere.",
+			"startMs": 6528,
+			"endMs": 10645
+		},
+		{
+			"speaker": "Michael",
+			"text": "However, it takes time and practice.",
+			"startMs": 10645,
+			"endMs": 12949
+		},
+		{
+			"speaker": "Michael",
+			"text": "To sum up, it's difficult but worth it.",
+			"startMs": 12949,
+			"endMs": 15402
+		}
+	]
+}

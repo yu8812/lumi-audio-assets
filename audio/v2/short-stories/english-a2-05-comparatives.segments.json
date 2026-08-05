@@ -1,0 +1,57 @@
+{
+	"slug": "english-a2-05-comparatives",
+	"title": "誰比較…(比較級)",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-a2-05-comparatives.mp3",
+	"durationMs": 15360,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "This phone is nice, but it's more expensive than mine.",
+			"startMs": 0,
+			"endMs": 3413
+		},
+		{
+			"speaker": "Michael",
+			"text": "Yeah.",
+			"startMs": 3413,
+			"endMs": 4117
+		},
+		{
+			"speaker": "Michael",
+			"text": "The other one is cheaper and lighter.",
+			"startMs": 4117,
+			"endMs": 6250
+		},
+		{
+			"speaker": "Michael",
+			"text": "True, but this screen is better.",
+			"startMs": 6250,
+			"endMs": 8213
+		},
+		{
+			"speaker": "Michael",
+			"text": "Tokyo is bigger than Osaka.",
+			"startMs": 8213,
+			"endMs": 10240
+		},
+		{
+			"speaker": "Michael",
+			"text": "This is more expensive than that.",
+			"startMs": 10240,
+			"endMs": 12181
+		},
+		{
+			"speaker": "Michael",
+			"text": "A or B?",
+			"startMs": 12181,
+			"endMs": 13333
+		},
+		{
+			"speaker": "Michael",
+			"text": "Which is cheaper, this or that?",
+			"startMs": 13333,
+			"endMs": 15360
+		}
+	]
+}

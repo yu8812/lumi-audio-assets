@@ -1,0 +1,75 @@
+{
+	"slug": "english-a2-02-past-continuous",
+	"title": "那時正在發生",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-a2-02-past-continuous.mp3",
+	"durationMs": 18729,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "Sorry I missed your call.",
+			"startMs": 0,
+			"endMs": 1813
+		},
+		{
+			"speaker": "Michael",
+			"text": "What were you doing?",
+			"startMs": 1813,
+			"endMs": 3008
+		},
+		{
+			"speaker": "Michael",
+			"text": "No worries.",
+			"startMs": 3008,
+			"endMs": 4096
+		},
+		{
+			"speaker": "Michael",
+			"text": "When you called, I was driving.",
+			"startMs": 4096,
+			"endMs": 6037
+		},
+		{
+			"speaker": "Michael",
+			"text": "Ah, that makes sense.",
+			"startMs": 6037,
+			"endMs": 7552
+		},
+		{
+			"speaker": "Michael",
+			"text": "I called because it started to rain.",
+			"startMs": 7552,
+			"endMs": 9749
+		},
+		{
+			"speaker": "Michael",
+			"text": "Yeah, it was raining hard while I was driving home.",
+			"startMs": 9749,
+			"endMs": 12821
+		},
+		{
+			"speaker": "Michael",
+			"text": "I was working.",
+			"startMs": 12821,
+			"endMs": 14122
+		},
+		{
+			"speaker": "Michael",
+			"text": "They were waiting.",
+			"startMs": 14122,
+			"endMs": 15295
+		},
+		{
+			"speaker": "Michael",
+			"text": "I was cooking when the phone rang.",
+			"startMs": 15295,
+			"endMs": 17300
+		},
+		{
+			"speaker": "Michael",
+			"text": "I wasn't sleeping.",
+			"startMs": 17300,
+			"endMs": 18729
+		}
+	]
+}

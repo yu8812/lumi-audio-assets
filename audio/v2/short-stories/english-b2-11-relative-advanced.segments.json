@@ -1,0 +1,51 @@
+{
+	"slug": "english-b2-11-relative-advanced",
+	"title": "關係子句進階(補充說明與縮減)",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-b2-11-relative-advanced.mp3",
+	"durationMs": 16385,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "Did you meet my brother, who lives in Canada?",
+			"startMs": 0,
+			"endMs": 2645
+		},
+		{
+			"speaker": "Michael",
+			"text": "The tall guy standing by the door?",
+			"startMs": 2645,
+			"endMs": 4672
+		},
+		{
+			"speaker": "Michael",
+			"text": "Yeah!",
+			"startMs": 4672,
+			"endMs": 5355
+		},
+		{
+			"speaker": "Michael",
+			"text": "That's him.",
+			"startMs": 5355,
+			"endMs": 6358
+		},
+		{
+			"speaker": "Michael",
+			"text": "The book written by him just came out.",
+			"startMs": 6358,
+			"endMs": 8534
+		},
+		{
+			"speaker": "Michael",
+			"text": "My brother, who lives in Canada, is a doctor.",
+			"startMs": 8534,
+			"endMs": 11329
+		},
+		{
+			"speaker": "Michael",
+			"text": "Taipei 101, which opened in 2004, is very tall.",
+			"startMs": 11329,
+			"endMs": 16385
+		}
+	]
+}

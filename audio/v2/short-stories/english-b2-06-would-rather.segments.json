@@ -1,0 +1,69 @@
+{
+	"slug": "english-b2-06-would-rather",
+	"title": "寧願、該是時候了(would rather / it's time)",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-b2-06-would-rather.mp3",
+	"durationMs": 16959,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "Do you want to go out tonight?",
+			"startMs": 0,
+			"endMs": 1835
+		},
+		{
+			"speaker": "Michael",
+			"text": "Honestly, I'd rather stay in.",
+			"startMs": 1835,
+			"endMs": 3712
+		},
+		{
+			"speaker": "Michael",
+			"text": "I'm tired.",
+			"startMs": 3712,
+			"endMs": 4885
+		},
+		{
+			"speaker": "Michael",
+			"text": "That's fine.",
+			"startMs": 4885,
+			"endMs": 5973
+		},
+		{
+			"speaker": "Michael",
+			"text": "But it's time you took a real break, you know.",
+			"startMs": 5973,
+			"endMs": 8661
+		},
+		{
+			"speaker": "Michael",
+			"text": "You're right.",
+			"startMs": 8661,
+			"endMs": 9600
+		},
+		{
+			"speaker": "Michael",
+			"text": "I'd rather you didn't worry about me, though!",
+			"startMs": 9600,
+			"endMs": 12053
+		},
+		{
+			"speaker": "Michael",
+			"text": "I'd rather stay home.",
+			"startMs": 12053,
+			"endMs": 13653
+		},
+		{
+			"speaker": "Michael",
+			"text": "I'd rather you didn't smoke.",
+			"startMs": 13653,
+			"endMs": 15466
+		},
+		{
+			"speaker": "Michael",
+			"text": "It's time we left.",
+			"startMs": 15466,
+			"endMs": 16959
+		}
+	]
+}

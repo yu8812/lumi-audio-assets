@@ -1,0 +1,45 @@
+{
+	"slug": "english-b2-12-participle-clauses",
+	"title": "分詞構句(Walking home, I…)",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-b2-12-participle-clauses.mp3",
+	"durationMs": 18816,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "Feeling nervous, she took a deep breath before the interview.",
+			"startMs": 0,
+			"endMs": 3563
+		},
+		{
+			"speaker": "Michael",
+			"text": "Having prepared for weeks, he answered every question with ease.",
+			"startMs": 3563,
+			"endMs": 7595
+		},
+		{
+			"speaker": "Michael",
+			"text": "Impressed by his answers, the panel offered him the job.",
+			"startMs": 7595,
+			"endMs": 11243
+		},
+		{
+			"speaker": "Michael",
+			"text": "Walking home, I saw a cat.",
+			"startMs": 11243,
+			"endMs": 13056
+		},
+		{
+			"speaker": "Michael",
+			"text": "Having finished work, I went home.",
+			"startMs": 13056,
+			"endMs": 15147
+		},
+		{
+			"speaker": "Michael",
+			"text": "Written in 1920, the book is a classic.",
+			"startMs": 15147,
+			"endMs": 18816
+		}
+	]
+}

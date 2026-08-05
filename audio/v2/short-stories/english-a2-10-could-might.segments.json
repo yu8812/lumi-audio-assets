@@ -1,0 +1,87 @@
+{
+	"slug": "english-a2-10-could-might",
+	"title": "可能與委婉(could / might)",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-a2-10-could-might.mp3",
+	"durationMs": 19307,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "Are you coming to the party?",
+			"startMs": 0,
+			"endMs": 1963
+		},
+		{
+			"speaker": "Michael",
+			"text": "Maybe.",
+			"startMs": 1963,
+			"endMs": 2795
+		},
+		{
+			"speaker": "Michael",
+			"text": "I might come, but I'm not sure yet.",
+			"startMs": 2795,
+			"endMs": 5014
+		},
+		{
+			"speaker": "Michael",
+			"text": "OK.",
+			"startMs": 5014,
+			"endMs": 5995
+		},
+		{
+			"speaker": "Michael",
+			"text": "Could you bring some drinks?",
+			"startMs": 5995,
+			"endMs": 7595
+		},
+		{
+			"speaker": "Michael",
+			"text": "Sure.",
+			"startMs": 7595,
+			"endMs": 8342
+		},
+		{
+			"speaker": "Michael",
+			"text": "When I was a student, I could carry a lot!",
+			"startMs": 8342,
+			"endMs": 11094
+		},
+		{
+			"speaker": "Michael",
+			"text": "It might rain.",
+			"startMs": 11094,
+			"endMs": 12353
+		},
+		{
+			"speaker": "Michael",
+			"text": "I might go.",
+			"startMs": 12353,
+			"endMs": 13526
+		},
+		{
+			"speaker": "Michael",
+			"text": "She might not come.",
+			"startMs": 13526,
+			"endMs": 15041
+		},
+		{
+			"speaker": "Michael",
+			"text": "I could swim at five.",
+			"startMs": 15041,
+			"endMs": 16726
+		},
+		{
+			"speaker": "Michael",
+			"text": "Could you help me?",
+			"startMs": 16726,
+			"endMs": 17963
+		},
+		{
+			"speaker": "Michael",
+			"text": "It could be true.",
+			"startMs": 17963,
+			"endMs": 19307
+		}
+	]
+}

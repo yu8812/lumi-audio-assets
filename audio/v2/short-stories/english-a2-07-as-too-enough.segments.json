@@ -1,0 +1,75 @@
+{
+	"slug": "english-a2-07-as-too-enough",
+	"title": "一樣、太、夠 —— 還有你比較喜歡哪個",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-a2-07-as-too-enough.mp3",
+	"durationMs": 18838,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "Is the blue one as good as the red one?",
+			"startMs": 0,
+			"endMs": 2517
+		},
+		{
+			"speaker": "Michael",
+			"text": "Almost, but it's not as cheap.",
+			"startMs": 2517,
+			"endMs": 4416
+		},
+		{
+			"speaker": "Michael",
+			"text": "And it's a bit too big for me.",
+			"startMs": 4416,
+			"endMs": 6336
+		},
+		{
+			"speaker": "Michael",
+			"text": "Is the red one big enough?",
+			"startMs": 6336,
+			"endMs": 8021
+		},
+		{
+			"speaker": "Michael",
+			"text": "Yeah, it's perfect.",
+			"startMs": 8021,
+			"endMs": 9408
+		},
+		{
+			"speaker": "Michael",
+			"text": "I prefer the red one.",
+			"startMs": 9408,
+			"endMs": 11072
+		},
+		{
+			"speaker": "Michael",
+			"text": "A is as tall as B.",
+			"startMs": 11072,
+			"endMs": 12736
+		},
+		{
+			"speaker": "Michael",
+			"text": "A is not as big as B.",
+			"startMs": 12736,
+			"endMs": 14507
+		},
+		{
+			"speaker": "Michael",
+			"text": "It's too expensive.",
+			"startMs": 14507,
+			"endMs": 16043
+		},
+		{
+			"speaker": "Michael",
+			"text": "It's big enough.",
+			"startMs": 16043,
+			"endMs": 17259
+		},
+		{
+			"speaker": "Michael",
+			"text": "I think A is better.",
+			"startMs": 17259,
+			"endMs": 18838
+		}
+	]
+}

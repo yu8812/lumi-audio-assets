@@ -1,0 +1,45 @@
+{
+	"slug": "english-a2-19-phrasal-verbs",
+	"title": "常用片語動詞",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-a2-19-phrasal-verbs.mp3",
+	"durationMs": 12032,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "I get up at six every day.",
+			"startMs": 0,
+			"endMs": 1941
+		},
+		{
+			"speaker": "Michael",
+			"text": "Wow, early!",
+			"startMs": 1941,
+			"endMs": 3136
+		},
+		{
+			"speaker": "Michael",
+			"text": "I always turn off my alarm and go back to sleep.",
+			"startMs": 3136,
+			"endMs": 6336
+		},
+		{
+			"speaker": "Michael",
+			"text": "By the way, can you look after my cat this weekend?",
+			"startMs": 6336,
+			"endMs": 9365
+		},
+		{
+			"speaker": "Michael",
+			"text": "Sure.",
+			"startMs": 9365,
+			"endMs": 10112
+		},
+		{
+			"speaker": "Michael",
+			"text": "I'll pick up the key tomorrow.",
+			"startMs": 10112,
+			"endMs": 12032
+		}
+	]
+}

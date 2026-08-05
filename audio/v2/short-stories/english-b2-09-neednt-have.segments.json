@@ -1,0 +1,69 @@
+{
+	"slug": "english-b2-09-neednt-have",
+	"title": "白做了、本來要(needn't have / was supposed to)",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-b2-09-neednt-have.mp3",
+	"durationMs": 17622,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "I brought snacks for everyone.",
+			"startMs": 0,
+			"endMs": 1856
+		},
+		{
+			"speaker": "Michael",
+			"text": "Oh, you needn't have!",
+			"startMs": 1856,
+			"endMs": 3179
+		},
+		{
+			"speaker": "Michael",
+			"text": "There's already tons of food.",
+			"startMs": 3179,
+			"endMs": 4886
+		},
+		{
+			"speaker": "Michael",
+			"text": "Ha, oops.",
+			"startMs": 4886,
+			"endMs": 5995
+		},
+		{
+			"speaker": "Michael",
+			"text": "I was supposed to check first.",
+			"startMs": 5995,
+			"endMs": 7915
+		},
+		{
+			"speaker": "Michael",
+			"text": "No worries.",
+			"startMs": 7915,
+			"endMs": 9003
+		},
+		{
+			"speaker": "Michael",
+			"text": "I didn't need to eat lunch, so I'm starving anyway!",
+			"startMs": 9003,
+			"endMs": 12459
+		},
+		{
+			"speaker": "Michael",
+			"text": "You needn't have waited.",
+			"startMs": 12459,
+			"endMs": 14038
+		},
+		{
+			"speaker": "Michael",
+			"text": "I didn't need to buy milk.",
+			"startMs": 14038,
+			"endMs": 15830
+		},
+		{
+			"speaker": "Michael",
+			"text": "I was supposed to call her.",
+			"startMs": 15830,
+			"endMs": 17622
+		}
+	]
+}

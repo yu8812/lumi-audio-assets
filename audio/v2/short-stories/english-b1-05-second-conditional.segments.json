@@ -1,0 +1,45 @@
+{
+	"slug": "english-b1-05-second-conditional",
+	"title": "假如我是你(第二條件句)",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-b1-05-second-conditional.mp3",
+	"durationMs": 12544,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "I don't know what to do about my job.",
+			"startMs": 0,
+			"endMs": 2368
+		},
+		{
+			"speaker": "Michael",
+			"text": "If I were you, I would talk to my boss.",
+			"startMs": 2368,
+			"endMs": 4800
+		},
+		{
+			"speaker": "Michael",
+			"text": "Maybe.",
+			"startMs": 4800,
+			"endMs": 5632
+		},
+		{
+			"speaker": "Michael",
+			"text": "What would you do if you had more money?",
+			"startMs": 5632,
+			"endMs": 7829
+		},
+		{
+			"speaker": "Michael",
+			"text": "I'd travel the world!",
+			"startMs": 7829,
+			"endMs": 9493
+		},
+		{
+			"speaker": "Michael",
+			"text": "If I had more time, I would learn the piano.",
+			"startMs": 9493,
+			"endMs": 12544
+		}
+	]
+}

@@ -1,0 +1,51 @@
+{
+	"slug": "english-b1-06-third-conditional",
+	"title": "要是當初…(第三條件句)",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-b1-06-third-conditional.mp3",
+	"durationMs": 12821,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "I failed the test.",
+			"startMs": 0,
+			"endMs": 1451
+		},
+		{
+			"speaker": "Michael",
+			"text": "If you had studied more, you would have passed.",
+			"startMs": 1451,
+			"endMs": 3883
+		},
+		{
+			"speaker": "Michael",
+			"text": "I know.",
+			"startMs": 3883,
+			"endMs": 4864
+		},
+		{
+			"speaker": "Michael",
+			"text": "I should have started earlier.",
+			"startMs": 4864,
+			"endMs": 6720
+		},
+		{
+			"speaker": "Michael",
+			"text": "Don't worry.",
+			"startMs": 6720,
+			"endMs": 7744
+		},
+		{
+			"speaker": "Michael",
+			"text": "If it had been easy, everyone would have passed!",
+			"startMs": 7744,
+			"endMs": 10453
+		},
+		{
+			"speaker": "Michael",
+			"text": "If I had known, I would have called you.",
+			"startMs": 10453,
+			"endMs": 12821
+		}
+	]
+}

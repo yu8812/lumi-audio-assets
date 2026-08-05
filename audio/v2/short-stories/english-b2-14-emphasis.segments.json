@@ -1,0 +1,63 @@
+{
+	"slug": "english-b2-14-emphasis",
+	"title": "強調句(It was… / What I need is…)",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-b2-14-emphasis.mp3",
+	"durationMs": 14720,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "So Ken booked the hotel?",
+			"startMs": 0,
+			"endMs": 1728
+		},
+		{
+			"speaker": "Michael",
+			"text": "No, it was Mia who booked it.",
+			"startMs": 1728,
+			"endMs": 3456
+		},
+		{
+			"speaker": "Michael",
+			"text": "I booked the flights.",
+			"startMs": 3456,
+			"endMs": 4864
+		},
+		{
+			"speaker": "Michael",
+			"text": "Got it.",
+			"startMs": 4864,
+			"endMs": 5781
+		},
+		{
+			"speaker": "Michael",
+			"text": "What I really want is a relaxing trip.",
+			"startMs": 5781,
+			"endMs": 8298
+		},
+		{
+			"speaker": "Michael",
+			"text": "Same here.",
+			"startMs": 8298,
+			"endMs": 9322
+		},
+		{
+			"speaker": "Michael",
+			"text": "What we need is a few days off.",
+			"startMs": 9322,
+			"endMs": 11306
+		},
+		{
+			"speaker": "Michael",
+			"text": "It was Mia who booked it.",
+			"startMs": 11306,
+			"endMs": 12949
+		},
+		{
+			"speaker": "Michael",
+			"text": "What I need is a break.",
+			"startMs": 12949,
+			"endMs": 14720
+		}
+	]
+}

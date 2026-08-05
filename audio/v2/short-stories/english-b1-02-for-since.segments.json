@@ -1,0 +1,51 @@
+{
+	"slug": "english-b1-02-for-since",
+	"title": "多久了:for / since 與完成式",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-b1-02-for-since.mp3",
+	"durationMs": 10817,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "How long have you known Jun?",
+			"startMs": 0,
+			"endMs": 1707
+		},
+		{
+			"speaker": "Michael",
+			"text": "I've known him for about ten years.",
+			"startMs": 1707,
+			"endMs": 3798
+		},
+		{
+			"speaker": "Michael",
+			"text": "Since high school.",
+			"startMs": 3798,
+			"endMs": 5121
+		},
+		{
+			"speaker": "Michael",
+			"text": "Wow, that's a long time!",
+			"startMs": 5121,
+			"endMs": 6785
+		},
+		{
+			"speaker": "Michael",
+			"text": "Yeah.",
+			"startMs": 6785,
+			"endMs": 7489
+		},
+		{
+			"speaker": "Michael",
+			"text": "We've been friends since we were fifteen.",
+			"startMs": 7489,
+			"endMs": 9644
+		},
+		{
+			"speaker": "Michael",
+			"text": "I was young.",
+			"startMs": 9644,
+			"endMs": 10817
+		}
+	]
+}

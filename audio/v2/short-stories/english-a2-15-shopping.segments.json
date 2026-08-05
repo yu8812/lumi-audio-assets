@@ -1,0 +1,93 @@
+{
+	"slug": "english-a2-15-shopping",
+	"title": "情境:購物",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-a2-15-shopping.mp3",
+	"durationMs": 23746,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "Excuse me, can I try this on?",
+			"startMs": 0,
+			"endMs": 2347
+		},
+		{
+			"speaker": "Michael",
+			"text": "Sure, the fitting room is over there.",
+			"startMs": 2347,
+			"endMs": 4502
+		},
+		{
+			"speaker": "Michael",
+			"text": "Do you have this in a bigger size?",
+			"startMs": 4502,
+			"endMs": 6465
+		},
+		{
+			"speaker": "Michael",
+			"text": "It's a little tight.",
+			"startMs": 6465,
+			"endMs": 7809
+		},
+		{
+			"speaker": "Michael",
+			"text": "Here, try the large.",
+			"startMs": 7809,
+			"endMs": 9452
+		},
+		{
+			"speaker": "Michael",
+			"text": "Can I try this on?",
+			"startMs": 9452,
+			"endMs": 11095
+		},
+		{
+			"speaker": "Michael",
+			"text": "Do you have this in another color?",
+			"startMs": 11095,
+			"endMs": 13207
+		},
+		{
+			"speaker": "Michael",
+			"text": "It doesn't fit.",
+			"startMs": 13207,
+			"endMs": 14423
+		},
+		{
+			"speaker": "Michael",
+			"text": "How much is this?",
+			"startMs": 14423,
+			"endMs": 15852
+		},
+		{
+			"speaker": "Michael",
+			"text": "How much are these?",
+			"startMs": 15852,
+			"endMs": 17367
+		},
+		{
+			"speaker": "Michael",
+			"text": "Can I pay by card?",
+			"startMs": 17367,
+			"endMs": 19074
+		},
+		{
+			"speaker": "Michael",
+			"text": "I'll pay in cash.",
+			"startMs": 19074,
+			"endMs": 20439
+		},
+		{
+			"speaker": "Michael",
+			"text": "I'd like to return this, please.",
+			"startMs": 20439,
+			"endMs": 22402
+		},
+		{
+			"speaker": "Michael",
+			"text": "Here's the receipt.",
+			"startMs": 22402,
+			"endMs": 23746
+		}
+	]
+}

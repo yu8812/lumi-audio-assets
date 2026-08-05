@@ -1,0 +1,57 @@
+{
+	"slug": "english-b2-03-narrative-tenses",
+	"title": "敘事時態:把四個過去一起用",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-b2-03-narrative-tenses.mp3",
+	"durationMs": 19201,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "Last night, I was walking home when I saw an old friend.",
+			"startMs": 0,
+			"endMs": 3477
+		},
+		{
+			"speaker": "Michael",
+			"text": "We hadn't seen each other for years.",
+			"startMs": 3477,
+			"endMs": 5461
+		},
+		{
+			"speaker": "Michael",
+			"text": "She had been living abroad and had just moved back.",
+			"startMs": 5461,
+			"endMs": 8384
+		},
+		{
+			"speaker": "Michael",
+			"text": "We talked for an hour.",
+			"startMs": 8384,
+			"endMs": 9899
+		},
+		{
+			"speaker": "Michael",
+			"text": "I arrived, sat down, and ordered.",
+			"startMs": 9899,
+			"endMs": 12224
+		},
+		{
+			"speaker": "Michael",
+			"text": "I was reading when the phone rang.",
+			"startMs": 12224,
+			"endMs": 14187
+		},
+		{
+			"speaker": "Michael",
+			"text": "When I got there, they had left.",
+			"startMs": 14187,
+			"endMs": 16086
+		},
+		{
+			"speaker": "Michael",
+			"text": "I was tired because I had been working all day.",
+			"startMs": 16086,
+			"endMs": 19201
+		}
+	]
+}

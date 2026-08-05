@@ -1,0 +1,81 @@
+{
+	"slug": "english-a2-04-perfect-vs-past",
+	"title": "剛剛、已經、還沒 —— 完成式 vs 過去式",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-a2-04-perfect-vs-past.mp3",
+	"durationMs": 18945,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "Do you want lunch?",
+			"startMs": 0,
+			"endMs": 1323
+		},
+		{
+			"speaker": "Michael",
+			"text": "No thanks, I've just eaten.",
+			"startMs": 1323,
+			"endMs": 3094
+		},
+		{
+			"speaker": "Michael",
+			"text": "Oh, already?",
+			"startMs": 3094,
+			"endMs": 4353
+		},
+		{
+			"speaker": "Michael",
+			"text": "Yeah.",
+			"startMs": 4353,
+			"endMs": 5057
+		},
+		{
+			"speaker": "Michael",
+			"text": "I ate at 11 today, super early.",
+			"startMs": 5057,
+			"endMs": 7809
+		},
+		{
+			"speaker": "Michael",
+			"text": "Have you finished the report yet?",
+			"startMs": 7809,
+			"endMs": 9729
+		},
+		{
+			"speaker": "Michael",
+			"text": "Not yet.",
+			"startMs": 9729,
+			"endMs": 10710
+		},
+		{
+			"speaker": "Michael",
+			"text": "I finished the first part yesterday, though.",
+			"startMs": 10710,
+			"endMs": 13249
+		},
+		{
+			"speaker": "Michael",
+			"text": "I've just finished.",
+			"startMs": 13249,
+			"endMs": 14614
+		},
+		{
+			"speaker": "Michael",
+			"text": "I've already done it.",
+			"startMs": 14614,
+			"endMs": 16065
+		},
+		{
+			"speaker": "Michael",
+			"text": "Have you eaten yet?",
+			"startMs": 16065,
+			"endMs": 17452
+		},
+		{
+			"speaker": "Michael",
+			"text": "I haven't eaten yet.",
+			"startMs": 17452,
+			"endMs": 18945
+		}
+	]
+}

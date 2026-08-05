@@ -1,0 +1,63 @@
+{
+	"slug": "english-a2-03-present-perfect",
+	"title": "你有沒有做過(現在完成式)",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-a2-03-present-perfect.mp3",
+	"durationMs": 13013,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "Have you ever been to Japan?",
+			"startMs": 0,
+			"endMs": 1920
+		},
+		{
+			"speaker": "Michael",
+			"text": "Yes, I have.",
+			"startMs": 1920,
+			"endMs": 3051
+		},
+		{
+			"speaker": "Michael",
+			"text": "I've been there twice.",
+			"startMs": 3051,
+			"endMs": 4544
+		},
+		{
+			"speaker": "Michael",
+			"text": "Have you?",
+			"startMs": 4544,
+			"endMs": 5525
+		},
+		{
+			"speaker": "Michael",
+			"text": "No, I haven't.",
+			"startMs": 5525,
+			"endMs": 6762
+		},
+		{
+			"speaker": "Michael",
+			"text": "But I've always wanted to go.",
+			"startMs": 6762,
+			"endMs": 8639
+		},
+		{
+			"speaker": "Michael",
+			"text": "You should!",
+			"startMs": 8639,
+			"endMs": 9578
+		},
+		{
+			"speaker": "Michael",
+			"text": "Have you tried sushi at least?",
+			"startMs": 9578,
+			"endMs": 11498
+		},
+		{
+			"speaker": "Michael",
+			"text": "I've never eaten it.",
+			"startMs": 11498,
+			"endMs": 13013
+		}
+	]
+}

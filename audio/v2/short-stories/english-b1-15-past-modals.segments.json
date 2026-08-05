@@ -1,0 +1,75 @@
+{
+	"slug": "english-b1-15-past-modals",
+	"title": "早該、一定是、本來可以(過去情態)",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-b1-15-past-modals.mp3",
+	"durationMs": 16960,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "I waited an hour, but Jun never came.",
+			"startMs": 0,
+			"endMs": 2581
+		},
+		{
+			"speaker": "Michael",
+			"text": "He must have forgotten.",
+			"startMs": 2581,
+			"endMs": 4181
+		},
+		{
+			"speaker": "Michael",
+			"text": "You should have texted him.",
+			"startMs": 4181,
+			"endMs": 5760
+		},
+		{
+			"speaker": "Michael",
+			"text": "I know.",
+			"startMs": 5760,
+			"endMs": 6741
+		},
+		{
+			"speaker": "Michael",
+			"text": "I could have called, but my phone died.",
+			"startMs": 6741,
+			"endMs": 8874
+		},
+		{
+			"speaker": "Michael",
+			"text": "Oh well.",
+			"startMs": 8874,
+			"endMs": 9877
+		},
+		{
+			"speaker": "Michael",
+			"text": "It could have been worse!",
+			"startMs": 9877,
+			"endMs": 11285
+		},
+		{
+			"speaker": "Michael",
+			"text": "You should have called.",
+			"startMs": 11285,
+			"endMs": 12586
+		},
+		{
+			"speaker": "Michael",
+			"text": "She must have left.",
+			"startMs": 12586,
+			"endMs": 14037
+		},
+		{
+			"speaker": "Michael",
+			"text": "I could have helped.",
+			"startMs": 14037,
+			"endMs": 15317
+		},
+		{
+			"speaker": "Michael",
+			"text": "He might have forgotten.",
+			"startMs": 15317,
+			"endMs": 16960
+		}
+	]
+}

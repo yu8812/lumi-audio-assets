@@ -1,0 +1,45 @@
+{
+	"slug": "english-b2-04-mixed-conditionals",
+	"title": "混合條件句",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-b2-04-mixed-conditionals.mp3",
+	"durationMs": 15809,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "You seem tired lately.",
+			"startMs": 0,
+			"endMs": 1685
+		},
+		{
+			"speaker": "Michael",
+			"text": "Yeah.",
+			"startMs": 1685,
+			"endMs": 2389
+		},
+		{
+			"speaker": "Michael",
+			"text": "If I hadn't taken this job, I wouldn't be so stressed now.",
+			"startMs": 2389,
+			"endMs": 6272
+		},
+		{
+			"speaker": "Michael",
+			"text": "And if you were more organized, you wouldn't have missed that deadline.",
+			"startMs": 6272,
+			"endMs": 10027
+		},
+		{
+			"speaker": "Michael",
+			"text": "If I had saved money, I would be rich now.",
+			"startMs": 10027,
+			"endMs": 13014
+		},
+		{
+			"speaker": "Michael",
+			"text": "If I were taller, I would have become a model.",
+			"startMs": 13014,
+			"endMs": 15809
+		}
+	]
+}

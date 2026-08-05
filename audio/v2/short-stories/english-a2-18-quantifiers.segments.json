@@ -1,0 +1,33 @@
+{
+	"slug": "english-a2-18-quantifiers",
+	"title": "多少、一些、一點(量詞)",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-a2-18-quantifiers.mp3",
+	"durationMs": 8192,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "Do we have enough food for the party?",
+			"startMs": 0,
+			"endMs": 2240
+		},
+		{
+			"speaker": "Michael",
+			"text": "We have a lot of snacks, but only a little juice.",
+			"startMs": 2240,
+			"endMs": 5035
+		},
+		{
+			"speaker": "Michael",
+			"text": "And how many people are coming?",
+			"startMs": 5035,
+			"endMs": 6912
+		},
+		{
+			"speaker": "Michael",
+			"text": "About twenty.",
+			"startMs": 6912,
+			"endMs": 8192
+		}
+	]
+}

@@ -1,0 +1,57 @@
+{
+	"slug": "english-b1-18-verb-patterns",
+	"title": "動詞句型:make/let、stop doing vs stop to do",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-b1-18-verb-patterns.mp3",
+	"durationMs": 13461,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "You look busy.",
+			"startMs": 0,
+			"endMs": 1152
+		},
+		{
+			"speaker": "Michael",
+			"text": "Yeah, my boss made me finish the report today.",
+			"startMs": 1152,
+			"endMs": 3925
+		},
+		{
+			"speaker": "Michael",
+			"text": "But she let me leave early after.",
+			"startMs": 3925,
+			"endMs": 5973
+		},
+		{
+			"speaker": "Michael",
+			"text": "Nice.",
+			"startMs": 5973,
+			"endMs": 6805
+		},
+		{
+			"speaker": "Michael",
+			"text": "Did you remember to send it?",
+			"startMs": 6805,
+			"endMs": 8704
+		},
+		{
+			"speaker": "Michael",
+			"text": "I stopped to grab coffee and forgot!",
+			"startMs": 8704,
+			"endMs": 10901
+		},
+		{
+			"speaker": "Michael",
+			"text": "She made me wait.",
+			"startMs": 10901,
+			"endMs": 12245
+		},
+		{
+			"speaker": "Michael",
+			"text": "He let me go.",
+			"startMs": 12245,
+			"endMs": 13461
+		}
+	]
+}

@@ -1,0 +1,33 @@
+{
+	"slug": "english-a2-06-superlatives",
+	"title": "誰最…(最高級)",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-a2-06-superlatives.mp3",
+	"durationMs": 8597,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "What's the tallest building in Taiwan?",
+			"startMs": 0,
+			"endMs": 2240
+		},
+		{
+			"speaker": "Michael",
+			"text": "Taipei 101.",
+			"startMs": 2240,
+			"endMs": 4053
+		},
+		{
+			"speaker": "Michael",
+			"text": "It's one of the tallest in the world.",
+			"startMs": 4053,
+			"endMs": 6058
+		},
+		{
+			"speaker": "Michael",
+			"text": "Is it the most expensive place to visit?",
+			"startMs": 6058,
+			"endMs": 8597
+		}
+	]
+}

@@ -1,0 +1,57 @@
+{
+	"slug": "english-b1-04-used-to",
+	"title": "以前會、以前常(used to)",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-b1-04-used-to.mp3",
+	"durationMs": 14678,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "Did you use to live in Taipei?",
+			"startMs": 0,
+			"endMs": 1920
+		},
+		{
+			"speaker": "Michael",
+			"text": "Yeah, I used to live there for years.",
+			"startMs": 1920,
+			"endMs": 4075
+		},
+		{
+			"speaker": "Michael",
+			"text": "Now I'm in Tainan.",
+			"startMs": 4075,
+			"endMs": 5611
+		},
+		{
+			"speaker": "Michael",
+			"text": "Do you miss it?",
+			"startMs": 5611,
+			"endMs": 6806
+		},
+		{
+			"speaker": "Michael",
+			"text": "We would go to the night market every weekend.",
+			"startMs": 6806,
+			"endMs": 9366
+		},
+		{
+			"speaker": "Michael",
+			"text": "I used to play soccer.",
+			"startMs": 9366,
+			"endMs": 11158
+		},
+		{
+			"speaker": "Michael",
+			"text": "I used to be shy.",
+			"startMs": 11158,
+			"endMs": 12758
+		},
+		{
+			"speaker": "Michael",
+			"text": "Every summer we would travel.",
+			"startMs": 12758,
+			"endMs": 14678
+		}
+	]
+}

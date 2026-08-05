@@ -1,0 +1,69 @@
+{
+	"slug": "english-b1-03-past-perfect",
+	"title": "更早以前(過去完成式)",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-b1-03-past-perfect.mp3",
+	"durationMs": 16086,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "How was the movie?",
+			"startMs": 0,
+			"endMs": 1280
+		},
+		{
+			"speaker": "Michael",
+			"text": "I missed it!",
+			"startMs": 1280,
+			"endMs": 2432
+		},
+		{
+			"speaker": "Michael",
+			"text": "When I got to the theater, it had already started.",
+			"startMs": 2432,
+			"endMs": 5568
+		},
+		{
+			"speaker": "Michael",
+			"text": "Oh no.",
+			"startMs": 5568,
+			"endMs": 6571
+		},
+		{
+			"speaker": "Michael",
+			"text": "Had you booked a ticket?",
+			"startMs": 6571,
+			"endMs": 8000
+		},
+		{
+			"speaker": "Michael",
+			"text": "Yeah, I had.",
+			"startMs": 8000,
+			"endMs": 9088
+		},
+		{
+			"speaker": "Michael",
+			"text": "But the traffic was terrible.",
+			"startMs": 9088,
+			"endMs": 10923
+		},
+		{
+			"speaker": "Michael",
+			"text": "When I arrived, the train had already left.",
+			"startMs": 10923,
+			"endMs": 13739
+		},
+		{
+			"speaker": "Michael",
+			"text": "Yes, I had.",
+			"startMs": 13739,
+			"endMs": 14870
+		},
+		{
+			"speaker": "Michael",
+			"text": "No, I hadn't.",
+			"startMs": 14870,
+			"endMs": 16086
+		}
+	]
+}

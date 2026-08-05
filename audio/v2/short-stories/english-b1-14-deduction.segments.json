@@ -1,0 +1,57 @@
+{
+	"slug": "english-b1-14-deduction",
+	"title": "推測:一定是、不可能、可能",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-b1-14-deduction.mp3",
+	"durationMs": 12352,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "Where's Ken?",
+			"startMs": 0,
+			"endMs": 1152
+		},
+		{
+			"speaker": "Michael",
+			"text": "He's not answering his phone.",
+			"startMs": 1152,
+			"endMs": 3179
+		},
+		{
+			"speaker": "Michael",
+			"text": "He must be in a meeting.",
+			"startMs": 3179,
+			"endMs": 4694
+		},
+		{
+			"speaker": "Michael",
+			"text": "He usually is at this time.",
+			"startMs": 4694,
+			"endMs": 6785
+		},
+		{
+			"speaker": "Michael",
+			"text": "Could he be sick?",
+			"startMs": 6785,
+			"endMs": 8022
+		},
+		{
+			"speaker": "Michael",
+			"text": "He must be tired.",
+			"startMs": 8022,
+			"endMs": 9494
+		},
+		{
+			"speaker": "Michael",
+			"text": "That can't be true.",
+			"startMs": 9494,
+			"endMs": 10859
+		},
+		{
+			"speaker": "Michael",
+			"text": "She might be at home.",
+			"startMs": 10859,
+			"endMs": 12352
+		}
+	]
+}

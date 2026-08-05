@@ -1,0 +1,69 @@
+{
+	"slug": "english-b2-08-advanced-passive",
+	"title": "進階被動",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-b2-08-advanced-passive.mp3",
+	"durationMs": 18815,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "Any news on the project?",
+			"startMs": 0,
+			"endMs": 1877
+		},
+		{
+			"speaker": "Michael",
+			"text": "The report has been finished, but it must be reviewed first.",
+			"startMs": 1877,
+			"endMs": 5461
+		},
+		{
+			"speaker": "Michael",
+			"text": "I heard the deadline changed.",
+			"startMs": 5461,
+			"endMs": 7381
+		},
+		{
+			"speaker": "Michael",
+			"text": "Yeah.",
+			"startMs": 7381,
+			"endMs": 8085
+		},
+		{
+			"speaker": "Michael",
+			"text": "It's said that the client asked for more time.",
+			"startMs": 8085,
+			"endMs": 10666
+		},
+		{
+			"speaker": "Michael",
+			"text": "The problem has been solved.",
+			"startMs": 10666,
+			"endMs": 12522
+		},
+		{
+			"speaker": "Michael",
+			"text": "It must be done today.",
+			"startMs": 12522,
+			"endMs": 14037
+		},
+		{
+			"speaker": "Michael",
+			"text": "It can be seen from here.",
+			"startMs": 14037,
+			"endMs": 15701
+		},
+		{
+			"speaker": "Michael",
+			"text": "It is said that he is rich.",
+			"startMs": 15701,
+			"endMs": 17386
+		},
+		{
+			"speaker": "Michael",
+			"text": "He is said to be rich.",
+			"startMs": 17386,
+			"endMs": 18815
+		}
+	]
+}

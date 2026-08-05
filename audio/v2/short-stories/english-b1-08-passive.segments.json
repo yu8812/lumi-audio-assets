@@ -1,0 +1,63 @@
+{
+	"slug": "english-b1-08-passive",
+	"title": "被動語態",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-b1-08-passive.mp3",
+	"durationMs": 18475,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "Wow, this temple is beautiful.",
+			"startMs": 0,
+			"endMs": 1941
+		},
+		{
+			"speaker": "Michael",
+			"text": "When was it built?",
+			"startMs": 1941,
+			"endMs": 3349
+		},
+		{
+			"speaker": "Michael",
+			"text": "It was built about 300 years ago.",
+			"startMs": 3349,
+			"endMs": 6037
+		},
+		{
+			"speaker": "Michael",
+			"text": "And these paintings?",
+			"startMs": 6037,
+			"endMs": 7509
+		},
+		{
+			"speaker": "Michael",
+			"text": "They were made by local artists.",
+			"startMs": 7509,
+			"endMs": 9642
+		},
+		{
+			"speaker": "Michael",
+			"text": "This place is visited by thousands every year.",
+			"startMs": 9642,
+			"endMs": 12565
+		},
+		{
+			"speaker": "Michael",
+			"text": "English is spoken here.",
+			"startMs": 12565,
+			"endMs": 14144
+		},
+		{
+			"speaker": "Michael",
+			"text": "The house was built in 1990.",
+			"startMs": 14144,
+			"endMs": 17088
+		},
+		{
+			"speaker": "Michael",
+			"text": "It was written by her.",
+			"startMs": 17088,
+			"endMs": 18475
+		}
+	]
+}

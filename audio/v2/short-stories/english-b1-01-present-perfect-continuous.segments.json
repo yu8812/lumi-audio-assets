@@ -1,0 +1,57 @@
+{
+	"slug": "english-b1-01-present-perfect-continuous",
+	"title": "一直在做(現在完成進行式)",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-b1-01-present-perfect-continuous.mp3",
+	"durationMs": 12416,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "You look tired.",
+			"startMs": 0,
+			"endMs": 1216
+		},
+		{
+			"speaker": "Michael",
+			"text": "What's wrong?",
+			"startMs": 1216,
+			"endMs": 2304
+		},
+		{
+			"speaker": "Michael",
+			"text": "I've been studying all day.",
+			"startMs": 2304,
+			"endMs": 4117
+		},
+		{
+			"speaker": "Michael",
+			"text": "I'm exhausted.",
+			"startMs": 4117,
+			"endMs": 5376
+		},
+		{
+			"speaker": "Michael",
+			"text": "How long have you been learning English?",
+			"startMs": 5376,
+			"endMs": 7445
+		},
+		{
+			"speaker": "Michael",
+			"text": "I've been learning it for three years now.",
+			"startMs": 7445,
+			"endMs": 9728
+		},
+		{
+			"speaker": "Michael",
+			"text": "I've been working.",
+			"startMs": 9728,
+			"endMs": 11093
+		},
+		{
+			"speaker": "Michael",
+			"text": "She's been waiting.",
+			"startMs": 11093,
+			"endMs": 12416
+		}
+	]
+}

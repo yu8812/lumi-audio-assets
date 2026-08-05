@@ -1,0 +1,63 @@
+{
+	"slug": "english-b1-16-interview-formal",
+	"title": "情境:面試與正式 email",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-b1-16-interview-formal.mp3",
+	"durationMs": 20118,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "Tell me about yourself.",
+			"startMs": 0,
+			"endMs": 1664
+		},
+		{
+			"speaker": "Michael",
+			"text": "Sure.",
+			"startMs": 1664,
+			"endMs": 2411
+		},
+		{
+			"speaker": "Michael",
+			"text": "I've been working in marketing for three years.",
+			"startMs": 2411,
+			"endMs": 5035
+		},
+		{
+			"speaker": "Michael",
+			"text": "I'm good at teamwork, and I'd love to grow with your company.",
+			"startMs": 5035,
+			"endMs": 8619
+		},
+		{
+			"speaker": "Michael",
+			"text": "Why do you want this job?",
+			"startMs": 8619,
+			"endMs": 10475
+		},
+		{
+			"speaker": "Michael",
+			"text": "Because it matches my experience, and I believe I could really contribute.",
+			"startMs": 10475,
+			"endMs": 15147
+		},
+		{
+			"speaker": "Michael",
+			"text": "I believe I could contribute.",
+			"startMs": 15147,
+			"endMs": 17110
+		},
+		{
+			"speaker": "Michael",
+			"text": "What are your strengths?",
+			"startMs": 17110,
+			"endMs": 18454
+		},
+		{
+			"speaker": "Michael",
+			"text": "Do you have any questions?",
+			"startMs": 18454,
+			"endMs": 20118
+		}
+	]
+}

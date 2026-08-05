@@ -1,0 +1,57 @@
+{
+	"slug": "english-b2-13-advanced-linking",
+	"title": "進階連接與對比",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-b2-13-advanced-linking.mp3",
+	"durationMs": 22549,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "Working from home saves time, whereas the office offers more focus.",
+			"startMs": 0,
+			"endMs": 4480
+		},
+		{
+			"speaker": "Michael",
+			"text": "Despite the fact that many prefer remote work, some companies still require attendance.",
+			"startMs": 4480,
+			"endMs": 10005
+		},
+		{
+			"speaker": "Michael",
+			"text": "Firms should adapt in order to keep good staff.",
+			"startMs": 10005,
+			"endMs": 12650
+		},
+		{
+			"speaker": "Michael",
+			"text": "He's outgoing, whereas she's shy.",
+			"startMs": 12650,
+			"endMs": 14570
+		},
+		{
+			"speaker": "Michael",
+			"text": "It's risky.",
+			"startMs": 14570,
+			"endMs": 15594
+		},
+		{
+			"speaker": "Michael",
+			"text": "Nevertheless, it's worth it.",
+			"startMs": 15594,
+			"endMs": 17450
+		},
+		{
+			"speaker": "Michael",
+			"text": "Despite the fact that it rained, we went.",
+			"startMs": 17450,
+			"endMs": 19946
+		},
+		{
+			"speaker": "Michael",
+			"text": "I left early in order to avoid traffic.",
+			"startMs": 19946,
+			"endMs": 22549
+		}
+	]
+}

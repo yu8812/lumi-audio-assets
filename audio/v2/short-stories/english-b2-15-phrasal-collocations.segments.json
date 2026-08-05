@@ -1,0 +1,93 @@
+{
+	"slug": "english-b2-15-phrasal-collocations",
+	"title": "進階片語動詞與搭配詞",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-b2-15-phrasal-collocations.mp3",
+	"durationMs": 24470,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "How's the new job?",
+			"startMs": 0,
+			"endMs": 1579
+		},
+		{
+			"speaker": "Michael",
+			"text": "Good, but I have to put up with a long commute.",
+			"startMs": 1579,
+			"endMs": 4182
+		},
+		{
+			"speaker": "Michael",
+			"text": "I'm looking into moving closer.",
+			"startMs": 4182,
+			"endMs": 6145
+		},
+		{
+			"speaker": "Michael",
+			"text": "Makes sense.",
+			"startMs": 6145,
+			"endMs": 7212
+		},
+		{
+			"speaker": "Michael",
+			"text": "Did you come across any nice areas?",
+			"startMs": 7212,
+			"endMs": 9623
+		},
+		{
+			"speaker": "Michael",
+			"text": "A few.",
+			"startMs": 9623,
+			"endMs": 10583
+		},
+		{
+			"speaker": "Michael",
+			"text": "I just need to make a decision.",
+			"startMs": 10583,
+			"endMs": 12588
+		},
+		{
+			"speaker": "Michael",
+			"text": "I came across an old photo.",
+			"startMs": 12588,
+			"endMs": 14700
+		},
+		{
+			"speaker": "Michael",
+			"text": "I can't put up with the noise.",
+			"startMs": 14700,
+			"endMs": 16556
+		},
+		{
+			"speaker": "Michael",
+			"text": "I look forward to seeing you.",
+			"startMs": 16556,
+			"endMs": 18348
+		},
+		{
+			"speaker": "Michael",
+			"text": "I get on with my boss.",
+			"startMs": 18348,
+			"endMs": 20012
+		},
+		{
+			"speaker": "Michael",
+			"text": "It turned out fine.",
+			"startMs": 20012,
+			"endMs": 21569
+		},
+		{
+			"speaker": "Michael",
+			"text": "We ran out of time.",
+			"startMs": 21569,
+			"endMs": 23169
+		},
+		{
+			"speaker": "Michael",
+			"text": "I'll look into it.",
+			"startMs": 23169,
+			"endMs": 24470
+		}
+	]
+}

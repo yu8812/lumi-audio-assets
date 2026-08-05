@@ -1,0 +1,117 @@
+{
+	"slug": "english-a2-13-travel",
+	"title": "情境:旅行",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-a2-13-travel.mp3",
+	"durationMs": 29823,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "Hi, I have a reservation.",
+			"startMs": 0,
+			"endMs": 1984
+		},
+		{
+			"speaker": "Michael",
+			"text": "I'd like to check in, please.",
+			"startMs": 1984,
+			"endMs": 3776
+		},
+		{
+			"speaker": "Michael",
+			"text": "Sure.",
+			"startMs": 3776,
+			"endMs": 4523
+		},
+		{
+			"speaker": "Michael",
+			"text": "Can I see your passport?",
+			"startMs": 4523,
+			"endMs": 6272
+		},
+		{
+			"speaker": "Michael",
+			"text": "Here you go.",
+			"startMs": 6272,
+			"endMs": 7381
+		},
+		{
+			"speaker": "Michael",
+			"text": "Is breakfast included?",
+			"startMs": 7381,
+			"endMs": 8896
+		},
+		{
+			"speaker": "Michael",
+			"text": "Yes, from 7 to 10.",
+			"startMs": 8896,
+			"endMs": 10517
+		},
+		{
+			"speaker": "Michael",
+			"text": "Your room is on the third floor.",
+			"startMs": 10517,
+			"endMs": 12458
+		},
+		{
+			"speaker": "Michael",
+			"text": "I'd like to check in for my flight.",
+			"startMs": 12458,
+			"endMs": 14549
+		},
+		{
+			"speaker": "Michael",
+			"text": "Where's gate 12?",
+			"startMs": 14549,
+			"endMs": 16021
+		},
+		{
+			"speaker": "Michael",
+			"text": "Is the flight on time?",
+			"startMs": 16021,
+			"endMs": 17664
+		},
+		{
+			"speaker": "Michael",
+			"text": "I have a reservation.",
+			"startMs": 17664,
+			"endMs": 19285
+		},
+		{
+			"speaker": "Michael",
+			"text": "Do you have a room available?",
+			"startMs": 19285,
+			"endMs": 20842
+		},
+		{
+			"speaker": "Michael",
+			"text": "What time is check-out?",
+			"startMs": 20842,
+			"endMs": 22442
+		},
+		{
+			"speaker": "Michael",
+			"text": "How do I get to the station?",
+			"startMs": 22442,
+			"endMs": 24277
+		},
+		{
+			"speaker": "Michael",
+			"text": "Is there a bus to downtown?",
+			"startMs": 24277,
+			"endMs": 26026
+		},
+		{
+			"speaker": "Michael",
+			"text": "A one-way ticket to Boston, please.",
+			"startMs": 26026,
+			"endMs": 28330
+		},
+		{
+			"speaker": "Michael",
+			"text": "Round-trip, please.",
+			"startMs": 28330,
+			"endMs": 29823
+		}
+	]
+}

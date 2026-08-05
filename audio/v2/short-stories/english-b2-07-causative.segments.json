@@ -1,0 +1,63 @@
+{
+	"slug": "english-b2-07-causative",
+	"title": "請人做、找人弄(使役 have / get sth done)",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-b2-07-causative.mp3",
+	"durationMs": 14529,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "Your hair looks great!",
+			"startMs": 0,
+			"endMs": 1536
+		},
+		{
+			"speaker": "Michael",
+			"text": "Thanks.",
+			"startMs": 1536,
+			"endMs": 2347
+		},
+		{
+			"speaker": "Michael",
+			"text": "I got it cut yesterday.",
+			"startMs": 2347,
+			"endMs": 4075
+		},
+		{
+			"speaker": "Michael",
+			"text": "Nice.",
+			"startMs": 4075,
+			"endMs": 4907
+		},
+		{
+			"speaker": "Michael",
+			"text": "I need to have my glasses fixed.",
+			"startMs": 4907,
+			"endMs": 7126
+		},
+		{
+			"speaker": "Michael",
+			"text": "There's a good place downtown.",
+			"startMs": 7126,
+			"endMs": 8875
+		},
+		{
+			"speaker": "Michael",
+			"text": "I had mine repaired there last week.",
+			"startMs": 8875,
+			"endMs": 11222
+		},
+		{
+			"speaker": "Michael",
+			"text": "I had my car washed.",
+			"startMs": 11222,
+			"endMs": 12993
+		},
+		{
+			"speaker": "Michael",
+			"text": "I got my nails done.",
+			"startMs": 12993,
+			"endMs": 14529
+		}
+	]
+}

@@ -1,0 +1,75 @@
+{
+	"slug": "english-a2-16-phone-email",
+	"title": "情境:電話與 email 基礎",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-a2-16-phone-email.mp3",
+	"durationMs": 16791,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "Hello, this is Mia.",
+			"startMs": 0,
+			"endMs": 1323
+		},
+		{
+			"speaker": "Michael",
+			"text": "Can I speak to Mr.",
+			"startMs": 1323,
+			"endMs": 2987
+		},
+		{
+			"speaker": "Michael",
+			"text": "Lee, please?",
+			"startMs": 2987,
+			"endMs": 4118
+		},
+		{
+			"speaker": "Michael",
+			"text": "I'm sorry, he's not here right now.",
+			"startMs": 4118,
+			"endMs": 6529
+		},
+		{
+			"speaker": "Michael",
+			"text": "Can I take a message?",
+			"startMs": 6529,
+			"endMs": 8150
+		},
+		{
+			"speaker": "Michael",
+			"text": "Yes, please.",
+			"startMs": 8150,
+			"endMs": 9217
+		},
+		{
+			"speaker": "Michael",
+			"text": "Could you ask him to call me back?",
+			"startMs": 9217,
+			"endMs": 11372
+		},
+		{
+			"speaker": "Michael",
+			"text": "Sure.",
+			"startMs": 11372,
+			"endMs": 12119
+		},
+		{
+			"speaker": "Michael",
+			"text": "Can I have your number?",
+			"startMs": 12119,
+			"endMs": 13740
+		},
+		{
+			"speaker": "Michael",
+			"text": "Can I leave a message?",
+			"startMs": 13740,
+			"endMs": 15276
+		},
+		{
+			"speaker": "Michael",
+			"text": "I'll call back later.",
+			"startMs": 15276,
+			"endMs": 16791
+		}
+	]
+}

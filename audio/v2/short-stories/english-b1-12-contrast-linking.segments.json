@@ -1,0 +1,75 @@
+{
+	"slug": "english-b1-12-contrast-linking",
+	"title": "轉折與連接(although / however / because of)",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-b1-12-contrast-linking.mp3",
+	"durationMs": 18837,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "Did you enjoy the trip?",
+			"startMs": 0,
+			"endMs": 1600
+		},
+		{
+			"speaker": "Michael",
+			"text": "Yeah!",
+			"startMs": 1600,
+			"endMs": 2283
+		},
+		{
+			"speaker": "Michael",
+			"text": "Although it rained a lot, we had a great time.",
+			"startMs": 2283,
+			"endMs": 5270
+		},
+		{
+			"speaker": "Michael",
+			"text": "Nice.",
+			"startMs": 5270,
+			"endMs": 6102
+		},
+		{
+			"speaker": "Michael",
+			"text": "Despite the weather?",
+			"startMs": 6102,
+			"endMs": 7446
+		},
+		{
+			"speaker": "Michael",
+			"text": "Yeah.",
+			"startMs": 7446,
+			"endMs": 8150
+		},
+		{
+			"speaker": "Michael",
+			"text": "We stayed inside a lot because of the rain, but it was cozy.",
+			"startMs": 8150,
+			"endMs": 11691
+		},
+		{
+			"speaker": "Michael",
+			"text": "Although it was late, we kept working.",
+			"startMs": 11691,
+			"endMs": 14016
+		},
+		{
+			"speaker": "Michael",
+			"text": "It was late.",
+			"startMs": 14016,
+			"endMs": 15125
+		},
+		{
+			"speaker": "Michael",
+			"text": "However, we kept working.",
+			"startMs": 15125,
+			"endMs": 16960
+		},
+		{
+			"speaker": "Michael",
+			"text": "Despite the rain, we went out.",
+			"startMs": 16960,
+			"endMs": 18837
+		}
+	]
+}

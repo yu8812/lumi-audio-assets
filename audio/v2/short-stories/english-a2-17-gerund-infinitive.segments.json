@@ -1,0 +1,51 @@
+{
+	"slug": "english-a2-17-gerund-infinitive",
+	"title": "喜歡做…、想做… (動名詞 vs 不定詞)",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-a2-17-gerund-infinitive.mp3",
+	"durationMs": 10389,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "What do you like doing on weekends?",
+			"startMs": 0,
+			"endMs": 2091
+		},
+		{
+			"speaker": "Michael",
+			"text": "I enjoy hiking.",
+			"startMs": 2091,
+			"endMs": 3627
+		},
+		{
+			"speaker": "Michael",
+			"text": "And I want to learn to cook.",
+			"startMs": 3627,
+			"endMs": 5419
+		},
+		{
+			"speaker": "Michael",
+			"text": "Nice!",
+			"startMs": 5419,
+			"endMs": 6251
+		},
+		{
+			"speaker": "Michael",
+			"text": "I've decided to start running.",
+			"startMs": 6251,
+			"endMs": 8363
+		},
+		{
+			"speaker": "Michael",
+			"text": "Good idea.",
+			"startMs": 8363,
+			"endMs": 9344
+		},
+		{
+			"speaker": "Michael",
+			"text": "Don't give up!",
+			"startMs": 9344,
+			"endMs": 10389
+		}
+	]
+}

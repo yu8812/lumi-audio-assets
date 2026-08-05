@@ -1,0 +1,75 @@
+{
+	"slug": "english-a2-09-should",
+	"title": "應該不應該(should)",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-a2-09-should.mp3",
+	"durationMs": 16428,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "I have a headache and I'm really tired.",
+			"startMs": 0,
+			"endMs": 2283
+		},
+		{
+			"speaker": "Michael",
+			"text": "You should go home and rest.",
+			"startMs": 2283,
+			"endMs": 3862
+		},
+		{
+			"speaker": "Michael",
+			"text": "You shouldn't work so much.",
+			"startMs": 3862,
+			"endMs": 5569
+		},
+		{
+			"speaker": "Michael",
+			"text": "You're right.",
+			"startMs": 5569,
+			"endMs": 6508
+		},
+		{
+			"speaker": "Michael",
+			"text": "Should I see a doctor?",
+			"startMs": 6508,
+			"endMs": 8001
+		},
+		{
+			"speaker": "Michael",
+			"text": "Maybe.",
+			"startMs": 8001,
+			"endMs": 8833
+		},
+		{
+			"speaker": "Michael",
+			"text": "If it's still bad tomorrow, you should.",
+			"startMs": 8833,
+			"endMs": 11073
+		},
+		{
+			"speaker": "Michael",
+			"text": "You should rest.",
+			"startMs": 11073,
+			"endMs": 12225
+		},
+		{
+			"speaker": "Michael",
+			"text": "You shouldn't worry.",
+			"startMs": 12225,
+			"endMs": 13548
+		},
+		{
+			"speaker": "Michael",
+			"text": "Should I call her?",
+			"startMs": 13548,
+			"endMs": 14785
+		},
+		{
+			"speaker": "Michael",
+			"text": "I think you should try.",
+			"startMs": 14785,
+			"endMs": 16428
+		}
+	]
+}

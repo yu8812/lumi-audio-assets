@@ -1,0 +1,63 @@
+{
+	"slug": "english-a2-08-must-have-to",
+	"title": "必須與不必(must / have to)",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-a2-08-must-have-to.mp3",
+	"durationMs": 13375,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "You have to finish this by Friday.",
+			"startMs": 0,
+			"endMs": 2219
+		},
+		{
+			"speaker": "Michael",
+			"text": "OK.",
+			"startMs": 2219,
+			"endMs": 3200
+		},
+		{
+			"speaker": "Michael",
+			"text": "Do I have to come to the meeting too?",
+			"startMs": 3200,
+			"endMs": 5248
+		},
+		{
+			"speaker": "Michael",
+			"text": "No, you don't have to.",
+			"startMs": 5248,
+			"endMs": 6741
+		},
+		{
+			"speaker": "Michael",
+			"text": "It's optional.",
+			"startMs": 6741,
+			"endMs": 7936
+		},
+		{
+			"speaker": "Michael",
+			"text": "But you mustn't share these files.",
+			"startMs": 7936,
+			"endMs": 9920
+		},
+		{
+			"speaker": "Michael",
+			"text": "They're private.",
+			"startMs": 9920,
+			"endMs": 11157
+		},
+		{
+			"speaker": "Michael",
+			"text": "Yes, I do.",
+			"startMs": 11157,
+			"endMs": 12202
+		},
+		{
+			"speaker": "Michael",
+			"text": "No, I don't.",
+			"startMs": 12202,
+			"endMs": 13375
+		}
+	]
+}

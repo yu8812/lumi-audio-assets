@@ -1,0 +1,63 @@
+{
+	"slug": "english-b2-10-deduction-all",
+	"title": "全時態推測",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-b2-10-deduction-all.mp3",
+	"durationMs": 15829,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "Jun's not here and his coat's gone.",
+			"startMs": 0,
+			"endMs": 2176
+		},
+		{
+			"speaker": "Michael",
+			"text": "He must have left already.",
+			"startMs": 2176,
+			"endMs": 4011
+		},
+		{
+			"speaker": "Michael",
+			"text": "But his coffee's still warm.",
+			"startMs": 4011,
+			"endMs": 5824
+		},
+		{
+			"speaker": "Michael",
+			"text": "Then he can't have gone far.",
+			"startMs": 5824,
+			"endMs": 7552
+		},
+		{
+			"speaker": "Michael",
+			"text": "He might be talking to someone outside.",
+			"startMs": 7552,
+			"endMs": 9877
+		},
+		{
+			"speaker": "Michael",
+			"text": "He must be tired.",
+			"startMs": 9877,
+			"endMs": 11349
+		},
+		{
+			"speaker": "Michael",
+			"text": "He must be sleeping.",
+			"startMs": 11349,
+			"endMs": 12821
+		},
+		{
+			"speaker": "Michael",
+			"text": "He must have left.",
+			"startMs": 12821,
+			"endMs": 14229
+		},
+		{
+			"speaker": "Michael",
+			"text": "He must have been working.",
+			"startMs": 14229,
+			"endMs": 15829
+		}
+	]
+}

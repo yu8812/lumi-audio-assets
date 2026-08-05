@@ -1,0 +1,45 @@
+{
+	"slug": "english-b1-09-reported-speech",
+	"title": "轉述別人說的話(reported speech)",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-b1-09-reported-speech.mp3",
+	"durationMs": 10069,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "Did you talk to Ken?",
+			"startMs": 0,
+			"endMs": 1365
+		},
+		{
+			"speaker": "Michael",
+			"text": "Yeah.",
+			"startMs": 1365,
+			"endMs": 2069
+		},
+		{
+			"speaker": "Michael",
+			"text": "He said he was busy this week.",
+			"startMs": 2069,
+			"endMs": 3968
+		},
+		{
+			"speaker": "Michael",
+			"text": "Did he say anything about the plan?",
+			"startMs": 3968,
+			"endMs": 6357
+		},
+		{
+			"speaker": "Michael",
+			"text": "He told me that he would call you tomorrow.",
+			"startMs": 6357,
+			"endMs": 8938
+		},
+		{
+			"speaker": "Michael",
+			"text": "I'm happy.",
+			"startMs": 8938,
+			"endMs": 10069
+		}
+	]
+}

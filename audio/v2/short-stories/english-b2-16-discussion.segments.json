@@ -1,0 +1,57 @@
+{
+	"slug": "english-b2-16-discussion",
+	"title": "情境:討論、談利弊、表達態度",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-b2-16-discussion.mp3",
+	"durationMs": 20139,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "Should companies allow remote work?",
+			"startMs": 0,
+			"endMs": 2176
+		},
+		{
+			"speaker": "Michael",
+			"text": "Well, on the one hand, it gives people flexibility.",
+			"startMs": 2176,
+			"endMs": 5611
+		},
+		{
+			"speaker": "Michael",
+			"text": "On the other hand, it can hurt teamwork.",
+			"startMs": 5611,
+			"endMs": 7894
+		},
+		{
+			"speaker": "Michael",
+			"text": "To be honest, I think the benefits outweigh the drawbacks.",
+			"startMs": 7894,
+			"endMs": 11499
+		},
+		{
+			"speaker": "Michael",
+			"text": "I see your point, but it depends on the job, doesn't it?",
+			"startMs": 11499,
+			"endMs": 14784
+		},
+		{
+			"speaker": "Michael",
+			"text": "The benefits outweigh the drawbacks.",
+			"startMs": 14784,
+			"endMs": 16939
+		},
+		{
+			"speaker": "Michael",
+			"text": "I'm not so sure.",
+			"startMs": 16939,
+			"endMs": 18390
+		},
+		{
+			"speaker": "Michael",
+			"text": "I'd argue the opposite.",
+			"startMs": 18390,
+			"endMs": 20139
+		}
+	]
+}

@@ -1,0 +1,51 @@
+{
+	"slug": "english-a2-12-conditionals",
+	"title": "如果…就…(條件句)",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-a2-12-conditionals.mp3",
+	"durationMs": 13653,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "Are you coming to the picnic?",
+			"startMs": 0,
+			"endMs": 1792
+		},
+		{
+			"speaker": "Michael",
+			"text": "If the weather is good, I'll come.",
+			"startMs": 1792,
+			"endMs": 3797
+		},
+		{
+			"speaker": "Michael",
+			"text": "And if it rains?",
+			"startMs": 3797,
+			"endMs": 5184
+		},
+		{
+			"speaker": "Michael",
+			"text": "If it rains, we'll do it next week.",
+			"startMs": 5184,
+			"endMs": 7317
+		},
+		{
+			"speaker": "Michael",
+			"text": "By the way, if you heat ice, it melts!",
+			"startMs": 7317,
+			"endMs": 9770
+		},
+		{
+			"speaker": "Michael",
+			"text": "If you heat water, it boils.",
+			"startMs": 9770,
+			"endMs": 11669
+		},
+		{
+			"speaker": "Michael",
+			"text": "If it rains, I'll stay home.",
+			"startMs": 11669,
+			"endMs": 13653
+		}
+	]
+}

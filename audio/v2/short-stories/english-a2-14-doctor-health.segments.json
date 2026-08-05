@@ -1,0 +1,81 @@
+{
+	"slug": "english-a2-14-doctor-health",
+	"title": "情境:看醫生與健康",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-a2-14-doctor-health.mp3",
+	"durationMs": 19008,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "What's wrong?",
+			"startMs": 0,
+			"endMs": 1088
+		},
+		{
+			"speaker": "Michael",
+			"text": "I have a bad headache, and I feel dizzy.",
+			"startMs": 1088,
+			"endMs": 3797
+		},
+		{
+			"speaker": "Michael",
+			"text": "How long have you had it?",
+			"startMs": 3797,
+			"endMs": 5354
+		},
+		{
+			"speaker": "Michael",
+			"text": "Since yesterday.",
+			"startMs": 5354,
+			"endMs": 6698
+		},
+		{
+			"speaker": "Michael",
+			"text": "You should rest and drink water.",
+			"startMs": 6698,
+			"endMs": 8661
+		},
+		{
+			"speaker": "Michael",
+			"text": "Take this medicine twice a day.",
+			"startMs": 8661,
+			"endMs": 10730
+		},
+		{
+			"speaker": "Michael",
+			"text": "I don't feel well.",
+			"startMs": 10730,
+			"endMs": 12117
+		},
+		{
+			"speaker": "Michael",
+			"text": "I feel sick.",
+			"startMs": 12117,
+			"endMs": 13333
+		},
+		{
+			"speaker": "Michael",
+			"text": "My throat hurts.",
+			"startMs": 13333,
+			"endMs": 14656
+		},
+		{
+			"speaker": "Michael",
+			"text": "My back hurts.",
+			"startMs": 14656,
+			"endMs": 15936
+		},
+		{
+			"speaker": "Michael",
+			"text": "What's the matter?",
+			"startMs": 15936,
+			"endMs": 17131
+		},
+		{
+			"speaker": "Michael",
+			"text": "You shouldn't go to work today.",
+			"startMs": 17131,
+			"endMs": 19008
+		}
+	]
+}

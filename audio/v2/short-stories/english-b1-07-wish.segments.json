@@ -1,0 +1,63 @@
+{
+	"slug": "english-b1-07-wish",
+	"title": "但願…(I wish)",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-b1-07-wish.mp3",
+	"durationMs": 15531,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "I wish I could speak Japanese.",
+			"startMs": 0,
+			"endMs": 2112
+		},
+		{
+			"speaker": "Michael",
+			"text": "Me too.",
+			"startMs": 2112,
+			"endMs": 3093
+		},
+		{
+			"speaker": "Michael",
+			"text": "I wish I had studied it in school.",
+			"startMs": 3093,
+			"endMs": 5184
+		},
+		{
+			"speaker": "Michael",
+			"text": "It's not too late!",
+			"startMs": 5184,
+			"endMs": 6656
+		},
+		{
+			"speaker": "Michael",
+			"text": "But I wish it were easier.",
+			"startMs": 6656,
+			"endMs": 8363
+		},
+		{
+			"speaker": "Michael",
+			"text": "Ha, don't we all.",
+			"startMs": 8363,
+			"endMs": 9750
+		},
+		{
+			"speaker": "Michael",
+			"text": "I wish I had more money.",
+			"startMs": 9750,
+			"endMs": 11542
+		},
+		{
+			"speaker": "Michael",
+			"text": "I wish I had studied harder.",
+			"startMs": 11542,
+			"endMs": 13590
+		},
+		{
+			"speaker": "Michael",
+			"text": "I wish it would stop raining.",
+			"startMs": 13590,
+			"endMs": 15531
+		}
+	]
+}

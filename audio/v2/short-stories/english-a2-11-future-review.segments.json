@@ -1,0 +1,75 @@
+{
+	"slug": "english-a2-11-future-review",
+	"title": "未來的三種說法",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-a2-11-future-review.mp3",
+	"durationMs": 19500,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "What are you doing this weekend?",
+			"startMs": 0,
+			"endMs": 1835
+		},
+		{
+			"speaker": "Michael",
+			"text": "I'm meeting some friends on Saturday.",
+			"startMs": 1835,
+			"endMs": 4182
+		},
+		{
+			"speaker": "Michael",
+			"text": "We're going to see a movie.",
+			"startMs": 4182,
+			"endMs": 5761
+		},
+		{
+			"speaker": "Michael",
+			"text": "Sounds fun.",
+			"startMs": 5761,
+			"endMs": 6870
+		},
+		{
+			"speaker": "Michael",
+			"text": "It might rain, though.",
+			"startMs": 6870,
+			"endMs": 8363
+		},
+		{
+			"speaker": "Michael",
+			"text": "If it rains, we'll just stay in and play games.",
+			"startMs": 8363,
+			"endMs": 11222
+		},
+		{
+			"speaker": "Michael",
+			"text": "I'm going to study tonight.",
+			"startMs": 11222,
+			"endMs": 12929
+		},
+		{
+			"speaker": "Michael",
+			"text": "The phone's ringing.",
+			"startMs": 12929,
+			"endMs": 14166
+		},
+		{
+			"speaker": "Michael",
+			"text": "I'll get it.",
+			"startMs": 14166,
+			"endMs": 15233
+		},
+		{
+			"speaker": "Michael",
+			"text": "I'm meeting Tom at six.",
+			"startMs": 15233,
+			"endMs": 17025
+		},
+		{
+			"speaker": "Michael",
+			"text": "We're flying to Japan on Friday.",
+			"startMs": 17025,
+			"endMs": 19500
+		}
+	]
+}

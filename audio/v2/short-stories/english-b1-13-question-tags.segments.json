@@ -1,0 +1,81 @@
+{
+	"slug": "english-b1-13-question-tags",
+	"title": "附加問句與呼應(…, isn't it?)",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-b1-13-question-tags.mp3",
+	"durationMs": 17429,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "It's a beautiful day, isn't it?",
+			"startMs": 0,
+			"endMs": 2027
+		},
+		{
+			"speaker": "Michael",
+			"text": "Yeah, it is.",
+			"startMs": 2027,
+			"endMs": 3094
+		},
+		{
+			"speaker": "Michael",
+			"text": "I love days like this.",
+			"startMs": 3094,
+			"endMs": 4694
+		},
+		{
+			"speaker": "Michael",
+			"text": "So do I.",
+			"startMs": 4694,
+			"endMs": 5910
+		},
+		{
+			"speaker": "Michael",
+			"text": "You don't work today, do you?",
+			"startMs": 5910,
+			"endMs": 7574
+		},
+		{
+			"speaker": "Michael",
+			"text": "No, I don't.",
+			"startMs": 7574,
+			"endMs": 8747
+		},
+		{
+			"speaker": "Michael",
+			"text": "Neither do you, right?",
+			"startMs": 8747,
+			"endMs": 10262
+		},
+		{
+			"speaker": "Michael",
+			"text": "You're tired, aren't you?",
+			"startMs": 10262,
+			"endMs": 11947
+		},
+		{
+			"speaker": "Michael",
+			"text": "You don't like it, do you?",
+			"startMs": 11947,
+			"endMs": 13462
+		},
+		{
+			"speaker": "Michael",
+			"text": "I like coffee.",
+			"startMs": 13462,
+			"endMs": 14827
+		},
+		{
+			"speaker": "Michael",
+			"text": "I don't smoke.",
+			"startMs": 14827,
+			"endMs": 16064
+		},
+		{
+			"speaker": "Michael",
+			"text": "Neither do I.",
+			"startMs": 16064,
+			"endMs": 17429
+		}
+	]
+}

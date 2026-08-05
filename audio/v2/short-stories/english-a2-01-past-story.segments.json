@@ -1,0 +1,81 @@
+{
+	"slug": "english-a2-01-past-story",
+	"title": "說一個過去的故事",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-a2-01-past-story.mp3",
+	"durationMs": 18345,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "What did you do yesterday?",
+			"startMs": 0,
+			"endMs": 1664
+		},
+		{
+			"speaker": "Michael",
+			"text": "Well, first I got up late.",
+			"startMs": 1664,
+			"endMs": 3605
+		},
+		{
+			"speaker": "Michael",
+			"text": "Then I met a friend for lunch.",
+			"startMs": 3605,
+			"endMs": 5546
+		},
+		{
+			"speaker": "Michael",
+			"text": "After that, we watched a movie.",
+			"startMs": 5546,
+			"endMs": 7594
+		},
+		{
+			"speaker": "Michael",
+			"text": "Nice!",
+			"startMs": 7594,
+			"endMs": 8426
+		},
+		{
+			"speaker": "Michael",
+			"text": "Where did you eat?",
+			"startMs": 8426,
+			"endMs": 9727
+		},
+		{
+			"speaker": "Michael",
+			"text": "At a small Italian place.",
+			"startMs": 9727,
+			"endMs": 11519
+		},
+		{
+			"speaker": "Michael",
+			"text": "The food was great.",
+			"startMs": 11519,
+			"endMs": 12948
+		},
+		{
+			"speaker": "Michael",
+			"text": "What did you do?",
+			"startMs": 12948,
+			"endMs": 14100
+		},
+		{
+			"speaker": "Michael",
+			"text": "Where did you go?",
+			"startMs": 14100,
+			"endMs": 15465
+		},
+		{
+			"speaker": "Michael",
+			"text": "Who did you meet?",
+			"startMs": 15465,
+			"endMs": 16788
+		},
+		{
+			"speaker": "Michael",
+			"text": "When did you get home?",
+			"startMs": 16788,
+			"endMs": 18345
+		}
+	]
+}

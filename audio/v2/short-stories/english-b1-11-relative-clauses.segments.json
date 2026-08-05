@@ -1,0 +1,27 @@
+{
+	"slug": "english-b1-11-relative-clauses",
+	"title": "關係子句(who / which / that / where)",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-b1-11-relative-clauses.mp3",
+	"durationMs": 6315,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "Of course.",
+			"startMs": 0,
+			"endMs": 1003
+		},
+		{
+			"speaker": "Michael",
+			"text": "The waiter who served us was so funny.",
+			"startMs": 1003,
+			"endMs": 3435
+		},
+		{
+			"speaker": "Michael",
+			"text": "Ha, and the cake that we ordered was amazing.",
+			"startMs": 3435,
+			"endMs": 6315
+		}
+	]
+}

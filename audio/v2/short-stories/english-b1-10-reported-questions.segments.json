@@ -1,0 +1,87 @@
+{
+	"slug": "english-b1-10-reported-questions",
+	"title": "轉述問句與命令",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-b1-10-reported-questions.mp3",
+	"durationMs": 24043,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "What did the interviewer ask you?",
+			"startMs": 0,
+			"endMs": 1792
+		},
+		{
+			"speaker": "Michael",
+			"text": "She asked where I had worked before, and whether I could start soon.",
+			"startMs": 1792,
+			"endMs": 5824
+		},
+		{
+			"speaker": "Michael",
+			"text": "Anything else?",
+			"startMs": 5824,
+			"endMs": 7040
+		},
+		{
+			"speaker": "Michael",
+			"text": "She told me to wait for an email, and asked me not to call.",
+			"startMs": 7040,
+			"endMs": 10816
+		},
+		{
+			"speaker": "Michael",
+			"text": "Where do you live?",
+			"startMs": 10816,
+			"endMs": 12075
+		},
+		{
+			"speaker": "Michael",
+			"text": "He asked where I lived.",
+			"startMs": 12075,
+			"endMs": 13696
+		},
+		{
+			"speaker": "Michael",
+			"text": "Are you OK?",
+			"startMs": 13696,
+			"endMs": 15019
+		},
+		{
+			"speaker": "Michael",
+			"text": "She asked if I was OK.",
+			"startMs": 15019,
+			"endMs": 16918
+		},
+		{
+			"speaker": "Michael",
+			"text": "Sit down.",
+			"startMs": 16918,
+			"endMs": 18006
+		},
+		{
+			"speaker": "Michael",
+			"text": "He told me to sit down.",
+			"startMs": 18006,
+			"endMs": 19627
+		},
+		{
+			"speaker": "Michael",
+			"text": "Please wait.",
+			"startMs": 19627,
+			"endMs": 20672
+		},
+		{
+			"speaker": "Michael",
+			"text": "She asked me to wait.",
+			"startMs": 20672,
+			"endMs": 22208
+		},
+		{
+			"speaker": "Michael",
+			"text": "He told me not to touch it.",
+			"startMs": 22208,
+			"endMs": 24043
+		}
+	]
+}

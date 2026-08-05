@@ -1,0 +1,87 @@
+{
+	"slug": "english-b1-17-opinions",
+	"title": "表達意見、同意與不同意",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-b1-17-opinions.mp3",
+	"durationMs": 20629,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "I think working from home is better.",
+			"startMs": 0,
+			"endMs": 2219
+		},
+		{
+			"speaker": "Michael",
+			"text": "I see your point, but I disagree.",
+			"startMs": 2219,
+			"endMs": 4395
+		},
+		{
+			"speaker": "Michael",
+			"text": "I think the office is more focused.",
+			"startMs": 4395,
+			"endMs": 6720
+		},
+		{
+			"speaker": "Michael",
+			"text": "That's true.",
+			"startMs": 6720,
+			"endMs": 7744
+		},
+		{
+			"speaker": "Michael",
+			"text": "On the other hand, you save time on commuting.",
+			"startMs": 7744,
+			"endMs": 10709
+		},
+		{
+			"speaker": "Michael",
+			"text": "Good point.",
+			"startMs": 10709,
+			"endMs": 11712
+		},
+		{
+			"speaker": "Michael",
+			"text": "It depends, I guess.",
+			"startMs": 11712,
+			"endMs": 13205
+		},
+		{
+			"speaker": "Michael",
+			"text": "I agree.",
+			"startMs": 13205,
+			"endMs": 14250
+		},
+		{
+			"speaker": "Michael",
+			"text": "You're right.",
+			"startMs": 14250,
+			"endMs": 15189
+		},
+		{
+			"speaker": "Michael",
+			"text": "That's a good point.",
+			"startMs": 15189,
+			"endMs": 16533
+		},
+		{
+			"speaker": "Michael",
+			"text": "I'm not sure I agree.",
+			"startMs": 16533,
+			"endMs": 18261
+		},
+		{
+			"speaker": "Michael",
+			"text": "I disagree.",
+			"startMs": 18261,
+			"endMs": 19498
+		},
+		{
+			"speaker": "Michael",
+			"text": "It depends.",
+			"startMs": 19498,
+			"endMs": 20629
+		}
+	]
+}

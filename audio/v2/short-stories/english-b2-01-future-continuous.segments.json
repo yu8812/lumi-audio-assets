@@ -1,0 +1,63 @@
+{
+	"slug": "english-b2-01-future-continuous",
+	"title": "未來進行式(will be doing)",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-b2-01-future-continuous.mp3",
+	"durationMs": 16425,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "Do you want to meet at 3 tomorrow?",
+			"startMs": 0,
+			"endMs": 2112
+		},
+		{
+			"speaker": "Michael",
+			"text": "Hmm, I'll be working at 3.",
+			"startMs": 2112,
+			"endMs": 4053
+		},
+		{
+			"speaker": "Michael",
+			"text": "How about 5?",
+			"startMs": 4053,
+			"endMs": 5482
+		},
+		{
+			"speaker": "Michael",
+			"text": "Sure.",
+			"startMs": 5482,
+			"endMs": 6229
+		},
+		{
+			"speaker": "Michael",
+			"text": "This time next week, I'll be lying on a beach!",
+			"startMs": 6229,
+			"endMs": 9194
+		},
+		{
+			"speaker": "Michael",
+			"text": "Lucky you.",
+			"startMs": 9194,
+			"endMs": 10111
+		},
+		{
+			"speaker": "Michael",
+			"text": "Will you be taking your laptop?",
+			"startMs": 10111,
+			"endMs": 12052
+		},
+		{
+			"speaker": "Michael",
+			"text": "At 8 tonight, I'll be having dinner.",
+			"startMs": 12052,
+			"endMs": 14441
+		},
+		{
+			"speaker": "Michael",
+			"text": "Will you be using the car tonight?",
+			"startMs": 14441,
+			"endMs": 16425
+		}
+	]
+}
