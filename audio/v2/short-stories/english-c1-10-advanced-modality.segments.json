@@ -1,0 +1,45 @@
+{
+	"slug": "english-c1-10-advanced-modality",
+	"title": "進階情態與細膩推測",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-c1-10-advanced-modality.mp3",
+	"durationMs": 12693,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "The 5 o'clock train's cancelled.",
+			"startMs": 0,
+			"endMs": 2069
+		},
+		{
+			"speaker": "Michael",
+			"text": "Then we might as well get coffee while we wait.",
+			"startMs": 2069,
+			"endMs": 4650
+		},
+		{
+			"speaker": "Michael",
+			"text": "Good idea.",
+			"startMs": 4650,
+			"endMs": 5631
+		},
+		{
+			"speaker": "Michael",
+			"text": "The next one may well be packed, though.",
+			"startMs": 5631,
+			"endMs": 7914
+		},
+		{
+			"speaker": "Michael",
+			"text": "Ken would leave booking till the last minute.",
+			"startMs": 7914,
+			"endMs": 10346
+		},
+		{
+			"speaker": "Michael",
+			"text": "I needn't have rushed this morning, then!",
+			"startMs": 10346,
+			"endMs": 12693
+		}
+	]
+}

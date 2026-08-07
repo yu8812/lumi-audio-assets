@@ -1,0 +1,45 @@
+{
+	"slug": "english-c2-05-connotation",
+	"title": "內涵與外延(選字的精微)",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-c2-05-connotation.mp3",
+	"durationMs": 10176,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "How would you describe the new manager?",
+			"startMs": 0,
+			"endMs": 2155
+		},
+		{
+			"speaker": "Michael",
+			"text": "Not stubborn.",
+			"startMs": 2155,
+			"endMs": 3286
+		},
+		{
+			"speaker": "Michael",
+			"text": "Big difference in tone.",
+			"startMs": 3286,
+			"endMs": 4779
+		},
+		{
+			"speaker": "Michael",
+			"text": "Exactly.",
+			"startMs": 4779,
+			"endMs": 5824
+		},
+		{
+			"speaker": "Michael",
+			"text": "And I'd say thrifty, not cheap.",
+			"startMs": 5824,
+			"endMs": 8021
+		},
+		{
+			"speaker": "Michael",
+			"text": "Same behaviour, kinder word.",
+			"startMs": 8021,
+			"endMs": 10176
+		}
+	]
+}

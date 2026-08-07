@@ -1,0 +1,33 @@
+{
+	"slug": "english-c1-17-c1-review",
+	"title": "C1 總複習:建構論述 + 你能做的事",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-c1-17-c1-review.mp3",
+	"durationMs": 14037,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "Some argue that remote work harms teamwork.",
+			"startMs": 0,
+			"endMs": 2795
+		},
+		{
+			"speaker": "Michael",
+			"text": "Admittedly, spontaneous collaboration can suffer.",
+			"startMs": 2795,
+			"endMs": 6123
+		},
+		{
+			"speaker": "Michael",
+			"text": "However, the evidence suggests that, with the right tools, teams remain productive.",
+			"startMs": 6123,
+			"endMs": 11264
+		},
+		{
+			"speaker": "Michael",
+			"text": "Moreover, flexibility improves retention.",
+			"startMs": 11264,
+			"endMs": 14037
+		}
+	]
+}

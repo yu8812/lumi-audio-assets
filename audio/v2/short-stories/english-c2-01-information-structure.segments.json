@@ -1,0 +1,33 @@
+{
+	"slug": "english-c2-01-information-structure",
+	"title": "資訊結構:舊訊息→新訊息",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-c2-01-information-structure.mp3",
+	"durationMs": 7360,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "Who's giving the keynote?",
+			"startMs": 0,
+			"endMs": 1493
+		},
+		{
+			"speaker": "Michael",
+			"text": "The keynote is being given by a Nobel laureate.",
+			"startMs": 1493,
+			"endMs": 4544
+		},
+		{
+			"speaker": "Michael",
+			"text": "Why the passive?",
+			"startMs": 4544,
+			"endMs": 5824
+		},
+		{
+			"speaker": "Michael",
+			"text": "So it goes at the end.",
+			"startMs": 5824,
+			"endMs": 7360
+		}
+	]
+}

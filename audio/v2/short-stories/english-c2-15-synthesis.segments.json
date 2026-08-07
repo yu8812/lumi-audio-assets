@@ -1,0 +1,33 @@
+{
+	"slug": "english-c2-15-synthesis",
+	"title": "綜合:摘要多源與細微差異",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-c2-15-synthesis.mp3",
+	"durationMs": 5782,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "Three reports, three angles.",
+			"startMs": 0,
+			"endMs": 1856
+		},
+		{
+			"speaker": "Michael",
+			"text": "Can you brief the board?",
+			"startMs": 1856,
+			"endMs": 3435
+		},
+		{
+			"speaker": "Michael",
+			"text": "Sure.",
+			"startMs": 3435,
+			"endMs": 4182
+		},
+		{
+			"speaker": "Michael",
+			"text": "Nicely synthesised.",
+			"startMs": 4182,
+			"endMs": 5782
+		}
+	]
+}

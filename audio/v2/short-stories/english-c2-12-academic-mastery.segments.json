@@ -1,0 +1,39 @@
+{
+	"slug": "english-c2-12-academic-mastery",
+	"title": "學術與專業書面精通",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-c2-12-academic-mastery.mp3",
+	"durationMs": 8960,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "Your paper reads really professionally now.",
+			"startMs": 0,
+			"endMs": 2752
+		},
+		{
+			"speaker": "Michael",
+			"text": "I balanced my claims.",
+			"startMs": 2752,
+			"endMs": 4373
+		},
+		{
+			"speaker": "Michael",
+			"text": "The findings strongly suggest X.",
+			"startMs": 4373,
+			"endMs": 6634
+		},
+		{
+			"speaker": "Michael",
+			"text": "Hedged but confident.",
+			"startMs": 6634,
+			"endMs": 8213
+		},
+		{
+			"speaker": "Michael",
+			"text": "Right.",
+			"startMs": 8213,
+			"endMs": 8960
+		}
+	]
+}

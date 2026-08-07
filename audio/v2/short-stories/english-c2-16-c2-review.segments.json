@@ -1,0 +1,21 @@
+{
+	"slug": "english-c2-16-c2-review",
+	"title": "C2 總複習與畢業(A1→C2)",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-c2-16-c2-review.mp3",
+	"durationMs": 8000,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "When I started, I couldn't say hello.",
+			"startMs": 0,
+			"endMs": 2475
+		},
+		{
+			"speaker": "Michael",
+			"text": "Now, I can argue a case, read between the lines, and switch register without thinking.",
+			"startMs": 2475,
+			"endMs": 8000
+		}
+	]
+}

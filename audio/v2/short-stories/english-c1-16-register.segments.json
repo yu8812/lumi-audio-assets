@@ -1,0 +1,39 @@
+{
+	"slug": "english-c1-16-register",
+	"title": "語域與得體（register）",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-c1-16-register.mp3",
+	"durationMs": 11435,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "How do I ask my manager to move a deadline?",
+			"startMs": 0,
+			"endMs": 2795
+		},
+		{
+			"speaker": "Michael",
+			"text": "Give me more time.",
+			"startMs": 2795,
+			"endMs": 4224
+		},
+		{
+			"speaker": "Michael",
+			"text": "I was wondering if it might be possible to extend the deadline.",
+			"startMs": 4224,
+			"endMs": 8107
+		},
+		{
+			"speaker": "Michael",
+			"text": "And to a friend?",
+			"startMs": 8107,
+			"endMs": 9451
+		},
+		{
+			"speaker": "Michael",
+			"text": "Can you give me a couple more days?",
+			"startMs": 9451,
+			"endMs": 11435
+		}
+	]
+}

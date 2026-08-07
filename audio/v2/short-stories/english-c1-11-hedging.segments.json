@@ -1,0 +1,45 @@
+{
+	"slug": "english-c1-11-hedging",
+	"title": "避重就輕與模糊語（hedging）",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-c1-11-hedging.mp3",
+	"durationMs": 13738,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "Is remote work better?",
+			"startMs": 0,
+			"endMs": 1557
+		},
+		{
+			"speaker": "Michael",
+			"text": "It tends to suit some people more than others.",
+			"startMs": 1557,
+			"endMs": 4202
+		},
+		{
+			"speaker": "Michael",
+			"text": "So it's not for everyone.",
+			"startMs": 4202,
+			"endMs": 6037
+		},
+		{
+			"speaker": "Michael",
+			"text": "To some extent, yes.",
+			"startMs": 6037,
+			"endMs": 7616
+		},
+		{
+			"speaker": "Michael",
+			"text": "It's arguably more productive, but it can feel isolating.",
+			"startMs": 7616,
+			"endMs": 11349
+		},
+		{
+			"speaker": "Michael",
+			"text": "That's more or less my experience too.",
+			"startMs": 11349,
+			"endMs": 13738
+		}
+	]
+}

@@ -1,0 +1,39 @@
+{
+	"slug": "english-c2-08-irony-understatement",
+	"title": "反諷、輕描淡寫與誇飾",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-c2-08-irony-understatement.mp3",
+	"durationMs": 7979,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "We lost the whole database.",
+			"startMs": 0,
+			"endMs": 1835
+		},
+		{
+			"speaker": "Michael",
+			"text": "Well, that's not ideal.",
+			"startMs": 1835,
+			"endMs": 3435
+		},
+		{
+			"speaker": "Michael",
+			"text": "Understatement of the year.",
+			"startMs": 3435,
+			"endMs": 5163
+		},
+		{
+			"speaker": "Michael",
+			"text": "And the backup?",
+			"startMs": 5163,
+			"endMs": 6294
+		},
+		{
+			"speaker": "Michael",
+			"text": "Oh, it worked brilliantly.",
+			"startMs": 6294,
+			"endMs": 7979
+		}
+	]
+}

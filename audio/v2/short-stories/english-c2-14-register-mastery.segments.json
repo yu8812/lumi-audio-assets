@@ -1,0 +1,27 @@
+{
+	"slug": "english-c2-14-register-mastery",
+	"title": "語域的極致",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-c2-14-register-mastery.mp3",
+	"durationMs": 9131,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "I have to tell a client their idea won't work.",
+			"startMs": 0,
+			"endMs": 2901
+		},
+		{
+			"speaker": "Michael",
+			"text": "I can see the appeal, but I have some reservations about the feasibility.",
+			"startMs": 2901,
+			"endMs": 7616
+		},
+		{
+			"speaker": "Michael",
+			"text": "Softer, but still clear.",
+			"startMs": 7616,
+			"endMs": 9131
+		}
+	]
+}

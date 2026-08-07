@@ -1,0 +1,63 @@
+{
+	"slug": "english-c1-03-fronting-cleft",
+	"title": "前置與進階分裂句",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-c1-03-fronting-cleft.mp3",
+	"durationMs": 18176,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "You must be exhausted.",
+			"startMs": 0,
+			"endMs": 1579
+		},
+		{
+			"speaker": "Michael",
+			"text": "What I need right now is a long weekend.",
+			"startMs": 1579,
+			"endMs": 4352
+		},
+		{
+			"speaker": "Michael",
+			"text": "Take one.",
+			"startMs": 4352,
+			"endMs": 5291
+		},
+		{
+			"speaker": "Michael",
+			"text": "The one thing you shouldn't do is work.",
+			"startMs": 5291,
+			"endMs": 7360
+		},
+		{
+			"speaker": "Michael",
+			"text": "It wasn't until I stopped that I realised how tired I was.",
+			"startMs": 7360,
+			"endMs": 10987
+		},
+		{
+			"speaker": "Michael",
+			"text": "That I understand completely.",
+			"startMs": 10987,
+			"endMs": 12928
+		},
+		{
+			"speaker": "Michael",
+			"text": "That I can't accept.",
+			"startMs": 12928,
+			"endMs": 14400
+		},
+		{
+			"speaker": "Michael",
+			"text": "All I want is time.",
+			"startMs": 14400,
+			"endMs": 16000
+		},
+		{
+			"speaker": "Michael",
+			"text": "It wasn't until noon that she called.",
+			"startMs": 16000,
+			"endMs": 18176
+		}
+	]
+}

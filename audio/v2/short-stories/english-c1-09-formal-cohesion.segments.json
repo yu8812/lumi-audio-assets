@@ -1,0 +1,33 @@
+{
+	"slug": "english-c1-09-formal-cohesion",
+	"title": "正式連接與語篇銜接",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-c1-09-formal-cohesion.mp3",
+	"durationMs": 8384,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "Your essay flows really well now.",
+			"startMs": 0,
+			"endMs": 2112
+		},
+		{
+			"speaker": "Michael",
+			"text": "I added linkers.",
+			"startMs": 2112,
+			"endMs": 3541
+		},
+		{
+			"speaker": "Michael",
+			"text": "A system whereby users earn points.",
+			"startMs": 3541,
+			"endMs": 5888
+		},
+		{
+			"speaker": "Michael",
+			"text": "Consequently, it reads like a report.",
+			"startMs": 5888,
+			"endMs": 8384
+		}
+	]
+}

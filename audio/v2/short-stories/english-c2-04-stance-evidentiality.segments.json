@@ -1,0 +1,39 @@
+{
+	"slug": "english-c2-04-stance-evidentiality",
+	"title": "立場與確據",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-c2-04-stance-evidentiality.mp3",
+	"durationMs": 10027,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "Is the deal going through?",
+			"startMs": 0,
+			"endMs": 1579
+		},
+		{
+			"speaker": "Michael",
+			"text": "And the price?",
+			"startMs": 1579,
+			"endMs": 2774
+		},
+		{
+			"speaker": "Michael",
+			"text": "Reportedly around ten million, though that's unconfirmed.",
+			"startMs": 2774,
+			"endMs": 6123
+		},
+		{
+			"speaker": "Michael",
+			"text": "So allegedly a record.",
+			"startMs": 6123,
+			"endMs": 7894
+		},
+		{
+			"speaker": "Michael",
+			"text": "I'd take it with a pinch of salt.",
+			"startMs": 7894,
+			"endMs": 10027
+		}
+	]
+}

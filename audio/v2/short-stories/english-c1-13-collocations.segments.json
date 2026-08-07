@@ -1,0 +1,39 @@
+{
+	"slug": "english-c1-13-collocations",
+	"title": "進階搭配詞",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-c1-13-collocations.mp3",
+	"durationMs": 11691,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "How was the negotiation?",
+			"startMs": 0,
+			"endMs": 1728
+		},
+		{
+			"speaker": "Michael",
+			"text": "We made a lot of progress and finally reached an agreement.",
+			"startMs": 1728,
+			"endMs": 5461
+		},
+		{
+			"speaker": "Michael",
+			"text": "That's a huge relief.",
+			"startMs": 5461,
+			"endMs": 6933
+		},
+		{
+			"speaker": "Michael",
+			"text": "It is.",
+			"startMs": 6933,
+			"endMs": 7872
+		},
+		{
+			"speaker": "Michael",
+			"text": "I had strong doubts at first, but they made a real effort.",
+			"startMs": 7872,
+			"endMs": 11691
+		}
+	]
+}

@@ -1,0 +1,33 @@
+{
+	"slug": "english-c2-13-concision-paraphrase",
+	"title": "精煉與改寫",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-c2-13-concision-paraphrase.mp3",
+	"durationMs": 5995,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "My draft feels bloated.",
+			"startMs": 0,
+			"endMs": 1664
+		},
+		{
+			"speaker": "Michael",
+			"text": "Cut the padding.",
+			"startMs": 1664,
+			"endMs": 2859
+		},
+		{
+			"speaker": "Michael",
+			"text": "Say it in half the words.",
+			"startMs": 2859,
+			"endMs": 4523
+		},
+		{
+			"speaker": "Michael",
+			"text": "Less really is more.",
+			"startMs": 4523,
+			"endMs": 5995
+		}
+	]
+}

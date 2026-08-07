@@ -1,0 +1,33 @@
+{
+	"slug": "english-c1-14-phrasal-word-formation",
+	"title": "進階片語動詞與構詞",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-c1-14-phrasal-word-formation.mp3",
+	"durationMs": 11264,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "They carried out a survey and put forward a new plan.",
+			"startMs": 0,
+			"endMs": 3285
+		},
+		{
+			"speaker": "Michael",
+			"text": "Did it catch on?",
+			"startMs": 3285,
+			"endMs": 4608
+		},
+		{
+			"speaker": "Michael",
+			"text": "We came up against some resistance at first.",
+			"startMs": 4608,
+			"endMs": 7445
+		},
+		{
+			"speaker": "Michael",
+			"text": "Change is often unwelcome and easily misunderstood.",
+			"startMs": 7445,
+			"endMs": 11264
+		}
+	]
+}

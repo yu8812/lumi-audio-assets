@@ -1,0 +1,57 @@
+{
+	"slug": "english-c1-02-inversion-linking",
+	"title": "連接倒裝(Not only… / No sooner…)",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-c1-02-inversion-linking.mp3",
+	"durationMs": 19179,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "Did the launch go well?",
+			"startMs": 0,
+			"endMs": 1579
+		},
+		{
+			"speaker": "Michael",
+			"text": "Not only did it go well, but we also got great press.",
+			"startMs": 1579,
+			"endMs": 5163
+		},
+		{
+			"speaker": "Michael",
+			"text": "Nice.",
+			"startMs": 5163,
+			"endMs": 5995
+		},
+		{
+			"speaker": "Michael",
+			"text": "When did the orders start?",
+			"startMs": 5995,
+			"endMs": 7766
+		},
+		{
+			"speaker": "Michael",
+			"text": "No sooner had we finished than the first order came in.",
+			"startMs": 7766,
+			"endMs": 11094
+		},
+		{
+			"speaker": "Michael",
+			"text": "Only then did we realise how big this was.",
+			"startMs": 11094,
+			"endMs": 14059
+		},
+		{
+			"speaker": "Michael",
+			"text": "Not only was it cheap, but it also worked.",
+			"startMs": 14059,
+			"endMs": 16982
+		},
+		{
+			"speaker": "Michael",
+			"text": "Only after lunch did he call.",
+			"startMs": 16982,
+			"endMs": 19179
+		}
+	]
+}

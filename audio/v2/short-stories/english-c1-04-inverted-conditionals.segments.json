@@ -1,0 +1,57 @@
+{
+	"slug": "english-c1-04-inverted-conditionals",
+	"title": "倒裝條件與 but for",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-c1-04-inverted-conditionals.mp3",
+	"durationMs": 19989,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "I might take the job in Berlin.",
+			"startMs": 0,
+			"endMs": 2347
+		},
+		{
+			"speaker": "Michael",
+			"text": "Were I in your position, I'd think hard about it.",
+			"startMs": 2347,
+			"endMs": 5547
+		},
+		{
+			"speaker": "Michael",
+			"text": "Had I known earlier, I'd have prepared better.",
+			"startMs": 5547,
+			"endMs": 8534
+		},
+		{
+			"speaker": "Michael",
+			"text": "But for your German, it'd be impossible anyway.",
+			"startMs": 8534,
+			"endMs": 11883
+		},
+		{
+			"speaker": "Michael",
+			"text": "Should you hear of anything, let me know.",
+			"startMs": 11883,
+			"endMs": 14208
+		},
+		{
+			"speaker": "Michael",
+			"text": "Were I rich, I'd travel.",
+			"startMs": 14208,
+			"endMs": 15893
+		},
+		{
+			"speaker": "Michael",
+			"text": "Had she asked, I'd have helped.",
+			"startMs": 15893,
+			"endMs": 17856
+		},
+		{
+			"speaker": "Michael",
+			"text": "Should it rain, we'll move inside.",
+			"startMs": 17856,
+			"endMs": 19989
+		}
+	]
+}

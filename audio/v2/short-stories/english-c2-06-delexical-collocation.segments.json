@@ -1,0 +1,45 @@
+{
+	"slug": "english-c2-06-delexical-collocation",
+	"title": "虛化動詞與詞塊",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-c2-06-delexical-collocation.mp3",
+	"durationMs": 9771,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "Can you give me a hand with this?",
+			"startMs": 0,
+			"endMs": 1771
+		},
+		{
+			"speaker": "Michael",
+			"text": "Sure.",
+			"startMs": 1771,
+			"endMs": 2518
+		},
+		{
+			"speaker": "Michael",
+			"text": "Let me have a look.",
+			"startMs": 2518,
+			"endMs": 3819
+		},
+		{
+			"speaker": "Michael",
+			"text": "Thanks.",
+			"startMs": 3819,
+			"endMs": 4630
+		},
+		{
+			"speaker": "Michael",
+			"text": "I need to make a decision by noon.",
+			"startMs": 4630,
+			"endMs": 6934
+		},
+		{
+			"speaker": "Michael",
+			"text": "Then let's take a break first and think it through.",
+			"startMs": 6934,
+			"endMs": 9771
+		}
+	]
+}

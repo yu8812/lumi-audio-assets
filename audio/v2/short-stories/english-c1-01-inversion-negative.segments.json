@@ -1,0 +1,51 @@
+{
+	"slug": "english-c1-01-inversion-negative",
+	"title": "否定倒裝(Never have I…)",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-c1-01-inversion-negative.mp3",
+	"durationMs": 14743,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "How was the exhibition?",
+			"startMs": 0,
+			"endMs": 1515
+		},
+		{
+			"speaker": "Michael",
+			"text": "Never have I seen so much talent in one room.",
+			"startMs": 1515,
+			"endMs": 4246
+		},
+		{
+			"speaker": "Michael",
+			"text": "That good?",
+			"startMs": 4246,
+			"endMs": 5185
+		},
+		{
+			"speaker": "Michael",
+			"text": "Not only was it beautiful, but it also made me think.",
+			"startMs": 5185,
+			"endMs": 8748
+		},
+		{
+			"speaker": "Michael",
+			"text": "Rarely do you get that from an art show.",
+			"startMs": 8748,
+			"endMs": 11073
+		},
+		{
+			"speaker": "Michael",
+			"text": "Never have I felt so proud.",
+			"startMs": 11073,
+			"endMs": 13100
+		},
+		{
+			"speaker": "Michael",
+			"text": "Rarely does he complain.",
+			"startMs": 13100,
+			"endMs": 14743
+		}
+	]
+}

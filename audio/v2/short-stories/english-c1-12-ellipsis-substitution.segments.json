@@ -1,0 +1,69 @@
+{
+	"slug": "english-c1-12-ellipsis-substitution",
+	"title": "省略與替代",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-c1-12-ellipsis-substitution.mp3",
+	"durationMs": 13291,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "Have you booked the tickets?",
+			"startMs": 0,
+			"endMs": 1493
+		},
+		{
+			"speaker": "Michael",
+			"text": "I can do it if you want me to.",
+			"startMs": 1493,
+			"endMs": 3413
+		},
+		{
+			"speaker": "Michael",
+			"text": "Would you?",
+			"startMs": 3413,
+			"endMs": 4309
+		},
+		{
+			"speaker": "Michael",
+			"text": "That'd help.",
+			"startMs": 4309,
+			"endMs": 5397
+		},
+		{
+			"speaker": "Michael",
+			"text": "On it.",
+			"startMs": 5397,
+			"endMs": 6272
+		},
+		{
+			"speaker": "Michael",
+			"text": "Is it expensive?",
+			"startMs": 6272,
+			"endMs": 7765
+		},
+		{
+			"speaker": "Michael",
+			"text": "I'm afraid so.",
+			"startMs": 7765,
+			"endMs": 9152
+		},
+		{
+			"speaker": "Michael",
+			"text": "I didn't call, but she did.",
+			"startMs": 9152,
+			"endMs": 10880
+		},
+		{
+			"speaker": "Michael",
+			"text": "I think so.",
+			"startMs": 10880,
+			"endMs": 12096
+		},
+		{
+			"speaker": "Michael",
+			"text": "I hope not.",
+			"startMs": 12096,
+			"endMs": 13291
+		}
+	]
+}

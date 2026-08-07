@@ -1,0 +1,51 @@
+{
+	"slug": "english-c2-03-advanced-subjunctive",
+	"title": "進階與固定虛擬式",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-c2-03-advanced-subjunctive.mp3",
+	"durationMs": 13633,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "How did you keep the project alive?",
+			"startMs": 0,
+			"endMs": 2219
+		},
+		{
+			"speaker": "Michael",
+			"text": "Were it not for a few loyal clients, it would have folded.",
+			"startMs": 2219,
+			"endMs": 5952
+		},
+		{
+			"speaker": "Michael",
+			"text": "That close?",
+			"startMs": 5952,
+			"endMs": 6976
+		},
+		{
+			"speaker": "Michael",
+			"text": "Had it not been for them, yes.",
+			"startMs": 6976,
+			"endMs": 9003
+		},
+		{
+			"speaker": "Michael",
+			"text": "Be that as it may, we're stable now.",
+			"startMs": 9003,
+			"endMs": 11307
+		},
+		{
+			"speaker": "Michael",
+			"text": "Good.",
+			"startMs": 11307,
+			"endMs": 12054
+		},
+		{
+			"speaker": "Michael",
+			"text": "I can help if need be.",
+			"startMs": 12054,
+			"endMs": 13633
+		}
+	]
+}

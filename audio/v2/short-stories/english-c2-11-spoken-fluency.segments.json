@@ -1,0 +1,45 @@
+{
+	"slug": "english-c2-11-spoken-fluency",
+	"title": "口語流利特徵",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-c2-11-spoken-fluency.mp3",
+	"durationMs": 9024,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "So how was the trip?",
+			"startMs": 0,
+			"endMs": 1493
+		},
+		{
+			"speaker": "Michael",
+			"text": "Right.",
+			"startMs": 1493,
+			"endMs": 2240
+		},
+		{
+			"speaker": "Michael",
+			"text": "So, worth it or not?",
+			"startMs": 2240,
+			"endMs": 3819
+		},
+		{
+			"speaker": "Michael",
+			"text": "I mean, overall, yeah.",
+			"startMs": 3819,
+			"endMs": 5696
+		},
+		{
+			"speaker": "Michael",
+			"text": "Come to think of it, I'd go again.",
+			"startMs": 5696,
+			"endMs": 7979
+		},
+		{
+			"speaker": "Michael",
+			"text": "Fair enough.",
+			"startMs": 7979,
+			"endMs": 9024
+		}
+	]
+}

@@ -1,0 +1,57 @@
+{
+	"slug": "english-c1-05-subjunctive",
+	"title": "虛擬語氣(I suggest he be…)",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-c1-05-subjunctive.mp3",
+	"durationMs": 17643,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "HR recommended that I submit the form by Friday.",
+			"startMs": 0,
+			"endMs": 3797
+		},
+		{
+			"speaker": "Michael",
+			"text": "Right.",
+			"startMs": 3797,
+			"endMs": 4544
+		},
+		{
+			"speaker": "Michael",
+			"text": "And it's essential that everyone be on time.",
+			"startMs": 4544,
+			"endMs": 7467
+		},
+		{
+			"speaker": "Michael",
+			"text": "The director insisted that the meeting not be moved.",
+			"startMs": 7467,
+			"endMs": 10582
+		},
+		{
+			"speaker": "Michael",
+			"text": "Fair enough.",
+			"startMs": 10582,
+			"endMs": 11627
+		},
+		{
+			"speaker": "Michael",
+			"text": "I'd suggest that she speak to them first.",
+			"startMs": 11627,
+			"endMs": 13995
+		},
+		{
+			"speaker": "Michael",
+			"text": "I suggest that he go.",
+			"startMs": 13995,
+			"endMs": 15659
+		},
+		{
+			"speaker": "Michael",
+			"text": "It's vital that she be told.",
+			"startMs": 15659,
+			"endMs": 17643
+		}
+	]
+}

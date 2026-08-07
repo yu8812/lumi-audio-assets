@@ -1,0 +1,45 @@
+{
+	"slug": "english-c1-15-idioms-metaphor",
+	"title": "慣用語與比喻（適度）",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-c1-15-idioms-metaphor.mp3",
+	"durationMs": 12372,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "How's the new project going?",
+			"startMs": 0,
+			"endMs": 2048
+		},
+		{
+			"speaker": "Michael",
+			"text": "Honestly, it's on the back burner for now.",
+			"startMs": 2048,
+			"endMs": 4757
+		},
+		{
+			"speaker": "Michael",
+			"text": "Let's touch base next week once things calm down.",
+			"startMs": 4757,
+			"endMs": 7978
+		},
+		{
+			"speaker": "Michael",
+			"text": "Sounds good.",
+			"startMs": 7978,
+			"endMs": 9087
+		},
+		{
+			"speaker": "Michael",
+			"text": "I don't want to jump the gun.",
+			"startMs": 9087,
+			"endMs": 10836
+		},
+		{
+			"speaker": "Michael",
+			"text": "Better to play it by ear.",
+			"startMs": 10836,
+			"endMs": 12372
+		}
+	]
+}

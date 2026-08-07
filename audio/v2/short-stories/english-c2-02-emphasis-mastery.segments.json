@@ -1,0 +1,39 @@
+{
+	"slug": "english-c2-02-emphasis-mastery",
+	"title": "強調的極致",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-c2-02-emphasis-mastery.mp3",
+	"durationMs": 11286,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "I do appreciate everything you've done.",
+			"startMs": 0,
+			"endMs": 2496
+		},
+		{
+			"speaker": "Michael",
+			"text": "That means a lot.",
+			"startMs": 2496,
+			"endMs": 3819
+		},
+		{
+			"speaker": "Michael",
+			"text": "What surprised me most was how calm you stayed.",
+			"startMs": 3819,
+			"endMs": 6848
+		},
+		{
+			"speaker": "Michael",
+			"text": "It was your support that got me through it.",
+			"startMs": 6848,
+			"endMs": 9067
+		},
+		{
+			"speaker": "Michael",
+			"text": "All that matters is you're okay now.",
+			"startMs": 9067,
+			"endMs": 11286
+		}
+	]
+}

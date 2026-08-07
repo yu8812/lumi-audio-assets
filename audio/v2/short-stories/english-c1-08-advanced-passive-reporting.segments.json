@@ -1,0 +1,63 @@
+{
+	"slug": "english-c1-08-advanced-passive-reporting",
+	"title": "進階被動與保持距離",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-c1-08-advanced-passive-reporting.mp3",
+	"durationMs": 16171,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "Is the merger confirmed?",
+			"startMs": 0,
+			"endMs": 1600
+		},
+		{
+			"speaker": "Michael",
+			"text": "Not officially.",
+			"startMs": 1600,
+			"endMs": 2859
+		},
+		{
+			"speaker": "Michael",
+			"text": "But it is thought to be close.",
+			"startMs": 2859,
+			"endMs": 4523
+		},
+		{
+			"speaker": "Michael",
+			"text": "And the CEO?",
+			"startMs": 4523,
+			"endMs": 5910
+		},
+		{
+			"speaker": "Michael",
+			"text": "She is said to have known for months.",
+			"startMs": 5910,
+			"endMs": 7958
+		},
+		{
+			"speaker": "Michael",
+			"text": "It is widely believed that she'll step down.",
+			"startMs": 7958,
+			"endMs": 10582
+		},
+		{
+			"speaker": "Michael",
+			"text": "It is believed that he is guilty.",
+			"startMs": 10582,
+			"endMs": 12630
+		},
+		{
+			"speaker": "Michael",
+			"text": "He is believed to be guilty.",
+			"startMs": 12630,
+			"endMs": 14443
+		},
+		{
+			"speaker": "Michael",
+			"text": "He is believed to have left.",
+			"startMs": 14443,
+			"endMs": 16171
+		}
+	]
+}

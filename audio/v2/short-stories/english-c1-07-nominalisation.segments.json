@@ -1,0 +1,33 @@
+{
+	"slug": "english-c1-07-nominalisation",
+	"title": "名詞化(學術與正式風)",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-c1-07-nominalisation.mp3",
+	"durationMs": 6762,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "The report reads very formally.",
+			"startMs": 0,
+			"endMs": 1963
+		},
+		{
+			"speaker": "Michael",
+			"text": "Exactly.",
+			"startMs": 1963,
+			"endMs": 3008
+		},
+		{
+			"speaker": "Michael",
+			"text": "It sounds objective.",
+			"startMs": 3008,
+			"endMs": 4693
+		},
+		{
+			"speaker": "Michael",
+			"text": "But too much and it gets heavy.",
+			"startMs": 4693,
+			"endMs": 6762
+		}
+	]
+}

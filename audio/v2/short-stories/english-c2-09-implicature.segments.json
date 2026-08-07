@@ -1,0 +1,51 @@
+{
+	"slug": "english-c2-09-implicature",
+	"title": "言外之意與含蓄",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-c2-09-implicature.mp3",
+	"durationMs": 10261,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "Do you like the new design?",
+			"startMs": 0,
+			"endMs": 1600
+		},
+		{
+			"speaker": "Michael",
+			"text": "That bad?",
+			"startMs": 1600,
+			"endMs": 2581
+		},
+		{
+			"speaker": "Michael",
+			"text": "I'm sure some people will love it.",
+			"startMs": 2581,
+			"endMs": 4586
+		},
+		{
+			"speaker": "Michael",
+			"text": "Got it.",
+			"startMs": 4586,
+			"endMs": 5503
+		},
+		{
+			"speaker": "Michael",
+			"text": "Back to the drawing board.",
+			"startMs": 5503,
+			"endMs": 7103
+		},
+		{
+			"speaker": "Michael",
+			"text": "I've got a lot on.",
+			"startMs": 7103,
+			"endMs": 8554
+		},
+		{
+			"speaker": "Michael",
+			"text": "Some people might like it.",
+			"startMs": 8554,
+			"endMs": 10261
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"slug": "english-c2-07-idioms-proverbs",
+	"title": "慣用語、諺語與比喻的精通",
+	"language": "en",
+	"audio": "/audio/v2/short-stories/english-c2-07-idioms-proverbs.mp3",
+	"durationMs": 12181,
+	"segments": [
+		{
+			"speaker": "Michael",
+			"text": "How's the restructure going?",
+			"startMs": 0,
+			"endMs": 1941
+		},
+		{
+			"speaker": "Michael",
+			"text": "By and large, smoothly.",
+			"startMs": 1941,
+			"endMs": 3605
+		},
+		{
+			"speaker": "Michael",
+			"text": "A few hiccups here and there.",
+			"startMs": 3605,
+			"endMs": 5461
+		},
+		{
+			"speaker": "Michael",
+			"text": "Sooner or later you'll need more staff.",
+			"startMs": 5461,
+			"endMs": 8085
+		},
+		{
+			"speaker": "Michael",
+			"text": "But I'd rather be safe than sorry.",
+			"startMs": 8085,
+			"endMs": 10261
+		},
+		{
+			"speaker": "Michael",
+			"text": "Slow and steady wins the race.",
+			"startMs": 10261,
+			"endMs": 12181
+		}
+	]
+}
