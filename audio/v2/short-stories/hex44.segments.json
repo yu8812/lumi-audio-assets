@@ -3,55 +3,55 @@
 	"title": "第四十四卦 姤",
 	"language": "zh-TW",
 	"audio": "/audio/v2/short-stories/hex44.mp3",
-	"durationMs": 35280,
+	"durationMs": 29000,
 	"segments": [
 		{
 			"speaker": "說書人",
 			"text": "第四十四卦,姤。",
 			"startMs": 0,
-			"endMs": 1980
+			"endMs": 1700
 		},
 		{
 			"speaker": "說書人",
 			"text": "姤女壯,勿用取女。",
-			"startMs": 1980,
-			"endMs": 4440
+			"startMs": 1700,
+			"endMs": 4480
 		},
 		{
 			"speaker": "說書人",
 			"text": "初六繫于金柅,貞吉。有攸往,見凶,羸豕孚蹢躅。",
-			"startMs": 4440,
-			"endMs": 12740
+			"startMs": 4480,
+			"endMs": 10300
 		},
 		{
 			"speaker": "說書人",
 			"text": "九二包有魚,无咎,不利賓。",
-			"startMs": 12740,
-			"endMs": 17040
+			"startMs": 10300,
+			"endMs": 13640
 		},
 		{
 			"speaker": "說書人",
 			"text": "九三臀无膚,其行次且,厲,无大咎。",
-			"startMs": 17040,
-			"endMs": 23000
+			"startMs": 13640,
+			"endMs": 18520
 		},
 		{
 			"speaker": "說書人",
 			"text": "九四包无魚,起凶。",
-			"startMs": 23000,
-			"endMs": 26460
+			"startMs": 18520,
+			"endMs": 21580
 		},
 		{
 			"speaker": "說書人",
 			"text": "九五以杞包瓜,含章,有隕自天。",
-			"startMs": 26460,
-			"endMs": 31780
+			"startMs": 21580,
+			"endMs": 25980
 		},
 		{
 			"speaker": "說書人",
 			"text": "上九姤其角,吝,无咎。",
-			"startMs": 31780,
-			"endMs": 35280
+			"startMs": 25980,
+			"endMs": 29000
 		}
 	]
 }

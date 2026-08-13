@@ -3,55 +3,55 @@
 	"title": "第二十二卦 賁",
 	"language": "zh-TW",
 	"audio": "/audio/v2/short-stories/hex22.mp3",
-	"durationMs": 31160,
+	"durationMs": 26080,
 	"segments": [
 		{
 			"speaker": "說書人",
 			"text": "第二十二卦,賁。",
 			"startMs": 0,
-			"endMs": 1940
+			"endMs": 1500
 		},
 		{
 			"speaker": "說書人",
 			"text": "賁亨。小利有攸往。",
-			"startMs": 1940,
-			"endMs": 5560
+			"startMs": 1500,
+			"endMs": 4240
 		},
 		{
 			"speaker": "說書人",
 			"text": "初九賁其趾,舍車而徒。",
-			"startMs": 5560,
-			"endMs": 9580
+			"startMs": 4240,
+			"endMs": 7340
 		},
 		{
 			"speaker": "說書人",
 			"text": "六二賁其須。",
-			"startMs": 9580,
-			"endMs": 11960
+			"startMs": 7340,
+			"endMs": 9720
 		},
 		{
 			"speaker": "說書人",
 			"text": "九三賁如濡如,永貞吉。",
-			"startMs": 11960,
-			"endMs": 16620
+			"startMs": 9720,
+			"endMs": 12700
 		},
 		{
 			"speaker": "說書人",
 			"text": "六四賁如皤如,白馬翰如。匪寇婚媾。",
-			"startMs": 16620,
-			"endMs": 22760
+			"startMs": 12700,
+			"endMs": 17920
 		},
 		{
 			"speaker": "說書人",
 			"text": "六五賁于丘園,束帛戔戔。吝,終吉。",
-			"startMs": 22760,
-			"endMs": 28140
+			"startMs": 17920,
+			"endMs": 23300
 		},
 		{
 			"speaker": "說書人",
 			"text": "上九白賁,无咎。",
-			"startMs": 28140,
-			"endMs": 31160
+			"startMs": 23300,
+			"endMs": 26080
 		}
 	]
 }

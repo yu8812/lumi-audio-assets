@@ -3,55 +3,55 @@
 	"title": "第六十四卦 未濟",
 	"language": "zh-TW",
 	"audio": "/audio/v2/short-stories/hex64.mp3",
-	"durationMs": 40280,
+	"durationMs": 32960,
 	"segments": [
 		{
 			"speaker": "說書人",
 			"text": "第六十四卦,未濟。",
 			"startMs": 0,
-			"endMs": 2460
+			"endMs": 1940
 		},
 		{
 			"speaker": "說書人",
 			"text": "未濟亨。小狐汔濟,濡其尾,无攸利。",
-			"startMs": 2460,
-			"endMs": 8580
+			"startMs": 1940,
+			"endMs": 6420
 		},
 		{
 			"speaker": "說書人",
 			"text": "初六濡其尾,吝。",
-			"startMs": 8580,
-			"endMs": 11680
+			"startMs": 6420,
+			"endMs": 8960
 		},
 		{
 			"speaker": "說書人",
 			"text": "九二曳其輪,貞吉。",
-			"startMs": 11680,
-			"endMs": 15140
+			"startMs": 8960,
+			"endMs": 11740
 		},
 		{
 			"speaker": "說書人",
 			"text": "六三未濟,征凶,利涉大川。",
-			"startMs": 15140,
-			"endMs": 19900
+			"startMs": 11740,
+			"endMs": 15860
 		},
 		{
 			"speaker": "說書人",
 			"text": "九四貞吉,悔亡。震用伐鬼方,三年有賞于大國。",
-			"startMs": 19900,
-			"endMs": 27400
+			"startMs": 15860,
+			"endMs": 22040
 		},
 		{
 			"speaker": "說書人",
 			"text": "六五貞吉,无悔。君子之光,有孚,吉。",
-			"startMs": 27400,
-			"endMs": 32900
+			"startMs": 22040,
+			"endMs": 27140
 		},
 		{
 			"speaker": "說書人",
 			"text": "上九有孚于飲酒,无咎。濡其首,有孚失是。",
-			"startMs": 32900,
-			"endMs": 40280
+			"startMs": 27140,
+			"endMs": 32960
 		}
 	]
 }

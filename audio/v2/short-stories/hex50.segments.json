@@ -3,55 +3,55 @@
 	"title": "第五十卦 鼎",
 	"language": "zh-TW",
 	"audio": "/audio/v2/short-stories/hex50.mp3",
-	"durationMs": 37940,
+	"durationMs": 31020,
 	"segments": [
 		{
 			"speaker": "說書人",
 			"text": "第五十卦,鼎。",
 			"startMs": 0,
-			"endMs": 1940
+			"endMs": 1380
 		},
 		{
 			"speaker": "說書人",
 			"text": "鼎元吉,亨。",
-			"startMs": 1940,
-			"endMs": 4400
+			"startMs": 1380,
+			"endMs": 3680
 		},
 		{
 			"speaker": "說書人",
 			"text": "初六鼎顛趾,利出否,得妾以其子,无咎。",
-			"startMs": 4400,
-			"endMs": 10880
+			"startMs": 3680,
+			"endMs": 9200
 		},
 		{
 			"speaker": "說書人",
 			"text": "九二鼎有實,我仇有疾,不我能即,吉。",
-			"startMs": 10880,
-			"endMs": 16280
+			"startMs": 9200,
+			"endMs": 13920
 		},
 		{
 			"speaker": "說書人",
 			"text": "九三鼎耳革,其行塞,雉膏不食,方雨虧悔,終吉。",
-			"startMs": 16280,
-			"endMs": 24140
+			"startMs": 13920,
+			"endMs": 20060
 		},
 		{
 			"speaker": "說書人",
 			"text": "九四鼎折足,覆公餗,其形渥,凶。",
-			"startMs": 24140,
-			"endMs": 29660
+			"startMs": 20060,
+			"endMs": 24580
 		},
 		{
 			"speaker": "說書人",
 			"text": "六五鼎黃耳金鉉,利貞。",
-			"startMs": 29660,
-			"endMs": 33480
+			"startMs": 24580,
+			"endMs": 27680
 		},
 		{
 			"speaker": "說書人",
 			"text": "上九鼎玉鉉,大吉,无不利。",
-			"startMs": 33480,
-			"endMs": 37940
+			"startMs": 27680,
+			"endMs": 31020
 		}
 	]
 }

@@ -3,55 +3,55 @@
 	"title": "第五十八卦 兌",
 	"language": "zh-TW",
 	"audio": "/audio/v2/short-stories/hex58.mp3",
-	"durationMs": 24540,
+	"durationMs": 20700,
 	"segments": [
 		{
 			"speaker": "說書人",
 			"text": "第五十八卦,兌。",
 			"startMs": 0,
-			"endMs": 2220
+			"endMs": 1540
 		},
 		{
 			"speaker": "說書人",
 			"text": "兌亨,利貞。",
-			"startMs": 2220,
-			"endMs": 5120
+			"startMs": 1540,
+			"endMs": 3840
 		},
 		{
 			"speaker": "說書人",
 			"text": "初九和兌,吉。",
-			"startMs": 5120,
-			"endMs": 7580
+			"startMs": 3840,
+			"endMs": 6580
 		},
 		{
 			"speaker": "說書人",
 			"text": "九二孚兌,吉,悔亡。",
-			"startMs": 7580,
-			"endMs": 11600
+			"startMs": 6580,
+			"endMs": 9360
 		},
 		{
 			"speaker": "說書人",
 			"text": "六三來兌,凶。",
-			"startMs": 11600,
-			"endMs": 14420
+			"startMs": 9360,
+			"endMs": 11820
 		},
 		{
 			"speaker": "說書人",
 			"text": "九四商兌未寧,介疾有喜。",
-			"startMs": 14420,
-			"endMs": 18860
+			"startMs": 11820,
+			"endMs": 15860
 		},
 		{
 			"speaker": "說書人",
 			"text": "九五孚于剝,有厲。",
-			"startMs": 18860,
-			"endMs": 22320
+			"startMs": 15860,
+			"endMs": 18520
 		},
 		{
 			"speaker": "說書人",
 			"text": "上六引兌。",
-			"startMs": 22320,
-			"endMs": 24540
+			"startMs": 18520,
+			"endMs": 20700
 		}
 	]
 }

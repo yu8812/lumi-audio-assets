@@ -3,55 +3,55 @@
 	"title": "第四十二卦 益",
 	"language": "zh-TW",
 	"audio": "/audio/v2/short-stories/hex42.mp3",
-	"durationMs": 44920,
+	"durationMs": 38920,
 	"segments": [
 		{
 			"speaker": "說書人",
 			"text": "第四十二卦,益。",
 			"startMs": 0,
-			"endMs": 2060
+			"endMs": 1660
 		},
 		{
 			"speaker": "說書人",
 			"text": "益利有攸往,利涉大川。",
-			"startMs": 2060,
-			"endMs": 6340
+			"startMs": 1660,
+			"endMs": 5380
 		},
 		{
 			"speaker": "說書人",
 			"text": "初九利用為大作,元吉,无咎。",
-			"startMs": 6340,
-			"endMs": 11060
+			"startMs": 5380,
+			"endMs": 9460
 		},
 		{
 			"speaker": "說書人",
 			"text": "六二或益之十朋之龜,弗克違,永貞吉。王用享于帝,吉。",
-			"startMs": 11060,
-			"endMs": 20080
+			"startMs": 9460,
+			"endMs": 16080
 		},
 		{
 			"speaker": "說書人",
 			"text": "六三益之用凶事,无咎。有孚中行,告公用圭。",
-			"startMs": 20080,
-			"endMs": 27100
+			"startMs": 16080,
+			"endMs": 22100
 		},
 		{
 			"speaker": "說書人",
 			"text": "六四中行,告公從,利用為依遷國。",
-			"startMs": 27100,
-			"endMs": 32820
+			"startMs": 22100,
+			"endMs": 28260
 		},
 		{
 			"speaker": "說書人",
 			"text": "九五有孚惠心,勿問元吉。有孚惠我德。",
-			"startMs": 32820,
-			"endMs": 38760
+			"startMs": 28260,
+			"endMs": 33800
 		},
 		{
 			"speaker": "說書人",
 			"text": "上九莫益之,或擊之,立心勿恆,凶。",
-			"startMs": 38760,
-			"endMs": 44920
+			"startMs": 33800,
+			"endMs": 38920
 		}
 	]
 }

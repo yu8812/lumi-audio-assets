@@ -3,55 +3,55 @@
 	"title": "第二十三卦 剝",
 	"language": "zh-TW",
 	"audio": "/audio/v2/short-stories/hex23.mp3",
-	"durationMs": 29560,
+	"durationMs": 24360,
 	"segments": [
 		{
 			"speaker": "說書人",
 			"text": "第二十三卦,剝。",
 			"startMs": 0,
-			"endMs": 2500
+			"endMs": 1500
 		},
 		{
 			"speaker": "說書人",
 			"text": "剝不利有攸往。",
-			"startMs": 2500,
-			"endMs": 5040
+			"startMs": 1500,
+			"endMs": 3880
 		},
 		{
 			"speaker": "說書人",
 			"text": "初六剝床以足,蔑貞凶。",
-			"startMs": 5040,
-			"endMs": 8860
+			"startMs": 3880,
+			"endMs": 6980
 		},
 		{
 			"speaker": "說書人",
 			"text": "六二剝床以辨,蔑貞凶。",
-			"startMs": 8860,
-			"endMs": 13080
+			"startMs": 6980,
+			"endMs": 10160
 		},
 		{
 			"speaker": "說書人",
 			"text": "六三剝之,无咎。",
-			"startMs": 13080,
-			"endMs": 16140
+			"startMs": 10160,
+			"endMs": 12660
 		},
 		{
 			"speaker": "說書人",
 			"text": "六四剝床以膚,凶。",
-			"startMs": 16140,
-			"endMs": 19280
+			"startMs": 12660,
+			"endMs": 15520
 		},
 		{
 			"speaker": "說書人",
 			"text": "六五貫魚,以宮人寵,无不利。",
-			"startMs": 19280,
-			"endMs": 23620
+			"startMs": 15520,
+			"endMs": 18980
 		},
 		{
 			"speaker": "說書人",
 			"text": "上九碩果不食,君子得輿,小人剝廬。",
-			"startMs": 23620,
-			"endMs": 29560
+			"startMs": 18980,
+			"endMs": 24360
 		}
 	]
 }

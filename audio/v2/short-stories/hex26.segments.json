@@ -3,55 +3,55 @@
 	"title": "第二十六卦 大畜",
 	"language": "zh-TW",
 	"audio": "/audio/v2/short-stories/hex26.mp3",
-	"durationMs": 30820,
+	"durationMs": 25500,
 	"segments": [
 		{
 			"speaker": "說書人",
 			"text": "第二十六卦,大畜。",
 			"startMs": 0,
-			"endMs": 2500
+			"endMs": 1860
 		},
 		{
 			"speaker": "說書人",
 			"text": "大畜利貞。不家食吉,利涉大川。",
-			"startMs": 2500,
-			"endMs": 8140
+			"startMs": 1860,
+			"endMs": 6300
 		},
 		{
 			"speaker": "說書人",
 			"text": "初九有厲,利已。",
-			"startMs": 8140,
-			"endMs": 11120
+			"startMs": 6300,
+			"endMs": 8960
 		},
 		{
 			"speaker": "說書人",
 			"text": "九二輿說輹。",
-			"startMs": 11120,
-			"endMs": 13660
+			"startMs": 8960,
+			"endMs": 11260
 		},
 		{
 			"speaker": "說書人",
 			"text": "九三良馬逐,利艱貞。曰閑輿衛,利有攸往。",
-			"startMs": 13660,
-			"endMs": 20760
+			"startMs": 11260,
+			"endMs": 17040
 		},
 		{
 			"speaker": "說書人",
 			"text": "六四童牛之牿,元吉。",
-			"startMs": 20760,
-			"endMs": 24300
+			"startMs": 17040,
+			"endMs": 20100
 		},
 		{
 			"speaker": "說書人",
 			"text": "六五豶豕之牙,吉。",
-			"startMs": 24300,
-			"endMs": 27400
+			"startMs": 20100,
+			"endMs": 22800
 		},
 		{
 			"speaker": "說書人",
 			"text": "上九何天之衢,亨。",
-			"startMs": 27400,
-			"endMs": 30820
+			"startMs": 22800,
+			"endMs": 25500
 		}
 	]
 }

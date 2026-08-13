@@ -3,55 +3,55 @@
 	"title": "第十四卦 大有",
 	"language": "zh-TW",
 	"audio": "/audio/v2/short-stories/hex14.mp3",
-	"durationMs": 29780,
+	"durationMs": 27820,
 	"segments": [
 		{
 			"speaker": "說書人",
 			"text": "第十四卦,大有。",
 			"startMs": 0,
-			"endMs": 1940
+			"endMs": 1660
 		},
 		{
 			"speaker": "說書人",
 			"text": "大有元亨。",
-			"startMs": 1940,
-			"endMs": 4080
+			"startMs": 1660,
+			"endMs": 3840
 		},
 		{
 			"speaker": "說書人",
 			"text": "初九无交害,匪咎,艱則无咎。",
-			"startMs": 4080,
-			"endMs": 8400
+			"startMs": 3840,
+			"endMs": 8000
 		},
 		{
 			"speaker": "說書人",
 			"text": "九二大車以載,有攸往,无咎。",
-			"startMs": 8400,
-			"endMs": 12960
+			"startMs": 8000,
+			"endMs": 11880
 		},
 		{
 			"speaker": "說書人",
 			"text": "九三公用亨于天子,小人弗克。",
-			"startMs": 12960,
-			"endMs": 18120
+			"startMs": 11880,
+			"endMs": 16360
 		},
 		{
 			"speaker": "說書人",
 			"text": "九四匪其彭,无咎。",
-			"startMs": 18120,
-			"endMs": 21340
+			"startMs": 16360,
+			"endMs": 19220
 		},
 		{
 			"speaker": "說書人",
 			"text": "六五厥孚交如,威如,吉。",
-			"startMs": 21340,
-			"endMs": 25500
+			"startMs": 19220,
+			"endMs": 23100
 		},
 		{
 			"speaker": "說書人",
 			"text": "上九自天祐之,吉无不利。",
-			"startMs": 25500,
-			"endMs": 29780
+			"startMs": 23100,
+			"endMs": 27820
 		}
 	]
 }

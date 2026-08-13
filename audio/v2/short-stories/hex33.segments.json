@@ -3,55 +3,55 @@
 	"title": "第三十三卦 遯",
 	"language": "zh-TW",
 	"audio": "/audio/v2/short-stories/hex33.mp3",
-	"durationMs": 29820,
+	"durationMs": 26180,
 	"segments": [
 		{
 			"speaker": "說書人",
 			"text": "第三十三卦,遯。",
 			"startMs": 0,
-			"endMs": 1780
+			"endMs": 1620
 		},
 		{
 			"speaker": "說書人",
 			"text": "遯亨,小利貞。",
-			"startMs": 1780,
-			"endMs": 4680
+			"startMs": 1620,
+			"endMs": 4320
 		},
 		{
 			"speaker": "說書人",
 			"text": "初六遯尾,厲,勿用有攸往。",
-			"startMs": 4680,
-			"endMs": 9280
+			"startMs": 4320,
+			"endMs": 8000
 		},
 		{
 			"speaker": "說書人",
 			"text": "六二執之用黃牛之革,莫之勝說。",
-			"startMs": 9280,
-			"endMs": 14640
+			"startMs": 8000,
+			"endMs": 12680
 		},
 		{
 			"speaker": "說書人",
 			"text": "九三係遯,有疾厲,畜臣妾吉。",
-			"startMs": 14640,
-			"endMs": 19760
+			"startMs": 12680,
+			"endMs": 16920
 		},
 		{
 			"speaker": "說書人",
 			"text": "九四好遯,君子吉,小人否。",
-			"startMs": 19760,
-			"endMs": 24220
+			"startMs": 16920,
+			"endMs": 20620
 		},
 		{
 			"speaker": "說書人",
 			"text": "九五嘉遯,貞吉。",
-			"startMs": 24220,
-			"endMs": 26480
+			"startMs": 20620,
+			"endMs": 23360
 		},
 		{
 			"speaker": "說書人",
 			"text": "上九肥遯,无不利。",
-			"startMs": 26480,
-			"endMs": 29820
+			"startMs": 23360,
+			"endMs": 26180
 		}
 	]
 }

@@ -3,55 +3,55 @@
 	"title": "第三卦 屯",
 	"language": "zh-TW",
 	"audio": "/audio/v2/short-stories/hex03.mp3",
-	"durationMs": 45780,
+	"durationMs": 36340,
 	"segments": [
 		{
 			"speaker": "說書人",
 			"text": "第三卦,屯。",
 			"startMs": 0,
-			"endMs": 1900
+			"endMs": 1340
 		},
 		{
 			"speaker": "說書人",
 			"text": "屯元亨,利貞。勿用有攸往,利建侯。",
-			"startMs": 1900,
-			"endMs": 8060
+			"startMs": 1340,
+			"endMs": 6380
 		},
 		{
 			"speaker": "說書人",
 			"text": "初九磐桓,利居貞,利建侯。",
-			"startMs": 8060,
-			"endMs": 13160
+			"startMs": 6380,
+			"endMs": 10080
 		},
 		{
 			"speaker": "說書人",
 			"text": "六二屯如邅如,乘馬班如。匪寇婚媾,女子貞不字,十年乃字。",
-			"startMs": 13160,
-			"endMs": 22660
+			"startMs": 10080,
+			"endMs": 18140
 		},
 		{
 			"speaker": "說書人",
 			"text": "六三即鹿无虞,惟入于林中,君子幾不如舍,往吝。",
-			"startMs": 22660,
-			"endMs": 30680
+			"startMs": 18140,
+			"endMs": 24160
 		},
 		{
 			"speaker": "說書人",
 			"text": "六四乘馬班如,求婚媾,往吉,无不利。",
-			"startMs": 30680,
-			"endMs": 36600
+			"startMs": 24160,
+			"endMs": 28760
 		},
 		{
 			"speaker": "說書人",
 			"text": "九五屯其膏,小貞吉,大貞凶。",
-			"startMs": 36600,
-			"endMs": 41180
+			"startMs": 28760,
+			"endMs": 32460
 		},
 		{
 			"speaker": "說書人",
 			"text": "上六乘馬班如,泣血漣如。",
-			"startMs": 41180,
-			"endMs": 45780
+			"startMs": 32460,
+			"endMs": 36340
 		}
 	]
 }

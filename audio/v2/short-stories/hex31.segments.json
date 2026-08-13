@@ -3,55 +3,55 @@
 	"title": "第三十一卦 咸",
 	"language": "zh-TW",
 	"audio": "/audio/v2/short-stories/hex31.mp3",
-	"durationMs": 30920,
+	"durationMs": 24600,
 	"segments": [
 		{
 			"speaker": "說書人",
 			"text": "第三十一卦,咸。",
 			"startMs": 0,
-			"endMs": 2340
+			"endMs": 1660
 		},
 		{
 			"speaker": "說書人",
 			"text": "咸亨,利貞,取女吉。",
-			"startMs": 2340,
-			"endMs": 6320
+			"startMs": 1660,
+			"endMs": 4840
 		},
 		{
 			"speaker": "說書人",
 			"text": "初六咸其拇。",
-			"startMs": 6320,
-			"endMs": 8780
+			"startMs": 4840,
+			"endMs": 7260
 		},
 		{
 			"speaker": "說書人",
 			"text": "六二咸其腓,凶,居吉。",
-			"startMs": 8780,
-			"endMs": 13080
+			"startMs": 7260,
+			"endMs": 10320
 		},
 		{
 			"speaker": "說書人",
 			"text": "九三咸其股,執其隨,往吝。",
-			"startMs": 13080,
-			"endMs": 17980
+			"startMs": 10320,
+			"endMs": 13700
 		},
 		{
 			"speaker": "說書人",
 			"text": "九四貞吉,悔亡。憧憧往來,朋從爾思。",
-			"startMs": 17980,
-			"endMs": 24600
+			"startMs": 13700,
+			"endMs": 19040
 		},
 		{
 			"speaker": "說書人",
 			"text": "九五咸其脢,无悔。",
-			"startMs": 24600,
-			"endMs": 27500
+			"startMs": 19040,
+			"endMs": 21780
 		},
 		{
 			"speaker": "說書人",
 			"text": "上六咸其輔頰舌。",
-			"startMs": 27500,
-			"endMs": 30920
+			"startMs": 21780,
+			"endMs": 24600
 		}
 	]
 }

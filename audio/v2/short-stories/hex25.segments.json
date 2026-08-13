@@ -3,55 +3,55 @@
 	"title": "第二十五卦 无妄",
 	"language": "zh-TW",
 	"audio": "/audio/v2/short-stories/hex25.mp3",
-	"durationMs": 36540,
+	"durationMs": 31340,
 	"segments": [
 		{
 			"speaker": "說書人",
 			"text": "第二十五卦,无妄。",
 			"startMs": 0,
-			"endMs": 2660
+			"endMs": 1660
 		},
 		{
 			"speaker": "說書人",
 			"text": "无妄元亨利貞。其匪正有眚,不利有攸往。",
-			"startMs": 2660,
-			"endMs": 8920
+			"startMs": 1660,
+			"endMs": 7160
 		},
 		{
 			"speaker": "說書人",
 			"text": "初九无妄,往吉。",
-			"startMs": 8920,
-			"endMs": 12220
+			"startMs": 7160,
+			"endMs": 9740
 		},
 		{
 			"speaker": "說書人",
 			"text": "六二不耕穫,不菑畬,則利有攸往。",
-			"startMs": 12220,
-			"endMs": 17340
+			"startMs": 9740,
+			"endMs": 14180
 		},
 		{
 			"speaker": "說書人",
 			"text": "六三无妄之災,或繫之牛,行人之得,邑人之災。",
-			"startMs": 17340,
-			"endMs": 24860
+			"startMs": 14180,
+			"endMs": 20740
 		},
 		{
 			"speaker": "說書人",
 			"text": "九四可貞,无咎。",
-			"startMs": 24860,
-			"endMs": 27840
+			"startMs": 20740,
+			"endMs": 23280
 		},
 		{
 			"speaker": "說書人",
 			"text": "九五无妄之疾,勿藥有喜。",
-			"startMs": 27840,
-			"endMs": 32000
+			"startMs": 23280,
+			"endMs": 27480
 		},
 		{
 			"speaker": "說書人",
 			"text": "上九无妄,行有眚,无攸利。",
-			"startMs": 32000,
-			"endMs": 36540
+			"startMs": 27480,
+			"endMs": 31340
 		}
 	]
 }

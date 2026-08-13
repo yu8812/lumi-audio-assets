@@ -3,55 +3,55 @@
 	"title": "第五卦 需",
 	"language": "zh-TW",
 	"audio": "/audio/v2/short-stories/hex05.mp3",
-	"durationMs": 33880,
+	"durationMs": 26560,
 	"segments": [
 		{
 			"speaker": "說書人",
 			"text": "第五卦,需。",
 			"startMs": 0,
-			"endMs": 1620
+			"endMs": 1380
 		},
 		{
 			"speaker": "說書人",
 			"text": "需有孚,光亨,貞吉。利涉大川。",
-			"startMs": 1620,
-			"endMs": 7300
+			"startMs": 1380,
+			"endMs": 5500
 		},
 		{
 			"speaker": "說書人",
 			"text": "初九需于郊,利用恆,无咎。",
-			"startMs": 7300,
-			"endMs": 11640
+			"startMs": 5500,
+			"endMs": 8920
 		},
 		{
 			"speaker": "說書人",
 			"text": "九二需于沙,小有言,終吉。",
-			"startMs": 11640,
-			"endMs": 16100
+			"startMs": 8920,
+			"endMs": 12180
 		},
 		{
 			"speaker": "說書人",
 			"text": "九三需于泥,致寇至。",
-			"startMs": 16100,
-			"endMs": 20240
+			"startMs": 12180,
+			"endMs": 15120
 		},
 		{
 			"speaker": "說書人",
 			"text": "六四需于血,出自穴。",
-			"startMs": 20240,
-			"endMs": 23900
+			"startMs": 15120,
+			"endMs": 18140
 		},
 		{
 			"speaker": "說書人",
 			"text": "九五需于酒食,貞吉。",
-			"startMs": 23900,
-			"endMs": 27560
+			"startMs": 18140,
+			"endMs": 21000
 		},
 		{
 			"speaker": "說書人",
 			"text": "上六入于穴,有不速之客三人來,敬之終吉。",
-			"startMs": 27560,
-			"endMs": 33880
+			"startMs": 21000,
+			"endMs": 26560
 		}
 	]
 }

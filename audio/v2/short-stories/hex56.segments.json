@@ -3,55 +3,55 @@
 	"title": "第五十六卦 旅",
 	"language": "zh-TW",
 	"audio": "/audio/v2/short-stories/hex56.mp3",
-	"durationMs": 37800,
+	"durationMs": 31560,
 	"segments": [
 		{
 			"speaker": "說書人",
 			"text": "第五十六卦,旅。",
 			"startMs": 0,
-			"endMs": 2060
+			"endMs": 1540
 		},
 		{
 			"speaker": "說書人",
 			"text": "旅小亨,旅貞吉。",
-			"startMs": 2060,
-			"endMs": 5480
+			"startMs": 1540,
+			"endMs": 4920
 		},
 		{
 			"speaker": "說書人",
 			"text": "初六旅瑣瑣,斯其所取災。",
-			"startMs": 5480,
-			"endMs": 9860
+			"startMs": 4920,
+			"endMs": 8380
 		},
 		{
 			"speaker": "說書人",
 			"text": "六二旅即次,懷其資,得童僕貞。",
-			"startMs": 9860,
-			"endMs": 15060
+			"startMs": 8380,
+			"endMs": 12820
 		},
 		{
 			"speaker": "說書人",
 			"text": "九三旅焚其次,喪其童僕,貞厲。",
-			"startMs": 15060,
-			"endMs": 20100
+			"startMs": 12820,
+			"endMs": 17100
 		},
 		{
 			"speaker": "說書人",
 			"text": "九四旅于處,得其資斧,我心不快。",
-			"startMs": 20100,
-			"endMs": 25420
+			"startMs": 17100,
+			"endMs": 21340
 		},
 		{
 			"speaker": "說書人",
 			"text": "六五射雉,一矢亡,終以譽命。",
-			"startMs": 25420,
-			"endMs": 30340
+			"startMs": 21340,
+			"endMs": 25260
 		},
 		{
 			"speaker": "說書人",
 			"text": "上九鳥焚其巢,旅人先笑後號咷。喪牛于易,凶。",
-			"startMs": 30340,
-			"endMs": 37800
+			"startMs": 25260,
+			"endMs": 31560
 		}
 	]
 }

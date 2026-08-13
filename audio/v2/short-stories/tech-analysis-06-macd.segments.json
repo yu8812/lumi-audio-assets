@@ -3,145 +3,145 @@
 	"title": "趨勢指標:MACD",
 	"language": "zh-TW",
 	"audio": "/audio/v2/short-stories/tech-analysis-06-macd.mp3",
-	"durationMs": 191600,
+	"durationMs": 209840,
 	"segments": [
 		{
 			"speaker": "旁白",
 			"text": "趨勢指標:MACD。",
 			"startMs": 0,
-			"endMs": 1820
+			"endMs": 2220
 		},
 		{
 			"speaker": "旁白",
 			"text": "MACD 是最經典的技術指標之一,它想同時抓「趨勢方向」和「動能強弱」。名字看起來嚇人(指數平滑異同移動平均),但拆開來其實就是兩條均線的距離變化。這一課把它講白,也說清楚它為什麼注定慢半拍。",
-			"startMs": 1820,
-			"endMs": 18780
+			"startMs": 2220,
+			"endMs": 20620
 		},
 		{
 			"speaker": "旁白",
 			"text": "定義:三個成分。",
-			"startMs": 18780,
-			"endMs": 20280
+			"startMs": 20620,
+			"endMs": 22200
 		},
 		{
 			"speaker": "旁白",
 			"text": "MACD 由三個東西組成:",
-			"startMs": 20280,
-			"endMs": 22340
+			"startMs": 22200,
+			"endMs": 24460
 		},
 		{
 			"speaker": "旁白",
 			"text": "DIF(快線)等於短天期 EMA − 長天期 EMA(常用 12 日與 26 日)DEA(慢線 / 訊號線)等於DIF 的 9 日 EMA柱狀圖(OSC / BAR)等於DIF − DEA",
-			"startMs": 22340,
-			"endMs": 33680
+			"startMs": 24460,
+			"endMs": 36000
 		},
 		{
 			"speaker": "旁白",
 			"text": "白話理解:",
-			"startMs": 33680,
-			"endMs": 34900
+			"startMs": 36000,
+			"endMs": 37220
 		},
 		{
 			"speaker": "旁白",
 			"text": "DIF 是「短期均線比長期均線高多少」——反映短期動能。DEA 是把 DIF 再平滑一次的「慢線」。柱狀圖 是兩線的差距,用長條畫出來,一眼看動能強弱。",
-			"startMs": 34900,
-			"endMs": 47880
+			"startMs": 37220,
+			"endMs": 51480
 		},
 		{
 			"speaker": "旁白",
 			"text": "怎麼看。",
-			"startMs": 47880,
-			"endMs": 48900
+			"startMs": 51480,
+			"endMs": 52420
 		},
 		{
 			"speaker": "旁白",
 			"text": "① 黃金交叉 / 死亡交叉",
-			"startMs": 48900,
-			"endMs": 51520
+			"startMs": 52420,
+			"endMs": 55080
 		},
 		{
 			"speaker": "旁白",
 			"text": "黃金交叉:DIF(快線)由下往上穿過 DEA(慢線)→ 短期動能轉強,偏多。死亡交叉:DIF 由上往下跌破 DEA → 動能轉弱,偏空。",
-			"startMs": 51520,
-			"endMs": 62440
+			"startMs": 55080,
+			"endMs": 66760
 		},
 		{
 			"speaker": "旁白",
 			"text": "② 零軸(0 軸)",
-			"startMs": 62440,
-			"endMs": 63940
+			"startMs": 66760,
+			"endMs": 68260
 		},
 		{
 			"speaker": "旁白",
 			"text": "DIF、DEA 都在零軸之上 → 多頭格局;都在零軸之下 → 空頭格局。零軸之上的黃金交叉,通常比零軸之下的更可靠(多頭結構裡的轉強)。",
-			"startMs": 63940,
-			"endMs": 76060
+			"startMs": 68260,
+			"endMs": 81340
 		},
 		{
 			"speaker": "旁白",
 			"text": "③ 柱狀圖(動能的即時表情)",
-			"startMs": 76060,
-			"endMs": 78400
+			"startMs": 81340,
+			"endMs": 84000
 		},
 		{
 			"speaker": "旁白",
 			"text": "正值柱(紅):DIF 在 DEA 之上,多方佔優。負值柱(綠):DIF 在 DEA 之下,空方佔優。柱狀由長變短 → 動能在減弱,常是轉折的前兆(比等到交叉更早察覺)。",
-			"startMs": 78400,
-			"endMs": 92360
+			"startMs": 84000,
+			"endMs": 99360
 		},
 		{
 			"speaker": "旁白",
 			"text": "④ 背離",
-			"startMs": 92360,
-			"endMs": 93460
+			"startMs": 99360,
+			"endMs": 100460
 		},
 		{
 			"speaker": "旁白",
 			"text": "股價創新高、但 MACD / 柱狀沒有跟上 → 動能背離,漲勢可能後繼無力(同第 05 課的背離概念)。",
-			"startMs": 93460,
-			"endMs": 100920
+			"startMs": 100460,
+			"endMs": 109920
 		},
 		{
 			"speaker": "旁白",
 			"text": "★ 陷阱:它一定會慢半拍。",
-			"startMs": 100920,
-			"endMs": 102940
+			"startMs": 109920,
+			"endMs": 112100
 		},
 		{
 			"speaker": "旁白",
 			"text": "MACD 是徹底的落後指標:它是用均線(EMA)算出來的,而均線本身就落後(第 03 課)。所以當黃金交叉出現時,股價往往已經漲了一段 —— 你追的是已經發動的行情。🚩 盤整時假訊號一堆:跟均線一樣,在沒有明確趨勢的橫盤裡,MACD 會頻繁金叉死叉,把你巴來巴去。🚩 它抓的是「中期趨勢動能」,不是「精準點位」:別指望用 MACD 抓到最低點買、最高點賣 —— 它適合確認「趨勢動能在增強還減弱」,不適合搶短線的轉折瞬間。",
-			"startMs": 102940,
-			"endMs": 137100
+			"startMs": 112100,
+			"endMs": 149980
 		},
 		{
 			"speaker": "旁白",
 			"text": "正確定位。",
-			"startMs": 137100,
-			"endMs": 138440
+			"startMs": 149980,
+			"endMs": 151160
 		},
 		{
 			"speaker": "旁白",
 			"text": "把 MACD 當成「趨勢動能的確認工具」:順著趨勢時,用它確認動能還在不在;而不是拿它當「一交叉就進出」的自動按鈕。柱狀圖的縮短(動能減弱)常比交叉更早給提示,但一樣要配合趨勢、量與風控。",
-			"startMs": 138440,
-			"endMs": 155760
+			"startMs": 151160,
+			"endMs": 170240
 		},
 		{
 			"speaker": "旁白",
 			"text": "一句話帶走。",
-			"startMs": 155760,
-			"endMs": 156900
+			"startMs": 170240,
+			"endMs": 171620
 		},
 		{
 			"speaker": "旁白",
 			"text": "MACD 說穿了是兩條均線的距離變化:DIF(快)、DEA(慢)、柱狀圖(兩者之差);看金叉/死叉、零軸上下、柱狀縮放、背離判斷趨勢動能。但因為它由均線算出,注定落後(金叉時常已漲一段)、盤整時假訊號多。拿它確認中期趨勢動能,別拿它搶精準點位。",
-			"startMs": 156900,
-			"endMs": 180460
+			"startMs": 171620,
+			"endMs": 197500
 		},
 		{
 			"speaker": "旁白",
 			"text": "最後一課(07):把所有工具收在一起,誠實面對 ——技術分析到底能做什麼、不能做什麼,以及它真正最實在的價值(提示:不是預測,是風控)。",
-			"startMs": 180460,
-			"endMs": 191600
+			"startMs": 197500,
+			"endMs": 209840
 		}
 	]
 }

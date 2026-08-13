@@ -3,55 +3,55 @@
 	"title": "第十五卦 謙",
 	"language": "zh-TW",
 	"audio": "/audio/v2/short-stories/hex15.mp3",
-	"durationMs": 31880,
+	"durationMs": 25240,
 	"segments": [
 		{
 			"speaker": "說書人",
 			"text": "第十五卦,謙。",
 			"startMs": 0,
-			"endMs": 1980
+			"endMs": 1460
 		},
 		{
 			"speaker": "說書人",
 			"text": "謙亨,君子有終。",
-			"startMs": 1980,
-			"endMs": 5440
+			"startMs": 1460,
+			"endMs": 4160
 		},
 		{
 			"speaker": "說書人",
 			"text": "初六謙謙君子,用涉大川,吉。",
-			"startMs": 5440,
-			"endMs": 10480
+			"startMs": 4160,
+			"endMs": 8400
 		},
 		{
 			"speaker": "說書人",
 			"text": "六二鳴謙,貞吉。",
-			"startMs": 10480,
-			"endMs": 13940
+			"startMs": 8400,
+			"endMs": 10980
 		},
 		{
 			"speaker": "說書人",
 			"text": "九三勞謙,君子有終,吉。",
-			"startMs": 13940,
-			"endMs": 18080
+			"startMs": 10980,
+			"endMs": 14360
 		},
 		{
 			"speaker": "說書人",
 			"text": "六四无不利,撝謙。",
-			"startMs": 18080,
-			"endMs": 21060
+			"startMs": 14360,
+			"endMs": 16900
 		},
 		{
 			"speaker": "說書人",
 			"text": "六五不富以其鄰,利用侵伐,无不利。",
-			"startMs": 21060,
-			"endMs": 26940
+			"startMs": 16900,
+			"endMs": 21740
 		},
 		{
 			"speaker": "說書人",
 			"text": "上六鳴謙,利用行師,征邑國。",
-			"startMs": 26940,
-			"endMs": 31880
+			"startMs": 21740,
+			"endMs": 25240
 		}
 	]
 }

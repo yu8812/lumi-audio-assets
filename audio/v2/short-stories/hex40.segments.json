@@ -3,55 +3,55 @@
 	"title": "第四十卦 解",
 	"language": "zh-TW",
 	"audio": "/audio/v2/short-stories/hex40.mp3",
-	"durationMs": 37540,
+	"durationMs": 29580,
 	"segments": [
 		{
 			"speaker": "說書人",
 			"text": "第四十卦,解。",
 			"startMs": 0,
-			"endMs": 1860
+			"endMs": 1500
 		},
 		{
 			"speaker": "說書人",
 			"text": "解利西南。无所往,其來復吉;有攸往,夙吉。",
-			"startMs": 1860,
-			"endMs": 9400
+			"startMs": 1500,
+			"endMs": 8000
 		},
 		{
 			"speaker": "說書人",
 			"text": "初六无咎。",
-			"startMs": 9400,
-			"endMs": 11580
+			"startMs": 8000,
+			"endMs": 10020
 		},
 		{
 			"speaker": "說書人",
 			"text": "九二田獲三狐,得黃矢,貞吉。",
-			"startMs": 11580,
-			"endMs": 16660
+			"startMs": 10020,
+			"endMs": 14140
 		},
 		{
 			"speaker": "說書人",
 			"text": "六三負且乘,致寇至,貞吝。",
-			"startMs": 16660,
-			"endMs": 21240
+			"startMs": 14140,
+			"endMs": 17640
 		},
 		{
 			"speaker": "說書人",
 			"text": "九四解而拇,朋至斯孚。",
-			"startMs": 21240,
-			"endMs": 25460
+			"startMs": 17640,
+			"endMs": 20580
 		},
 		{
 			"speaker": "說書人",
 			"text": "六五君子維有解,吉,有孚于小人。",
-			"startMs": 25460,
-			"endMs": 30940
+			"startMs": 20580,
+			"endMs": 24740
 		},
 		{
 			"speaker": "說書人",
 			"text": "上六公用射隼于高墉之上,獲之,无不利。",
-			"startMs": 30940,
-			"endMs": 37540
+			"startMs": 24740,
+			"endMs": 29580
 		}
 	]
 }

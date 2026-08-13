@@ -3,55 +3,55 @@
 	"title": "第四十九卦 革",
 	"language": "zh-TW",
 	"audio": "/audio/v2/short-stories/hex49.mp3",
-	"durationMs": 36080,
+	"durationMs": 30240,
 	"segments": [
 		{
 			"speaker": "說書人",
 			"text": "第四十九卦,革。",
 			"startMs": 0,
-			"endMs": 2020
+			"endMs": 1660
 		},
 		{
 			"speaker": "說書人",
 			"text": "革巳日乃孚,元亨利貞,悔亡。",
-			"startMs": 2020,
-			"endMs": 7620
+			"startMs": 1660,
+			"endMs": 6140
 		},
 		{
 			"speaker": "說書人",
 			"text": "初九鞏用黃牛之革。",
-			"startMs": 7620,
-			"endMs": 11000
+			"startMs": 6140,
+			"endMs": 9160
 		},
 		{
 			"speaker": "說書人",
 			"text": "六二巳日乃革之,征吉,无咎。",
-			"startMs": 11000,
-			"endMs": 15960
+			"startMs": 9160,
+			"endMs": 13240
 		},
 		{
 			"speaker": "說書人",
 			"text": "九三征凶,貞厲。革言三就,有孚。",
-			"startMs": 15960,
-			"endMs": 21320
+			"startMs": 13240,
+			"endMs": 17800
 		},
 		{
 			"speaker": "說書人",
 			"text": "九四悔亡,有孚改命,吉。",
-			"startMs": 21320,
-			"endMs": 25700
+			"startMs": 17800,
+			"endMs": 21100
 		},
 		{
 			"speaker": "說書人",
 			"text": "九五大人虎變,未占有孚。",
-			"startMs": 25700,
-			"endMs": 29660
+			"startMs": 21100,
+			"endMs": 24900
 		},
 		{
 			"speaker": "說書人",
 			"text": "上六君子豹變,小人革面,征吉,居貞吉。",
-			"startMs": 29660,
-			"endMs": 36080
+			"startMs": 24900,
+			"endMs": 30240
 		}
 	]
 }

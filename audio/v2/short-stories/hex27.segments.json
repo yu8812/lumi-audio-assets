@@ -3,55 +3,55 @@
 	"title": "第二十七卦 頤",
 	"language": "zh-TW",
 	"audio": "/audio/v2/short-stories/hex27.mp3",
-	"durationMs": 38560,
+	"durationMs": 32800,
 	"segments": [
 		{
 			"speaker": "說書人",
 			"text": "第二十七卦,頤。",
 			"startMs": 0,
-			"endMs": 1900
+			"endMs": 1500
 		},
 		{
 			"speaker": "說書人",
 			"text": "頤貞吉。觀頤,自求口實。",
-			"startMs": 1900,
-			"endMs": 6420
+			"startMs": 1500,
+			"endMs": 6100
 		},
 		{
 			"speaker": "說書人",
 			"text": "初九舍爾靈龜,觀我朵頤,凶。",
-			"startMs": 6420,
-			"endMs": 10940
+			"startMs": 6100,
+			"endMs": 9980
 		},
 		{
 			"speaker": "說書人",
 			"text": "六二顛頤,拂經,于丘頤,征凶。",
-			"startMs": 10940,
-			"endMs": 16460
+			"startMs": 9980,
+			"endMs": 14220
 		},
 		{
 			"speaker": "說書人",
 			"text": "六三拂頤,貞凶,十年勿用,无攸利。",
-			"startMs": 16460,
-			"endMs": 21780
+			"startMs": 14220,
+			"endMs": 18900
 		},
 		{
 			"speaker": "說書人",
 			"text": "六四顛頤,吉。虎視眈眈,其欲逐逐,无咎。",
-			"startMs": 21780,
-			"endMs": 28200
+			"startMs": 18900,
+			"endMs": 24200
 		},
 		{
 			"speaker": "說書人",
 			"text": "六五拂經,居貞吉,不可涉大川。",
-			"startMs": 28200,
-			"endMs": 33680
+			"startMs": 24200,
+			"endMs": 28560
 		},
 		{
 			"speaker": "說書人",
 			"text": "上九由頤,厲吉,利涉大川。",
-			"startMs": 33680,
-			"endMs": 38560
+			"startMs": 28560,
+			"endMs": 32800
 		}
 	]
 }
