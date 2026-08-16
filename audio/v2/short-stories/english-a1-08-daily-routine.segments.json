@@ -3,385 +3,691 @@
 	"title": "我的一天",
 	"language": "zh-TW",
 	"audio": "/audio/v2/short-stories/english-a1-08-daily-routine.mp3",
-	"durationMs": 219303,
+	"durationMs": 279735,
 	"segments": [
 		{
 			"speaker": "中文",
-			"text": "我的一天。這一課你會學會。用英語說出你每天做的事——起床、上班/上學、吃飯、睡覺,並且會看、會說幾點鐘。這一課會正式學到英語最重要的時態:現在簡單式(講習慣、每天做的事)。先聽一段對話",
+			"text": "我的一天",
 			"startMs": 0,
-			"endMs": 19240
+			"endMs": 1180
+		},
+		{
+			"speaker": "中文",
+			"text": "這一課你會學會",
+			"startMs": 1580,
+			"endMs": 3240
+		},
+		{
+			"speaker": "中文",
+			"text": "用英語說出你每天做的事——起床、上班、上學、吃飯、睡覺,並且會看、會說幾點鐘。",
+			"startMs": 3640,
+			"endMs": 12260
+		},
+		{
+			"speaker": "中文",
+			"text": "這一課會正式學到英語最重要的時態:現在簡單式(講習慣、每天做的事)。",
+			"startMs": 12660,
+			"endMs": 18820
+		},
+		{
+			"speaker": "中文",
+			"text": "先聽一段對話",
+			"startMs": 19220,
+			"endMs": 20720
 		},
 		{
 			"speaker": "English",
 			"text": "What time do you get up?",
-			"startMs": 19240,
-			"endMs": 20755
+			"startMs": 21120,
+			"endMs": 22400
 		},
 		{
 			"speaker": "中文",
 			"text": "你幾點起床?",
-			"startMs": 20755,
-			"endMs": 22215
+			"startMs": 22800,
+			"endMs": 24260
 		},
 		{
 			"speaker": "English",
-			"text": "I get up at seven. Then I go to work.",
-			"startMs": 22215,
-			"endMs": 24924
+			"text": "I get up at seven.",
+			"startMs": 24660,
+			"endMs": 26196
+		},
+		{
+			"speaker": "English",
+			"text": "Then I go to work.",
+			"startMs": 26596,
+			"endMs": 28068
 		},
 		{
 			"speaker": "中文",
-			"text": "我七點起床。然後去上班。",
-			"startMs": 24924,
-			"endMs": 27844
+			"text": "我七點起床。",
+			"startMs": 28468,
+			"endMs": 29968
+		},
+		{
+			"speaker": "中文",
+			"text": "然後去上班。",
+			"startMs": 30368,
+			"endMs": 31788
 		},
 		{
 			"speaker": "English",
 			"text": "When do you have lunch?",
-			"startMs": 27844,
-			"endMs": 29337
+			"startMs": 32188,
+			"endMs": 33255
 		},
 		{
 			"speaker": "中文",
 			"text": "你什麼時候吃午餐?",
-			"startMs": 29337,
-			"endMs": 31157
+			"startMs": 33655,
+			"endMs": 35395
 		},
 		{
 			"speaker": "English",
-			"text": "At twelve. I finish work at six.",
-			"startMs": 31157,
-			"endMs": 33376
+			"text": "At twelve.",
+			"startMs": 35795,
+			"endMs": 36904
+		},
+		{
+			"speaker": "English",
+			"text": "I finish work at six.",
+			"startMs": 37304,
+			"endMs": 38925
 		},
 		{
 			"speaker": "中文",
-			"text": "十二點。我六點下班。關鍵句型。說作息",
-			"startMs": 33376,
-			"endMs": 37456
+			"text": "十二點。",
+			"startMs": 39325,
+			"endMs": 40345
+		},
+		{
+			"speaker": "中文",
+			"text": "我六點下班。",
+			"startMs": 40745,
+			"endMs": 42205
+		},
+		{
+			"speaker": "中文",
+			"text": "關鍵句型",
+			"startMs": 42605,
+			"endMs": 43945
+		},
+		{
+			"speaker": "中文",
+			"text": "說作息",
+			"startMs": 44345,
+			"endMs": 45485
 		},
 		{
 			"speaker": "English",
 			"text": "I get up at.",
-			"startMs": 37456,
-			"endMs": 38629
+			"startMs": 45885,
+			"endMs": 47058
 		},
 		{
 			"speaker": "中文",
 			"text": "我點起床。",
-			"startMs": 38629,
-			"endMs": 39929
+			"startMs": 47458,
+			"endMs": 48798
 		},
 		{
 			"speaker": "English",
-			"text": "I go to work / school.",
-			"startMs": 39929,
-			"endMs": 41742
+			"text": "I go to work or school.",
+			"startMs": 49198,
+			"endMs": 50905
 		},
 		{
 			"speaker": "中文",
 			"text": "我去上班／上學。",
-			"startMs": 41742,
-			"endMs": 43362
+			"startMs": 51305,
+			"endMs": 52925
 		},
 		{
 			"speaker": "English",
-			"text": "I have breakfast / lunch / dinner.",
-			"startMs": 43362,
-			"endMs": 45837
+			"text": "I have breakfast or lunch or dinner.",
+			"startMs": 53325,
+			"endMs": 55565
 		},
 		{
 			"speaker": "中文",
 			"text": "我吃早／午／晚餐。",
-			"startMs": 45837,
-			"endMs": 47537
+			"startMs": 55965,
+			"endMs": 57625
 		},
 		{
 			"speaker": "English",
 			"text": "I go to bed at.",
-			"startMs": 47537,
-			"endMs": 48881
+			"startMs": 58025,
+			"endMs": 59369
 		},
 		{
 			"speaker": "中文",
-			"text": "我點睡覺。問時間 / 作息",
-			"startMs": 48881,
-			"endMs": 51641
+			"text": "我點睡覺。",
+			"startMs": 59769,
+			"endMs": 60989
+		},
+		{
+			"speaker": "中文",
+			"text": "問時間、作息",
+			"startMs": 61389,
+			"endMs": 63009
 		},
 		{
 			"speaker": "English",
 			"text": "What time do you?",
-			"startMs": 51641,
-			"endMs": 52942
+			"startMs": 63409,
+			"endMs": 64710
 		},
 		{
 			"speaker": "中文",
 			"text": "你幾點?",
-			"startMs": 52942,
-			"endMs": 53962
+			"startMs": 65110,
+			"endMs": 66170
 		},
 		{
 			"speaker": "English",
 			"text": "What time is it?",
-			"startMs": 53962,
-			"endMs": 55221
-		},
-		{
-			"speaker": "中文",
-			"text": "現在幾點? It's.高頻單字",
-			"startMs": 55221,
-			"endMs": 57941
-		},
-		{
-			"speaker": "English",
-			"text": "get up",
-			"startMs": 57941,
-			"endMs": 58688
-		},
-		{
-			"speaker": "中文",
-			"text": "起床",
-			"startMs": 58688,
-			"endMs": 59748
-		},
-		{
-			"speaker": "English",
-			"text": "I get up early.",
-			"startMs": 59748,
-			"endMs": 61156
-		},
-		{
-			"speaker": "中文",
-			"text": "我很早起。",
-			"startMs": 61156,
-			"endMs": 62416
-		},
-		{
-			"speaker": "English",
-			"text": "go",
-			"startMs": 62416,
-			"endMs": 63120
-		},
-		{
-			"speaker": "中文",
-			"text": "去",
-			"startMs": 63120,
-			"endMs": 63900
-		},
-		{
-			"speaker": "English",
-			"text": "I go to work.",
-			"startMs": 63900,
-			"endMs": 65159
-		},
-		{
-			"speaker": "中文",
-			"text": "我去上班。",
-			"startMs": 65159,
-			"endMs": 66379
-		},
-		{
-			"speaker": "English",
-			"text": "work",
-			"startMs": 66379,
-			"endMs": 67062
-		},
-		{
-			"speaker": "中文",
-			"text": "工作、上班",
-			"startMs": 67062,
-			"endMs": 68522
-		},
-		{
-			"speaker": "English",
-			"text": "I work in an office.",
-			"startMs": 68522,
-			"endMs": 70101
-		},
-		{
-			"speaker": "中文",
-			"text": "我在辦公室工作。",
-			"startMs": 70101,
-			"endMs": 71681
-		},
-		{
-			"speaker": "English",
-			"text": "eat",
-			"startMs": 71681,
-			"endMs": 72342
-		},
-		{
-			"speaker": "中文",
-			"text": "吃",
-			"startMs": 72342,
-			"endMs": 73082
-		},
-		{
-			"speaker": "English",
-			"text": "I eat breakfast at home.",
-			"startMs": 73082,
-			"endMs": 74746
-		},
-		{
-			"speaker": "中文",
-			"text": "我在家吃早餐。",
-			"startMs": 74746,
-			"endMs": 76366
-		},
-		{
-			"speaker": "English",
-			"text": "time",
-			"startMs": 76366,
-			"endMs": 77155
-		},
-		{
-			"speaker": "中文",
-			"text": "時間",
-			"startMs": 77155,
-			"endMs": 78175
-		},
-		{
-			"speaker": "English",
-			"text": "What time is it?",
-			"startMs": 78175,
-			"endMs": 79434
+			"startMs": 66570,
+			"endMs": 67829
 		},
 		{
 			"speaker": "中文",
 			"text": "現在幾點?",
-			"startMs": 79434,
-			"endMs": 80614
+			"startMs": 68229,
+			"endMs": 69489
+		},
+		{
+			"speaker": "中文",
+			"text": "It's.",
+			"startMs": 69889,
+			"endMs": 70709
+		},
+		{
+			"speaker": "中文",
+			"text": "高頻單字",
+			"startMs": 71109,
+			"endMs": 72409
+		},
+		{
+			"speaker": "English",
+			"text": "get up",
+			"startMs": 72809,
+			"endMs": 73556
+		},
+		{
+			"speaker": "中文",
+			"text": "起床",
+			"startMs": 73956,
+			"endMs": 74896
+		},
+		{
+			"speaker": "English",
+			"text": "I get up early.",
+			"startMs": 75296,
+			"endMs": 76704
+		},
+		{
+			"speaker": "中文",
+			"text": "我很早起。",
+			"startMs": 77104,
+			"endMs": 78324
+		},
+		{
+			"speaker": "English",
+			"text": "go",
+			"startMs": 78724,
+			"endMs": 79428
+		},
+		{
+			"speaker": "中文",
+			"text": "去",
+			"startMs": 79828,
+			"endMs": 80808
+		},
+		{
+			"speaker": "English",
+			"text": "I go to work.",
+			"startMs": 81208,
+			"endMs": 82467
+		},
+		{
+			"speaker": "中文",
+			"text": "我去上班。",
+			"startMs": 82867,
+			"endMs": 84087
+		},
+		{
+			"speaker": "English",
+			"text": "work",
+			"startMs": 84487,
+			"endMs": 85170
+		},
+		{
+			"speaker": "中文",
+			"text": "工作、上班",
+			"startMs": 85570,
+			"endMs": 86910
+		},
+		{
+			"speaker": "English",
+			"text": "I work in an office.",
+			"startMs": 87310,
+			"endMs": 88889
+		},
+		{
+			"speaker": "中文",
+			"text": "我在辦公室工作。",
+			"startMs": 89289,
+			"endMs": 91069
+		},
+		{
+			"speaker": "English",
+			"text": "eat",
+			"startMs": 91469,
+			"endMs": 92130
+		},
+		{
+			"speaker": "中文",
+			"text": "吃",
+			"startMs": 92530,
+			"endMs": 93270
+		},
+		{
+			"speaker": "English",
+			"text": "I eat breakfast at home.",
+			"startMs": 93670,
+			"endMs": 95334
+		},
+		{
+			"speaker": "中文",
+			"text": "我在家吃早餐。",
+			"startMs": 95734,
+			"endMs": 97314
+		},
+		{
+			"speaker": "English",
+			"text": "time",
+			"startMs": 97714,
+			"endMs": 98503
+		},
+		{
+			"speaker": "中文",
+			"text": "時間",
+			"startMs": 98903,
+			"endMs": 99883
+		},
+		{
+			"speaker": "English",
+			"text": "What time is it?",
+			"startMs": 100283,
+			"endMs": 101542
+		},
+		{
+			"speaker": "中文",
+			"text": "現在幾點?",
+			"startMs": 101942,
+			"endMs": 103162
 		},
 		{
 			"speaker": "English",
 			"text": "morning",
-			"startMs": 80614,
-			"endMs": 81489
+			"startMs": 103562,
+			"endMs": 104437
 		},
 		{
 			"speaker": "中文",
-			"text": "早上。in the morning（在早上)",
-			"startMs": 81489,
-			"endMs": 83509
+			"text": "早上",
+			"startMs": 104837,
+			"endMs": 105737
+		},
+		{
+			"speaker": "中文",
+			"text": "in the morning（在早上)",
+			"startMs": 106137,
+			"endMs": 107717
 		},
 		{
 			"speaker": "English",
 			"text": "night",
-			"startMs": 83509,
-			"endMs": 84234
+			"startMs": 108117,
+			"endMs": 108842
 		},
 		{
 			"speaker": "中文",
-			"text": "晚上、夜。at night（在晚上)。文法點:現在簡單式(講每天/習慣)。要說「我每天做的事、習慣」,英語用現在簡單式。它的形式最簡單——動詞用原形:",
-			"startMs": 84234,
-			"endMs": 97794
+			"text": "晚上、夜",
+			"startMs": 109242,
+			"endMs": 110382
+		},
+		{
+			"speaker": "中文",
+			"text": "at night（在晚上)",
+			"startMs": 110782,
+			"endMs": 112202
+		},
+		{
+			"speaker": "中文",
+			"text": "文法點:現在簡單式(講每天、習慣)",
+			"startMs": 112602,
+			"endMs": 116102
+		},
+		{
+			"speaker": "中文",
+			"text": "要說「我每天做的事、習慣」,英語用現在簡單式。",
+			"startMs": 116502,
+			"endMs": 120662
+		},
+		{
+			"speaker": "中文",
+			"text": "它的形式最簡單——動詞用原形:",
+			"startMs": 121062,
+			"endMs": 124162
 		},
 		{
 			"speaker": "English",
-			"text": "I / You / We / They get up / go / eat / work. I work in Taipei.",
-			"startMs": 97794,
-			"endMs": 104066
+			"text": "I or You or We or They get up or go or eat or work.",
+			"startMs": 124562,
+			"endMs": 128061
+		},
+		{
+			"speaker": "English",
+			"text": "I work in Taipei.",
+			"startMs": 128461,
+			"endMs": 130018
 		},
 		{
 			"speaker": "中文",
 			"text": "我在台北工作。",
-			"startMs": 104066,
-			"endMs": 105646
+			"startMs": 130418,
+			"endMs": 131958
 		},
 		{
 			"speaker": "English",
 			"text": "They go to school.",
-			"startMs": 105646,
-			"endMs": 106883
+			"startMs": 132358,
+			"endMs": 133595
 		},
 		{
 			"speaker": "中文",
-			"text": "他們去上學。⚠ 第三人稱單數(he / she / it)動詞要加 -s:",
-			"startMs": 106883,
-			"endMs": 111843
+			"text": "他們去上學。",
+			"startMs": 133995,
+			"endMs": 135295
+		},
+		{
+			"speaker": "中文",
+			"text": "⚠ 第三人稱單數(he、she、it)動詞要加 -s:",
+			"startMs": 135695,
+			"endMs": 140615
 		},
 		{
 			"speaker": "English",
 			"text": "He works in a bank.",
-			"startMs": 111843,
-			"endMs": 113187
+			"startMs": 141015,
+			"endMs": 142359
 		},
 		{
 			"speaker": "中文",
 			"text": "他在銀行上班。",
-			"startMs": 113187,
-			"endMs": 114687
+			"startMs": 142759,
+			"endMs": 144219
 		},
 		{
 			"speaker": "English",
 			"text": "She gets up at six.",
-			"startMs": 114687,
-			"endMs": 116159
+			"startMs": 144619,
+			"endMs": 146091
 		},
 		{
 			"speaker": "中文",
-			"text": "她六點起床。這跟上一課的 has（havehas)是同一個規則:主詞是「他/她/它」時,動詞要變。 這是中文母語者最常漏的,先養成習慣。",
-			"startMs": 116159,
-			"endMs": 127499
+			"text": "她六點起床。",
+			"startMs": 146491,
+			"endMs": 148071
+		},
+		{
+			"speaker": "中文",
+			"text": "這跟上一課的 has（havehas)是同一個規則:主詞是「他、她、它」時,動詞要變。",
+			"startMs": 148471,
+			"endMs": 154651
+		},
+		{
+			"speaker": "中文",
+			"text": "這是中文母語者最常漏的,先養成習慣。",
+			"startMs": 155051,
+			"endMs": 158891
+		},
+		{
+			"speaker": "中文",
+			"text": "問句、否定用 do、does:",
+			"startMs": 159291,
+			"endMs": 162331
 		},
 		{
 			"speaker": "English",
-			"text": "Do you work here? Yes, I do. / No, I don't. Does she work here?",
-			"startMs": 127499,
-			"endMs": 131659
+			"text": "Do you work here?",
+			"startMs": 162731,
+			"endMs": 163883
+		},
+		{
+			"speaker": "English",
+			"text": "Yes, I do.",
+			"startMs": 164283,
+			"endMs": 165328
+		},
+		{
+			"speaker": "English",
+			"text": "or No, I don't.",
+			"startMs": 165728,
+			"endMs": 167136
+		},
+		{
+			"speaker": "English",
+			"text": "Does she work here?",
+			"startMs": 167536,
+			"endMs": 168773
 		},
 		{
 			"speaker": "中文",
 			"text": "第三人稱用 does",
-			"startMs": 131659,
-			"endMs": 133399
+			"startMs": 169173,
+			"endMs": 170873
 		},
 		{
 			"speaker": "English",
-			"text": "I don't get up early. She doesn't eat breakfast.",
-			"startMs": 133399,
-			"endMs": 136322
+			"text": "I don't get up early.",
+			"startMs": 171273,
+			"endMs": 172873
+		},
+		{
+			"speaker": "English",
+			"text": "She doesn't eat breakfast.",
+			"startMs": 173273,
+			"endMs": 174937
 		},
 		{
 			"speaker": "中文",
-			"text": "看時間(o'clock)。整點:It's seven o'clock.（七點整)或直接 It's seven.「幾點做某事」用 at：I get up at seven.（介系詞 at 配時間點)。一天的時段:in the morning / afternoon / evening,但 at night。發音提醒。第三人稱 -s 的音:works /s/、goes /z/、watches /ɪz/——跟複數 -s 一樣三種音,跟著唸就好。get up 連讀:t 和 u 連在一起像「ge-tup」,自然滑過去。work /wɝk/:美式的 -or- 有捲舌味,不是「臥克」。開口練習。練習 1:說出你的一天。 照順序講(填上你的時間):",
-			"startMs": 136322,
-			"endMs": 175842
-		},
-		{
-			"speaker": "English",
-			"text": "I get up at. I go to work/school. I have lunch at. I go to bed at.",
-			"startMs": 175842,
-			"endMs": 180322
+			"text": "看時間(o'clock)",
+			"startMs": 175337,
+			"endMs": 176757
 		},
 		{
 			"speaker": "中文",
-			"text": "練習 2:加 -s 嗎? 主詞是他/她就要加:",
-			"startMs": 180322,
-			"endMs": 184842
+			"text": "整點:It's seven o'clock.（七點整)或直接 It's seven.",
+			"startMs": 177157,
+			"endMs": 181197
+		},
+		{
+			"speaker": "中文",
+			"text": "「幾點做某事」用 at：I get up at seven.（介系詞 at 配時間點)",
+			"startMs": 181597,
+			"endMs": 186937
+		},
+		{
+			"speaker": "中文",
+			"text": "一天的時段:in the morning、afternoon、evening,但 at night。",
+			"startMs": 187337,
+			"endMs": 192497
+		},
+		{
+			"speaker": "中文",
+			"text": "發音提醒",
+			"startMs": 192897,
+			"endMs": 194237
+		},
+		{
+			"speaker": "中文",
+			"text": "第三人稱 -s 的音:works、s、、goes、z、、watches、ɪz、——跟複數 -s 一樣三種音,跟著唸就好。",
+			"startMs": 194637,
+			"endMs": 203817
+		},
+		{
+			"speaker": "中文",
+			"text": "get up 連讀:t 和 u 連在一起像「ge-tup」,自然滑過去。",
+			"startMs": 204217,
+			"endMs": 208737
+		},
+		{
+			"speaker": "中文",
+			"text": "work、wɝk、:美式的 -or- 有捲舌味,不是「臥克」。",
+			"startMs": 209137,
+			"endMs": 214197
+		},
+		{
+			"speaker": "中文",
+			"text": "開口練習",
+			"startMs": 214597,
+			"endMs": 215817
+		},
+		{
+			"speaker": "中文",
+			"text": "練習 1:說出你的一天。",
+			"startMs": 216217,
+			"endMs": 218517
+		},
+		{
+			"speaker": "中文",
+			"text": "照順序講(填上你的時間):",
+			"startMs": 218917,
+			"endMs": 221457
 		},
 		{
 			"speaker": "English",
-			"text": "I (work) in Taipei. She (get) up at six. They (go) to school. He (eat) lunch at noon.",
-			"startMs": 184842,
-			"endMs": 190602
+			"text": "I get up at.",
+			"startMs": 221857,
+			"endMs": 223030
+		},
+		{
+			"speaker": "English",
+			"text": "I go to work or school.",
+			"startMs": 223430,
+			"endMs": 225137
+		},
+		{
+			"speaker": "English",
+			"text": "I have lunch at.",
+			"startMs": 225537,
+			"endMs": 226838
+		},
+		{
+			"speaker": "English",
+			"text": "I go to bed at.",
+			"startMs": 227238,
+			"endMs": 228582
+		},
+		{
+			"speaker": "中文",
+			"text": "練習 2:加 -s 嗎?",
+			"startMs": 228982,
+			"endMs": 231162
+		},
+		{
+			"speaker": "中文",
+			"text": "主詞是他、她就要加:",
+			"startMs": 231562,
+			"endMs": 234202
+		},
+		{
+			"speaker": "English",
+			"text": "I (work) in Taipei.",
+			"startMs": 234602,
+			"endMs": 236202
+		},
+		{
+			"speaker": "English",
+			"text": "She (get) up at six.",
+			"startMs": 236602,
+			"endMs": 238074
+		},
+		{
+			"speaker": "English",
+			"text": "They (go) to school.",
+			"startMs": 238474,
+			"endMs": 239818
+		},
+		{
+			"speaker": "English",
+			"text": "He (eat) lunch at noon.",
+			"startMs": 240218,
+			"endMs": 241882
 		},
 		{
 			"speaker": "中文",
 			"text": "練習 3:問時間。",
-			"startMs": 190602,
-			"endMs": 192422
+			"startMs": 242282,
+			"endMs": 244062
 		},
 		{
 			"speaker": "English",
-			"text": "— What time do you get up? — I get up at. — What time is it now? — It's.",
-			"startMs": 192422,
-			"endMs": 196923
+			"text": "— What time do you get up?",
+			"startMs": 244462,
+			"endMs": 246041
+		},
+		{
+			"speaker": "English",
+			"text": "— I get up at.",
+			"startMs": 246441,
+			"endMs": 247657
+		},
+		{
+			"speaker": "English",
+			"text": "— What time is it now?",
+			"startMs": 248057,
+			"endMs": 249572
+		},
+		{
+			"speaker": "English",
+			"text": "— It's.",
+			"startMs": 249972,
+			"endMs": 250655
 		},
 		{
 			"speaker": "中文",
-			"text": "帶走。現在簡單式講「每天/習慣」:動詞用原形;他/她/它主詞時動詞加 -s(works / gets)。問句否定:do / don't(一般)、does / doesn't(他/她/它)。時間:整點 It's o'clock;「幾點做事」用 at;時段用 in the morning / at night。下一課,我們講你的喜好:「我喜歡…」——like / love / don't like。",
-			"startMs": 196923,
-			"endMs": 219303
+			"text": "帶走",
+			"startMs": 251055,
+			"endMs": 251875
+		},
+		{
+			"speaker": "中文",
+			"text": "現在簡單式講「每天、習慣」:動詞用原形;他、她、它主詞時動詞加 -s(works、gets)。",
+			"startMs": 252275,
+			"endMs": 260195
+		},
+		{
+			"speaker": "中文",
+			"text": "問句否定:do、don't(一般)、does、doesn't(他、她、它)。",
+			"startMs": 260595,
+			"endMs": 265975
+		},
+		{
+			"speaker": "中文",
+			"text": "時間:整點 It's o'clock;「幾點做事」用 at;時段用 in the morning、at night。",
+			"startMs": 266375,
+			"endMs": 272855
+		},
+		{
+			"speaker": "中文",
+			"text": "下一課,我們講你的喜好:「我喜歡…」——like、love、don't like。",
+			"startMs": 273255,
+			"endMs": 279335
 		}
 	]
 }
